@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/options.txt"
+hash = "1f5c0a49a6a22c6ae190213b22fa9b148d47f16fef5d4f353cceb9aeef02d802"
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a2de85ebe9629568398185b5b9554bcc0c54e322b214d78368485a6074a66279"
 metafile = true
