@@ -1,0 +1,13 @@
+name = "[MTR] smb112x's APM Pack"
+filename = "smb112x's APM pack.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qF7xcKGa/versions/UJfYqDud/smb112x%27s%20APM%20pack.zip"
+hash-format = "sha512"
+hash = "a9bb95e9357af3db5b64f7cf211d0c060576cf531ab7d43165e356d6255fd1624226a84700c73d3a2f9c4711934a0da9cd4e1658b6d7b35f052e36a802ed2d94"
+
+[update]
+[update.modrinth]
+mod-id = "qF7xcKGa"
+version = "UJfYqDud"

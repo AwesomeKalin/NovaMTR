@@ -1,0 +1,13 @@
+name = "Iarnród Éireann Class 22000"
+filename = "ie22k.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TWb7WTMx/versions/gsq0onyr/ie22k.zip"
+hash-format = "sha512"
+hash = "da3dead59e3e9f4429cb8af23c76c1ed1a867b56059db420912cb33c0cd12f23a2db07192b12fa1818831a42e7c66518f5896e7656174d6daa974c39fe7466b8"
+
+[update]
+[update.modrinth]
+mod-id = "TWb7WTMx"
+version = "gsq0onyr"

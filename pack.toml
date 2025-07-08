@@ -1,0 +1,13 @@
+name = "Nova MTR"
+author = "AwesomeKalin55, Quanti"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0388fdd99cc6a1a14a7f93f2ae9dc77bd47af9da9d71bef0bc6cb48d7f1387e3"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.20.1"
