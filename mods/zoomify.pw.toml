@@ -11,3 +11,8 @@ hash = "89ac40fd2bf8fe36725c6fefbf670e8fec39a2775b5615b007492bcbd0a06ba5ee1409b6
 [update.modrinth]
 mod-id = "w7ThoJFB"
 version = "VsZyF8DS"
+
+[option]
+optional = true
+default = false
+description = "Adds Zooming"
