@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1f5c0a49a6a22c6ae190213b22fa9b148d47f16fef5d4f353cceb9aeef02d802"
+hash = "2c97b821961a798736476010e59c8090d725bc684e6cdbc3dbfed62333766e7e"
 
 [[files]]
 file = "mods/axiom.pw.toml"
@@ -315,4 +315,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-smb112x-apm-pack.pw.toml"
 hash = "8586cb1185c12ee323f8cc59359c53f9e1276bf8063b9e2e83a0f658b6d12441"
+metafile = true
+
+[[files]]
+file = "resourcepacks/soodaris-retextured-trains.pw.toml"
+hash = "828f34e9fcbb3d06ad1e087f42d79c75ae4c8a04df5762ba0f49aef03b6f6807"
 metafile = true
