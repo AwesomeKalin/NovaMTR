@@ -1,8 +1,5 @@
 # Exclude exported CurseForge zip files
-*.zip
+NovaMTR MultiMC.zip
 
 # Exclude exported Modrinth modpacks
 *.mrpack
-
-# Exclude plain mods version
-plain/
