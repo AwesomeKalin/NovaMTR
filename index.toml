@@ -363,6 +363,24 @@ file = "resourcepacks/DOORCLOSINGANNOUNCEMENTS.zip"
 hash = "2856ef8ea906278a15bb0f7da33b77ad578e09999e0396dd2ea758fd030da9c6"
 
 [[files]]
+file = "resourcepacks/FRP1.1.zip"
+hash = "6998d7cd4ae6c3f90a3e9f15f198ff4ab663942ade1f9ce0b6e7cc11d362d8f0"
+
+[[files]]
+file = "resourcepacks/InterCity Pack.zip"
+hash = "1f01db569fc9ff4f816a4e1155620689bf01768589c58a3c4059d2596f64a720"
+
+[[files]]
+file = "resourcepacks/british-rail-class-350.pw.toml"
+hash = "cd19eb9fc289fb943d3cb0256822c7ecae324be077029417e05f5e11db265a35"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chiba-monorail-pack-mtr.pw.toml"
+hash = "e8503c3c149229039edb8e8d3d080ccf99c4717b9b3163c392acbe735e767a64"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cx100-tampa.pw.toml"
 hash = "4cd8dbbace9b041f671ab1f638de6f2f9f7e5d2aa308744087134448f8a1edea"
 metafile = true
