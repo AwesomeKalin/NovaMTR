@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/APM_100_TPA_Addon.zip","file/ie22k.zip","file/smb112x\u0027s APM pack.zip","file/Cityrail Class 599 (Metrocar).zip","file/MTR_UnLegiblePrague_v3.zip","file/MTR_soodari's_retextured_trains_mtr4_format_250605.zip"]
-incompatibleResourcePacks:["file/APM_100_TPA_Addon.zip","file/ie22k.zip","file/smb112x\u0027s APM pack.zip","file/Cityrail Class 599 (Metrocar).zip","file/MTR_UnLegiblePrague_v3.zip","file/MTR_soodari's_retextured_trains_mtr4_format_250605.zip"]
+resourcePacks:["vanilla","fabric","file/APM_100_TPA_Addon.zip","file/ie22k.zip","file/smb112x\u0027s APM pack.zip","file/BR_Class_350.zip","file/Chiba_Monorail_Pack_v1.5.0.zip","file/Cityrail Class 599 (Metrocar).zip","file/DOORCLOSINGANNOUNCEMENTS.zip","file/FRP1.1.zip","file/InterCity Pack.zip","file/MTR_UnLegiblePrague_v3.zip","file/MTR_non_standard_rail_4.0_250318.zip","file/MTR_soodari\u0027s_retextured_trains_mtr4_format_250605.zip"]
+incompatibleResourcePacks:["file/APM_100_TPA_Addon.zip","file/ie22k.zip","file/smb112x\u0027s APM pack.zip","file/BR_Class_350.zip","file/Chiba_Monorail_Pack_v1.5.0.zip","file/Cityrail Class 599 (Metrocar).zip","file/DOORCLOSINGANNOUNCEMENTS.zip","file/FRP1.1.zip","file/InterCity Pack.zip","file/MTR_UnLegiblePrague_v3.zip","file/MTR_non_standard_rail_4.0_250318.zip","file/MTR_soodari\u0027s_retextured_trains_mtr4_format_250605.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
