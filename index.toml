@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "2c97b821961a798736476010e59c8090d725bc684e6cdbc3dbfed62333766e7e"
+hash = "2fa49947ac6c159416b3551f96efd09f163053a0321d0a2534429feb99e2ddb5"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -347,6 +347,10 @@ metafile = true
 [[files]]
 file = "resourcepacks/Cityrail Class 599 (Metrocar).zip"
 hash = "2ddde8032b1e50cca0313a8cf7e7a17c3106418779391b773e41f9b220a482a1"
+
+[[files]]
+file = "resourcepacks/DOORCLOSINGANNOUNCEMENTS.zip"
+hash = "2856ef8ea906278a15bb0f7da33b77ad578e09999e0396dd2ea758fd030da9c6"
 
 [[files]]
 file = "resourcepacks/cx100-tampa.pw.toml"
