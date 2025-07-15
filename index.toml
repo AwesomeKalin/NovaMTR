@@ -383,6 +383,11 @@ hash = "8586cb1185c12ee323f8cc59359c53f9e1276bf8063b9e2e83a0f658b6d12441"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr1067mm_rail.pw.toml"
+hash = "172e07a2445bba2624eacd9594a08293fd0bb317177f25aa5d60b887ba4b6a8f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/soodaris-retextured-trains.pw.toml"
 hash = "828f34e9fcbb3d06ad1e087f42d79c75ae4c8a04df5762ba0f49aef03b6f6807"
 metafile = true
