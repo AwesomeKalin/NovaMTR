@@ -349,10 +349,6 @@ file = "resourcepacks/Cityrail Class 599 (Metrocar).zip"
 hash = "2ddde8032b1e50cca0313a8cf7e7a17c3106418779391b773e41f9b220a482a1"
 
 [[files]]
-file = "resourcepacks/MTR_UnLegiblePrague_v2.zip"
-hash = "9e7c026578fa9f3796676e5be382385030628275b3fd7cba4bd73dd7a9564095"
-
-[[files]]
 file = "resourcepacks/cx100-tampa.pw.toml"
 hash = "4cd8dbbace9b041f671ab1f638de6f2f9f7e5d2aa308744087134448f8a1edea"
 metafile = true
@@ -360,6 +356,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/ie-class-22k.pw.toml"
 hash = "a1afbb12759a35f35b7cfa728cf1202369badce682d197577d505fca5b86b0b6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-4jcm-(un)-legible-prague-pid.pw.toml"
+hash = "2b5948d1502759594e7598d35f183b17c482744dbc281d7a8f937ad3cab42212"
 metafile = true
 
 [[files]]
