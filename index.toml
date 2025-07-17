@@ -10,6 +10,11 @@ hash = "1b6e4f43c8138e60d9f2283c83fa5f5e5c267b35ca764952699472c751647642"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "98b615793768146b76af102c705da4161bb8826f8c7f5593dbafaf54fe7c91d0"
 metafile = true
@@ -357,6 +362,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-modelling.pw.toml"
+hash = "bc8f147d75a4e7e14aecb818f861b8207ba2158310931a05481afdc3403efe82"
 metafile = true
 
 [[files]]

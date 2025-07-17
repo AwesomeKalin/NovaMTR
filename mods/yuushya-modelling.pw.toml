@@ -1,0 +1,13 @@
+name = "Yuushya Modelling"
+filename = "yuushya-modelling-1.20.1-fabric-2.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RxVV6ldg/versions/rEcxrZtX/yuushya-modelling-1.20.1-fabric-2.2.0.jar"
+hash-format = "sha512"
+hash = "e0358d4bc5acc2491423ed0d50049acad5baf2be43923ae2df55f8e6c99c8407dbb11653468bd626c295f86fc85eef158adbf2b237048ae8ae0cbfb9045a6c73"
+
+[update]
+[update.modrinth]
+mod-id = "RxVV6ldg"
+version = "rEcxrZtX"
