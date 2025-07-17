@@ -145,6 +145,11 @@ hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
 metafile = true
 
 [[files]]
+file = "mods/japanish.pw.toml"
+hash = "93a6bd1829c49708b738ba70b20fa7f5a4d0faa873dfe99f784907c7facfa339"
+metafile = true
+
+[[files]]
 file = "mods/jcm.pw.toml"
 hash = "79c990b977cff2edcd25258c91a04feae5ce3cbc619f2b9e5af0861f83024791"
 metafile = true
