@@ -1,0 +1,13 @@
+name = "Trams on Roads"
+filename = "cTrams_on_Roads_v1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M1Xe5Kd0/versions/vwmMXRlA/cTrams_on_Roads_v1.zip"
+hash-format = "sha512"
+hash = "ff82416bb4bd83bc3f7217192db53623b3a6abf65eb2b0ea1ef8a8f28af0d8dbfdf97067ececa706f3d8fa851162c599964c3a5ea10cdb84a72591a661abef8a"
+
+[update]
+[update.modrinth]
+mod-id = "M1Xe5Kd0"
+version = "vwmMXRlA"

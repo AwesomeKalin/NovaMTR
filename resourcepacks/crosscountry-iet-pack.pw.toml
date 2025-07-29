@@ -1,0 +1,13 @@
+name = "CrossCountry IET Pack"
+filename = "CrossCountry_IET_Pack_V1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4qCrFCSH/versions/rV0gZwpB/CrossCountry_IET_Pack_V1.zip"
+hash-format = "sha512"
+hash = "7d075c2b1b14e70211cb673b005b2941b5bd21eaa684fd4a3fd4019512056e785f1c3a9d609dd8ed43ab6fbc12072aff2c3073cf9a0a51cd89c242ff6c6a5d0c"
+
+[update]
+[update.modrinth]
+mod-id = "4qCrFCSH"
+version = "rV0gZwpB"

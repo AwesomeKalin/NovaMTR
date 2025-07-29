@@ -1,0 +1,13 @@
+name = "MTR Low effort SEPTA Metro M-4 & B-IV"
+filename = "LERTSepta.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kkoZ0C3e/versions/25lmdign/LERTSepta.zip"
+hash-format = "sha512"
+hash = "33b6ffc0bed0284e90d0d6c4097c2e411ca430b5bb2c3786ec199c2a8eb839c43fbe06836e076d0cc41d9726db07322538ccb814385f7e64ee136db12a40f3e7"
+
+[update]
+[update.modrinth]
+mod-id = "kkoZ0C3e"
+version = "25lmdign"

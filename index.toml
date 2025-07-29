@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "e230295a5f724cb1c776f5cf0668f41a0373419b8ec926820c92560bbeb9b868"
+hash = "7a6facd4fafe565b887eb50c47f0bbb0ecda1d445f43b036dbd52f73048dafa5"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -390,6 +390,15 @@ hash = "070315dc10e1880371cca070bf550c359cf03796b17b54acd076394aeed30c4a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/80xliverypack.pw.toml"
+hash = "99716ff780640c2a6d28f9377f35e6086c015e80e60c21215bfb29103901854e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Bart_Train_Remastered_Addon_V1.3.1.zip"
+hash = "dbf41eaff8d2ea70b62017a8521399a3d5b2efc689dfad7132cc719a6fc66ba4"
+
+[[files]]
 file = "resourcepacks/Cityrail_Trains.zip"
 hash = "17146e4aa0e6071422fe0638442670b5f78d9736b4d945ae26a1788edb856ca5"
 
@@ -411,8 +420,18 @@ hash = "cd19eb9fc289fb943d3cb0256822c7ecae324be077029417e05f5e11db265a35"
 metafile = true
 
 [[files]]
+file = "resourcepacks/bvg_pack.pw.toml"
+hash = "806b23470ba0c733d63ec067849b803917205ea3c477bbb415b19449b7b61c66"
+metafile = true
+
+[[files]]
 file = "resourcepacks/chiba-monorail-pack-mtr.pw.toml"
 hash = "e8503c3c149229039edb8e8d3d080ccf99c4717b9b3163c392acbe735e767a64"
+metafile = true
+
+[[files]]
+file = "resourcepacks/crosscountry-iet-pack.pw.toml"
+hash = "6dade1cd2b70258a83d96bbbb269739f343f83bfc701e6f00ade9c8eeb26e559"
 metafile = true
 
 [[files]]
@@ -426,8 +445,18 @@ hash = "a1afbb12759a35f35b7cfa728cf1202369badce682d197577d505fca5b86b0b6"
 metafile = true
 
 [[files]]
+file = "resourcepacks/lert-septa-m4-b4.pw.toml"
+hash = "7301af0d3923e489129346d9468e8c8a346f7b616568a6556b1f5bdf76336a5c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr-4jcm-(un)-legible-prague-pid.pw.toml"
 hash = "2b5948d1502759594e7598d35f183b17c482744dbc281d7a8f937ad3cab42212"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-curved-platform.pw.toml"
+hash = "9c42dd249866c71632c02a15b30baace2cb955abf611f194cc41c761cd69420c"
 metafile = true
 
 [[files]]
@@ -441,6 +470,31 @@ hash = "172e07a2445bba2624eacd9594a08293fd0bb317177f25aa5d60b887ba4b6a8f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/sncf-pids.pw.toml"
+hash = "5bec764a53c0fcd3bfa93bcfe3abe896476d256ae505167985213b19b502d56e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/soodaris-retextured-trains.pw.toml"
 hash = "828f34e9fcbb3d06ad1e087f42d79c75ae4c8a04df5762ba0f49aef03b6f6807"
+metafile = true
+
+[[files]]
+file = "resourcepacks/trams-on-roads.pw.toml"
+hash = "52a208cb76955c4a227849c8b99ca71dbeee6f0c3e878e57d517e159d1c3b94d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vdl-citea-and-cab.pw.toml"
+hash = "1ad790f52cc535670b64f23e88f04e1427bb89d31ac15fcdaa479a7133eca5c2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wmata-7000-series.pw.toml"
+hash = "e97ef8eb3467e169d1bd1824605a443cf1a8499df959d8319e9c4fa2a19dcf7a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/world-pids-pack.pw.toml"
+hash = "64dfbfc05ec92bdb1caad5ea6e1d52508ca640122e690bd65a2bdfef41ed55c5"
 metafile = true
