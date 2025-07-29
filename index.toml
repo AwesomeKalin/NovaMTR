@@ -40,6 +40,11 @@ hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
 metafile = true
 
 [[files]]
+file = "mods/consistencyplus.pw.toml"
+hash = "9038df278e3e1b651a10221db8b5d64c9773f5ed0a32641fe8fd069951f00c90"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
@@ -47,6 +52,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
 
 [[files]]
@@ -332,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c709708a11f117743c086f16de67701eb35bfad331826960398bb1e64ea4d35f"
 metafile = true
 
 [[files]]
