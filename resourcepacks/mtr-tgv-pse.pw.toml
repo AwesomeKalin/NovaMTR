@@ -1,0 +1,13 @@
+name = "[MTR] TGV PSE"
+filename = "TGV-PSE-v0.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eqeypOh1/versions/3walUtLM/TGV-PSE-v0.2.zip"
+hash-format = "sha512"
+hash = "2f181ec50687c98f6c2372ee879f877b9a4398f86acfeb8754b5a476fddc11aa0905a0219098d3d1684600b7bed13c68dc8a5c403e71a2934b86ceb9b4daf5e8"
+
+[update]
+[update.modrinth]
+mod-id = "eqeypOh1"
+version = "3walUtLM"

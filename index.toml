@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "51d09ef4b22c93dc6e0f2799bb91eeaea296b7df378a95a3b05ed49abb1e3787"
+hash = "1adf43293e3d732c375627629aeb8097320943bf53567f3a4776ecc4ae3d3e8c"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -439,6 +439,10 @@ file = "resourcepacks/Muni Metro Siemens S200.zip"
 hash = "259232a766c1608c6116656db70d9117433a60fb470fbaafd99263fdcf0d67fc"
 
 [[files]]
+file = "resourcepacks/WuhanMetroRails.zip"
+hash = "e0d72b1c026bde442458ad81c7e90e02e1f0c50cad3a3992c1eed9261f430568"
+
+[[files]]
 file = "resourcepacks/british-rail-class-350.pw.toml"
 hash = "cd19eb9fc289fb943d3cb0256822c7ecae324be077029417e05f5e11db265a35"
 metafile = true
@@ -486,6 +490,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-smb112x-apm-pack.pw.toml"
 hash = "8586cb1185c12ee323f8cc59359c53f9e1276bf8063b9e2e83a0f658b6d12441"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-tgv-pse.pw.toml"
+hash = "ca89b6817b94a4f602d32711ed7d4ce19db3df8ba805b73bf22f34ee198b5f9b"
 metafile = true
 
 [[files]]
