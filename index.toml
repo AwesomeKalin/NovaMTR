@@ -65,6 +65,11 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "78085457d022d795c7f4f5566476fde9a8a4e81eee96db09ef7f5bd09eb34926"
+metafile = true
+
+[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
 metafile = true
@@ -342,6 +347,16 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "35a9a5e63cb30761764e8b3a7eaaff1587c36a03b36a1baf36a7e955c30cff64"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "fc44113cf6b30a86318054953321f96844630def628cf59e84b6285457048e10"
 metafile = true
 
 [[files]]
