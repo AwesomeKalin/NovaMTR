@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7a6facd4fafe565b887eb50c47f0bbb0ecda1d445f43b036dbd52f73048dafa5"
+hash = "51d09ef4b22c93dc6e0f2799bb91eeaea296b7df378a95a3b05ed49abb1e3787"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -413,6 +413,10 @@ hash = "6998d7cd4ae6c3f90a3e9f15f198ff4ab663942ade1f9ce0b6e7cc11d362d8f0"
 [[files]]
 file = "resourcepacks/InterCity Pack.zip"
 hash = "1f3438557ef592e531aae2a9831e36ef1690546cdcc513e05b620fd526f3a493"
+
+[[files]]
+file = "resourcepacks/Muni Metro Siemens S200.zip"
+hash = "259232a766c1608c6116656db70d9117433a60fb470fbaafd99263fdcf0d67fc"
 
 [[files]]
 file = "resourcepacks/british-rail-class-350.pw.toml"
