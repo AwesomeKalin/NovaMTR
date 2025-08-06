@@ -30,6 +30,11 @@ hash = "2bb6404c6546f92556e2ff7480832ca5bbbfa607470bd56f5a0f59528170816d"
 metafile = true
 
 [[files]]
+file = "mods/clicksigns.pw.toml"
+hash = "8306d7bcd401ec5db62095e5a20129d00c5ec85cda8a300706a0ddc139951948"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
