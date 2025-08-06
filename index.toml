@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1adf43293e3d732c375627629aeb8097320943bf53567f3a4776ecc4ae3d3e8c"
+hash = "d86856da1ee76d50623af469cb8f83e7cd737b825910f6e2957ec69ebaf7c440"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -505,6 +505,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr1067mm_rail.pw.toml"
 hash = "172e07a2445bba2624eacd9594a08293fd0bb317177f25aa5d60b887ba4b6a8f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/renfe-repaints.pw.toml"
+hash = "665b592fbc2547db4f3cc9f08899f39c92a0d9bde590ec676a96d54ec81f2ad8"
 metafile = true
 
 [[files]]

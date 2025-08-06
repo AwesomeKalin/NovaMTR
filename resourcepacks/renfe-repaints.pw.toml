@@ -1,0 +1,13 @@
+name = "Renfe repaints"
+filename = "MTR Renfe Repaints.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xnkDoLqQ/versions/lPhhXQcZ/MTR%20Renfe%20Repaints.zip"
+hash-format = "sha512"
+hash = "e616fe59877d95e82ccbc728108f0069b92b9733ceb39eed60a6b45ead1950a007b4c7a8abbbd617a245a475daa766dc434851bd1ec16d90e5c96c5dbdaef94f"
+
+[update]
+[update.modrinth]
+mod-id = "xnkDoLqQ"
+version = "lPhhXQcZ"
