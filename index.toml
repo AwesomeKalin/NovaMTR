@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d86856da1ee76d50623af469cb8f83e7cd737b825910f6e2957ec69ebaf7c440"
+hash = "0e39c21d3d8cf26bab153ea1378bf567aca0820289f591538b297b55d7f734ff"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -443,6 +443,10 @@ hash = "6998d7cd4ae6c3f90a3e9f15f198ff4ab663942ade1f9ce0b6e7cc11d362d8f0"
 [[files]]
 file = "resourcepacks/InterCity Pack.zip"
 hash = "1f3438557ef592e531aae2a9831e36ef1690546cdcc513e05b620fd526f3a493"
+
+[[files]]
+file = "resourcepacks/MTR_FMB2000-3000_series.zip"
+hash = "fd94a39cf4f2f0718f5a7c1b6bfe3352ad584675ec610f44d162ddf489a390a7"
 
 [[files]]
 file = "resourcepacks/Muni Metro Siemens S200.zip"
