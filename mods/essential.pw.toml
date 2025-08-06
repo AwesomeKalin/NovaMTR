@@ -1,18 +1,17 @@
 name = "Essential Mod"
-filename = "Essential_1-3-8-4_fabric_1-20-1.jar"
+filename = "Essential_1-3-9_fabric_1-20-1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/yth4H1mv/Essential_1-3-8-4_fabric_1-20-1.jar"
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/ZGIcAncD/Essential_1-3-9_fabric_1-20-1.jar"
 hash-format = "sha512"
-hash = "92f9995b6c184b240aef624858903334db8a0b196cce5f1306b22c4b4c90e21ccc6fe9307646fc08e93aa17a0496ded313d8d0c7d9df108bc63269461f70b7f6"
+hash = "b3b41801f1bafaf8b1b9427d74f990271c0517e2e373cde56f5472c9bca913492a0d7c00e83ab8638b791e04c432eb866e1a70978249cea77ce07296d782b936"
 
 [update]
 [update.modrinth]
 mod-id = "k2ZPuTBm"
-version = "yth4H1mv"
+version = "ZGIcAncD"
 
 [option]
 optional = true
-default = false
 description = "Adds Discord RPC and cosmetics, as well as a couple other things"
