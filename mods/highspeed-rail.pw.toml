@@ -1,0 +1,13 @@
+name = "High-Speed Rail"
+filename = "highspeed-rail-0.4.0+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/d7PCSOkD/versions/sZpVjhCs/highspeed-rail-0.4.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "070945ade2fd0b2e67d6f01c2f8efa5e6353a8627b051a52b0d94dc75be8cac965699484e7e18c2b60f4c7b54e6e75217107943558bb68fb087096d89061b99d"
+
+[update]
+[update.modrinth]
+mod-id = "d7PCSOkD"
+version = "sZpVjhCs"
