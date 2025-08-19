@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1c20b8e5d1dbcd2e4ef4f50160ebaf79541239e0160d95f31491c15efe05f530"
+hash = "86a627474be27951f25a94b04b9d2d4b2dfbb0b410466c00572d478d04d56b84"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -449,12 +449,24 @@ file = "resourcepacks/MTR_FMB2000-3000_series.zip"
 hash = "fd94a39cf4f2f0718f5a7c1b6bfe3352ad584675ec610f44d162ddf489a390a7"
 
 [[files]]
+file = "resourcepacks/MitzunamiArcher.zip"
+hash = "e043d0153e011a4f4cf01e6e0b13d7c9fc145b811991771ecc7589bfa5e32948"
+
+[[files]]
 file = "resourcepacks/Muni Metro Siemens S200.zip"
 hash = "259232a766c1608c6116656db70d9117433a60fb470fbaafd99263fdcf0d67fc"
 
 [[files]]
 file = "resourcepacks/SHSRUP Avant Pack.zip"
 hash = "b0ddb5cb299caf2a892854d8af79539956aa30d41fa29599ed843532c8c150a9"
+
+[[files]]
+file = "resourcepacks/ToyonoCL.zip"
+hash = "bd5b17578dc8b40cc51328436a3a85d006f450a272cd039f156a2bd7cb39977b"
+
+[[files]]
+file = "resourcepacks/ToyonoHS.zip"
+hash = "fe4f9e7b798c5929bfabc525f344cb69680b7a7341fbb3d0e9065360d3013917"
 
 [[files]]
 file = "resourcepacks/WuhanMetroRails.zip"
