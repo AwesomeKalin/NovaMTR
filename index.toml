@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "98fefa8b49a596833bf238127f7f6d3d882dd8a03c4670beb655566486cd7d91"
+hash = "ce471a94a476c7c010cc9a66f8110f7fbccfb446f993986a2232d9880157d34e"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -463,6 +463,10 @@ hash = "259232a766c1608c6116656db70d9117433a60fb470fbaafd99263fdcf0d67fc"
 [[files]]
 file = "resourcepacks/SHSRUP Avant Pack.zip"
 hash = "b0ddb5cb299caf2a892854d8af79539956aa30d41fa29599ed843532c8c150a9"
+
+[[files]]
+file = "resourcepacks/SHSRUP Base Pack.zip"
+hash = "1c51ea472ddd8a8caf6e4c0f9140dd5fd9de535d55ba309b8d48da2bf0d0f123"
 
 [[files]]
 file = "resourcepacks/ToyonoCL.zip"
