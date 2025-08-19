@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d423b31de1f05f9ae9416e689955c1016544e41ddba49c8ae1db8c50032c8907"
+hash = "89224b8b5b932968dc96b3320d2eda4ffe80d2c2bdc8eb56889ecaec93c4e0a3"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -451,6 +451,10 @@ hash = "fd94a39cf4f2f0718f5a7c1b6bfe3352ad584675ec610f44d162ddf489a390a7"
 [[files]]
 file = "resourcepacks/Muni Metro Siemens S200.zip"
 hash = "259232a766c1608c6116656db70d9117433a60fb470fbaafd99263fdcf0d67fc"
+
+[[files]]
+file = "resourcepacks/SHSRUP Avant Pack.zip"
+hash = "b0ddb5cb299caf2a892854d8af79539956aa30d41fa29599ed843532c8c150a9"
 
 [[files]]
 file = "resourcepacks/WuhanMetroRails.zip"
