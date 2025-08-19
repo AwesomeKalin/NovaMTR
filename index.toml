@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "1b2eaa61e309584bab7c274a68802a1f6ad3e9b333ca1ffbc4fed40d1019b6d8"
+hash = "1c20b8e5d1dbcd2e4ef4f50160ebaf79541239e0160d95f31491c15efe05f530"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -538,6 +538,10 @@ metafile = true
 file = "resourcepacks/soodaris-retextured-trains.pw.toml"
 hash = "5ffa92864dee93714459a51edb9ce3d9153f4cba849e4b5ba2e564100c4e3e37"
 metafile = true
+
+[[files]]
+file = "resourcepacks/sparemyfuckinglifejonathanhothiseditorsuckswhenyoucantoverwritefileslikeinmtr3iswearingod-20250815-232051.zip"
+hash = "bd04504ec25dd960f7ed91acb2f7b3b40686a13141f9adcd16da706d2e880226"
 
 [[files]]
 file = "resourcepacks/trams-on-roads.pw.toml"
