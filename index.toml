@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "86a627474be27951f25a94b04b9d2d4b2dfbb0b410466c00572d478d04d56b84"
+hash = "98fefa8b49a596833bf238127f7f6d3d882dd8a03c4670beb655566486cd7d91"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -423,6 +423,10 @@ metafile = true
 file = "resourcepacks/80xliverypack.pw.toml"
 hash = "99716ff780640c2a6d28f9377f35e6086c015e80e60c21215bfb29103901854e"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Announcements_1.zip"
+hash = "1b4df70e71280d649e91dc35b86d73f32fa6f39e1296ca289a96f26a7623fcfb"
 
 [[files]]
 file = "resourcepacks/Bart_Train_Remastered_Addon_V1.3.1.zip"
