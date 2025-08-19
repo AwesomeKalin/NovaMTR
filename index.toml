@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "89224b8b5b932968dc96b3320d2eda4ffe80d2c2bdc8eb56889ecaec93c4e0a3"
+hash = "1b2eaa61e309584bab7c274a68802a1f6ad3e9b333ca1ffbc4fed40d1019b6d8"
 
 [[files]]
 file = "mods/addonslib.pw.toml"
@@ -494,6 +494,10 @@ metafile = true
 file = "resourcepacks/lert-septa-m4-b4.pw.toml"
 hash = "7301af0d3923e489129346d9468e8c8a346f7b616568a6556b1f5bdf76336a5c"
 metafile = true
+
+[[files]]
+file = "resourcepacks/mlrbve.zip"
+hash = "a805b4e5bf6614799310129ce7188e0d56564856df22405f55ba1e30887f267e"
 
 [[files]]
 file = "resourcepacks/mtr-4jcm-(un)-legible-prague-pid.pw.toml"
