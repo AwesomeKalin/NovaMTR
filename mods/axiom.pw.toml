@@ -1,18 +1,17 @@
 name = "Axiom"
-filename = "Axiom-4.9.1-for-MC1.20.1.jar"
+filename = "Axiom-5.0.1-for-MC1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/N6n5dqoA/versions/PJcr6FKc/Axiom-4.9.1-for-MC1.20.1.jar"
+url = "https://cdn.modrinth.com/data/N6n5dqoA/versions/vB362zR0/Axiom-5.0.1-for-MC1.20.1.jar"
 hash-format = "sha512"
-hash = "7325338b80a637dab01e67ed685204ed092b3420c295e529b77ef1607adfdc326489def942d364e9ee5f8e36b4f83b79ff9e57d11b4094229b42790d226b0526"
+hash = "186f8cce6cd067354da665a6da8f1c8174efbfe3345d8136c5edc11211435260dae6728d248fd4fb61b16f54d73f0d7047367510e3d06e2735a820a89e41a07f"
 
 [update]
 [update.modrinth]
 mod-id = "N6n5dqoA"
-version = "PJcr6FKc"
+version = "vB362zR0"
 
 [option]
 optional = true
-default = false
 description = "Improved building"

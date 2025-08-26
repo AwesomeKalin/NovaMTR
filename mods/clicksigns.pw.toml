@@ -1,13 +1,13 @@
 name = "Click Signs"
-filename = "ClickSigns-1.0.4+1.20.1.jar"
+filename = "ClickSigns-fabric-1.0.6+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xaXWiLzT/versions/KWce1PRh/ClickSigns-1.0.4%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/xaXWiLzT/versions/EhUb54QN/ClickSigns-fabric-1.0.6%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "f77d496ec2bb153cae5e3b5f7be7187dda5bf6b6d713f38f55d3b8fd35d6c498261a1f4ab271bf0a7ff79f9643bea9fd3aa6f6c38bf50452f7e4910c9a1fa354"
+hash = "200862a3a14b0cc05776d1dcd3ecf5165497940a3d355ac42fa7987cc3272ccf7e23f8a7fc7620aeba94ec59b080aef5f5361c0a82c7005df3f3105033318e1b"
 
 [update]
 [update.modrinth]
 mod-id = "xaXWiLzT"
-version = "KWce1PRh"
+version = "EhUb54QN"
