@@ -440,11 +440,6 @@ hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
-file = "mods/yunzhu-transit-extension.pw.toml"
-hash = "9cdfdb71fc33baf57750c31517974e625819bfd52cbb463dbff96b1d0d7e4a0d"
-metafile = true
-
-[[files]]
 file = "mods/yuushya-modelling.pw.toml"
 hash = "bc8f147d75a4e7e14aecb818f861b8207ba2158310931a05481afdc3403efe82"
 metafile = true
