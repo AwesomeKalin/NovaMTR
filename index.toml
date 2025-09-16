@@ -548,6 +548,11 @@ hash = "4cd8dbbace9b041f671ab1f638de6f2f9f7e5d2aa308744087134448f8a1edea"
 metafile = true
 
 [[files]]
+file = "resourcepacks/eths.pw.toml"
+hash = "ea5185ab574bd252f91a457bb997b07848ffcc2fb83cc4cf70eab89ab31dd9b5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/ie-class-22k.pw.toml"
 hash = "a1afbb12759a35f35b7cfa728cf1202369badce682d197577d505fca5b86b0b6"
 metafile = true
@@ -565,6 +570,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/lert-septa-m4-b4.pw.toml"
 hash = "7301af0d3923e489129346d9468e8c8a346f7b616568a6556b1f5bdf76336a5c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lightrain_izumi.pw.toml"
+hash = "753c0e4ed2c2d19373e08b44d3988524b61c32bfe24578c57fd08c23eca68efb"
 metafile = true
 
 [[files]]

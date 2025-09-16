@@ -1,0 +1,13 @@
+name = "MTR Escalator to Heaven Sign"
+filename = "to_heaven_only.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ACaA1y0C/versions/UhWJTZO1/to_heaven_only.zip"
+hash-format = "sha512"
+hash = "3c74db2384931f580a429ce9bb7a770a70ac10c3f0c05ed6fa32952085b949d42c873547042d20763570ac63c39b5659873763eb9fc59bf325be52a3fac08c5f"
+
+[update]
+[update.modrinth]
+mod-id = "ACaA1y0C"
+version = "UhWJTZO1"

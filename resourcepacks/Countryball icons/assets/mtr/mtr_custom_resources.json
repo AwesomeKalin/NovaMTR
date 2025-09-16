@@ -1,0 +1,11 @@
+	"custom_signs": {
+		"my_custom_sign": {
+			"texture_id": "mtr:custom_directory/custom_sign.png",
+			"flip_texture": false,
+			"custom_text": "CBF全球|CBF Global",
+			"flip_custom_text": false,
+			"small": true,
+			"background_color": "000000"
+		}
+	}
+}
