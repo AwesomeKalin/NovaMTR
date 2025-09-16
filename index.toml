@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-pantographs-and-wires.pw.toml"
-hash = "e101f9f0d789640a0f2cee9a45c324f40f0912e149f4bbe3684bef8e7c86f854"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 metafile = true
 
 [[files]]
