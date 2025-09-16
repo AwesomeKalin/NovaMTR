@@ -70,6 +70,16 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
+file = "mods/create-pantographs-and-wires.pw.toml"
+hash = "e101f9f0d789640a0f2cee9a45c324f40f0912e149f4bbe3684bef8e7c86f854"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "78085457d022d795c7f4f5566476fde9a8a4e81eee96db09ef7f5bd09eb34926"
 metafile = true
@@ -107,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "bbbff4271055747bdc517ce34322b5fdf730f9421192615a789b3b3bdb2a1026"
+metafile = true
+
+[[files]]
+file = "mods/escalated.pw.toml"
+hash = "b1f3c991febbaac1ea00da7bc45cc3a7a0af4bdb920334267a3095580f32825e"
 metafile = true
 
 [[files]]
@@ -252,11 +267,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
-metafile = true
-
-[[files]]
-file = "mods/mtr-france-addon.pw.toml"
-hash = "f88e0e36ebc571ddba5e9fb262bc9aca35624aeb989b9af3840b2834ba2305e4"
 metafile = true
 
 [[files]]
