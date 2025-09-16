@@ -110,11 +110,6 @@ hash = "bbbff4271055747bdc517ce34322b5fdf730f9421192615a789b3b3bdb2a1026"
 metafile = true
 
 [[files]]
-file = "mods/escalated.pw.toml"
-hash = "b1f3c991febbaac1ea00da7bc45cc3a7a0af4bdb920334267a3095580f32825e"
-metafile = true
-
-[[files]]
 file = "mods/essential.pw.toml"
 hash = "d7faf7d06867410ecd7bf7870e20a609e950fd5c0b8c96be177b30411e166d25"
 metafile = true
