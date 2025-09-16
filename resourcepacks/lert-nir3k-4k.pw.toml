@@ -1,0 +1,13 @@
+name = "MTR Low Effort NIR Class 3000 & 4000"
+filename = "nir3k4kv2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rL6uupfG/versions/RDmKzCPN/nir3k4kv2.zip"
+hash-format = "sha512"
+hash = "f466bbc777499504f408c66583af1c0a5abbf1941bb47aa36a55ae3e94ab93fcf3df75abbf20e76117f44e45cc3bb33569fe4f69b705519e9bcc2cb795339bc2"
+
+[update]
+[update.modrinth]
+mod-id = "rL6uupfG"
+version = "RDmKzCPN"

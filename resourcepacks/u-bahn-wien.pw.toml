@@ -1,0 +1,13 @@
+name = "MTR U-Bahn Wien Pack"
+filename = "JSC U-Bahn Wien Pack BETA 2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rF3usjwy/versions/S5GBeqJf/JSC%20U-Bahn%20Wien%20Pack%20BETA%202.zip"
+hash-format = "sha512"
+hash = "aa43d44ec165c7be47eef72e65db6e5e1c2fb49a7d1cef5d87e3badfd3bacdcddc3b6eb11e242596eac405925766880a35d73a7467ce6791e24d5cb79d749903"
+
+[update]
+[update.modrinth]
+mod-id = "rF3usjwy"
+version = "S5GBeqJf"

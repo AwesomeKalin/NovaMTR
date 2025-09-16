@@ -1,0 +1,13 @@
+name = "UK Signs [MTR 3/4]"
+filename = "UK Signs 2.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rtIySn3x/versions/bkWzrcRg/UK%20Signs%202.2.zip"
+hash-format = "sha512"
+hash = "adcba4aebee479ee380cceec34d20bcd594ce8268438a461bf270b89416a35ec0f3de005c629b3ce0d88cf18ba4d93af72ceb9f27084688a1d2b4760dac701b3"
+
+[update]
+[update.modrinth]
+mod-id = "rtIySn3x"
+version = "bkWzrcRg"

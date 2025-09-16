@@ -1,0 +1,13 @@
+name = "MTR France Addon"
+filename = "MTRFRA-fabric-1.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YJct9p8I/versions/DIznctrC/MTRFRA-fabric-1.0.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "af69b81b9d957a91f5b355e12ff77f9bfafc1b43f0420a92c3c976ccec242c43777e757b3fca067ae4e8dea5c9c0eb6152cb979067b2e976f09daaf2d67469fe"
+
+[update]
+[update.modrinth]
+mod-id = "YJct9p8I"
+version = "DIznctrC"

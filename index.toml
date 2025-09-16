@@ -70,6 +70,16 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
+file = "mods/create-pantographs-and-wires.pw.toml"
+hash = "e101f9f0d789640a0f2cee9a45c324f40f0912e149f4bbe3684bef8e7c86f854"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "78085457d022d795c7f4f5566476fde9a8a4e81eee96db09ef7f5bd09eb34926"
 metafile = true
@@ -107,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "bbbff4271055747bdc517ce34322b5fdf730f9421192615a789b3b3bdb2a1026"
+metafile = true
+
+[[files]]
+file = "mods/escalated.pw.toml"
+hash = "b1f3c991febbaac1ea00da7bc45cc3a7a0af4bdb920334267a3095580f32825e"
 metafile = true
 
 [[files]]
@@ -252,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/mtr-france-addon.pw.toml"
+hash = "f88e0e36ebc571ddba5e9fb262bc9aca35624aeb989b9af3840b2834ba2305e4"
 metafile = true
 
 [[files]]
@@ -410,6 +430,11 @@ hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
+file = "mods/yunzhu-transit-extension.pw.toml"
+hash = "9cdfdb71fc33baf57750c31517974e625819bfd52cbb463dbff96b1d0d7e4a0d"
+metafile = true
+
+[[files]]
 file = "mods/yuushya-modelling.pw.toml"
 hash = "bc8f147d75a4e7e14aecb818f861b8207ba2158310931a05481afdc3403efe82"
 metafile = true
@@ -429,8 +454,16 @@ file = "resourcepacks/Announcements_1.zip"
 hash = "1b4df70e71280d649e91dc35b86d73f32fa6f39e1296ca289a96f26a7623fcfb"
 
 [[files]]
+file = "resourcepacks/Announcements_2.zip"
+hash = "109c4b15c3b129bbafc9fdb6b31c987989bf952b063a8e4d7d75a48c77e8286e"
+
+[[files]]
 file = "resourcepacks/Bart_Train_Remastered_Addon_V1.3.1.zip"
 hash = "dbf41eaff8d2ea70b62017a8521399a3d5b2efc689dfad7132cc719a6fc66ba4"
+
+[[files]]
+file = "resourcepacks/CHTR.zip"
+hash = "299033bd8164db6fdc7a242915c7a93e0260ee5992e3288a926703ed35ea2713"
 
 [[files]]
 file = "resourcepacks/Cityrail_Trains.zip"
@@ -459,6 +492,10 @@ hash = "e043d0153e011a4f4cf01e6e0b13d7c9fc145b811991771ecc7589bfa5e32948"
 [[files]]
 file = "resourcepacks/Muni Metro Siemens S200.zip"
 hash = "259232a766c1608c6116656db70d9117433a60fb470fbaafd99263fdcf0d67fc"
+
+[[files]]
+file = "resourcepacks/RT D78-2-20250831-165621.zip"
+hash = "c881a2f8745e73b8ff48b1556be122e560a3b4f178ce3496cf3547ae638bbeaa"
 
 [[files]]
 file = "resourcepacks/SHSRUP Avant Pack.zip"
@@ -511,6 +548,16 @@ hash = "a1afbb12759a35f35b7cfa728cf1202369badce682d197577d505fca5b86b0b6"
 metafile = true
 
 [[files]]
+file = "resourcepacks/jr-209-500-series.pw.toml"
+hash = "955729007c05e28220ae2881bc3eda67dff5adb8601f4a344c10922cb90c6de7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lert-nir3k-4k.pw.toml"
+hash = "cf5e5a70249d7badfec59c7d4357d25c54a5353e1718e76d3a37ec71d2ab3234"
+metafile = true
+
+[[files]]
 file = "resourcepacks/lert-septa-m4-b4.pw.toml"
 hash = "7301af0d3923e489129346d9468e8c8a346f7b616568a6556b1f5bdf76336a5c"
 metafile = true
@@ -522,6 +569,11 @@ hash = "a805b4e5bf6614799310129ce7188e0d56564856df22405f55ba1e30887f267e"
 [[files]]
 file = "resourcepacks/mtr-4jcm-(un)-legible-prague-pid.pw.toml"
 hash = "2b5948d1502759594e7598d35f183b17c482744dbc281d7a8f937ad3cab42212"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-class-357-electrostar-pack.pw.toml"
+hash = "96506fbb991e8037d5def52981363de7e1becd1eb90f1b9358d816297dcf37ae"
 metafile = true
 
 [[files]]
@@ -545,6 +597,16 @@ hash = "172e07a2445bba2624eacd9594a08293fd0bb317177f25aa5d60b887ba4b6a8f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr34jr-trains-pack.pw.toml"
+hash = "289dbb9118aa8b7befda8ea030a84ac4caa3068df0ec5f9ccc81d285e5418fe0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-british-rail-class-158-south-western-railway.pw.toml"
+hash = "65a1142a70fe266939a75b32f38cad657ac23cd45bd1092d25834c88e87a768f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/renfe-repaints.pw.toml"
 hash = "665b592fbc2547db4f3cc9f08899f39c92a0d9bde590ec676a96d54ec81f2ad8"
 metafile = true
@@ -564,13 +626,33 @@ file = "resourcepacks/sparemyfuckinglifejonathanhothiseditorsuckswhenyoucantover
 hash = "bd04504ec25dd960f7ed91acb2f7b3b40686a13141f9adcd16da706d2e880226"
 
 [[files]]
+file = "resourcepacks/the-dual-side-lrv.pw.toml"
+hash = "cefb66aff58a4ccfa78899d23e775bcf2af42fa1e2956a9cb551af14d687293c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/trams-on-roads.pw.toml"
 hash = "52a208cb76955c4a227849c8b99ca71dbeee6f0c3e878e57d517e159d1c3b94d"
 metafile = true
 
 [[files]]
+file = "resourcepacks/u-bahn-wien.pw.toml"
+hash = "f7f9f4e97e16bee61e910f9ad1b52ffeec9443bca6f2a390a05dc5c18d296370"
+metafile = true
+
+[[files]]
+file = "resourcepacks/uk-signs-mtr.pw.toml"
+hash = "608f0d79ef6ffea6925d8c485113d77d441fd73a61871122e478f1625642236f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/vdl-citea-and-cab.pw.toml"
 hash = "1ad790f52cc535670b64f23e88f04e1427bb89d31ac15fcdaa479a7133eca5c2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wll.pw.toml"
+hash = "8beaaeb9df408abc748298cdf3b7779a72d573b82f79e5ce54c2bf3cf80db4e5"
 metafile = true
 
 [[files]]

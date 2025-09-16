@@ -1,0 +1,13 @@
+name = "[MTR4] British Rail Class 158 South Western Railway"
+filename = "MTR4_BR_Class158_SWR_250810.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ovxk7eFx/versions/TeZhRvZO/MTR4_BR_Class158_SWR_250810.zip"
+hash-format = "sha512"
+hash = "bced7de5c93a2351eec9d66503a8510e19a16405fe75907ed82ad07241cddc17e138c0f9dce86c7e7670a5658dcb9a06dc63d354a63266137e4ae10f11e1767e"
+
+[update]
+[update.modrinth]
+mod-id = "ovxk7eFx"
+version = "TeZhRvZO"
