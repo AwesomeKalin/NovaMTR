@@ -100,6 +100,11 @@ hash = "673c9f3a64e3fe1efb7e81fd1abfdb45479a740e405c0b5f38849d9f6348efa0"
 metafile = true
 
 [[files]]
+file = "mods/dragonlib.pw.toml"
+hash = "05bbbe7a64f640b6a179f543204ddb5819ed7491a6c6047b4272f02363a1b0fc"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "efd77a76faba07c5ba127a014d2b0390414d02a531bdfd9bab4b1ef7ea35e4f6"
 metafile = true
@@ -162,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "f556cdb7f8575d068bb5e3cbd6b30d0e1523e5802b5c08baa1da2eadc1228b90"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "26eb9a0d230cfebd3e32df2db21326d45ecca1348fb3d731657f3e55a9dde467"
 metafile = true
 
 [[files]]
@@ -267,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "d7145fd1bd8b4bb6a3b84652a96a68870fb3ab32230f27520bb9362fd17ec39f"
+metafile = true
+
+[[files]]
+file = "mods/mtr-france-addon.pw.toml"
+hash = "f88e0e36ebc571ddba5e9fb262bc9aca35624aeb989b9af3840b2834ba2305e4"
 metafile = true
 
 [[files]]
@@ -422,6 +437,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
+metafile = true
+
+[[files]]
+file = "mods/yunzhu-transit-extension.pw.toml"
+hash = "9cdfdb71fc33baf57750c31517974e625819bfd52cbb463dbff96b1d0d7e4a0d"
 metafile = true
 
 [[files]]

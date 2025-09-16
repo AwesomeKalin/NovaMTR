@@ -1,0 +1,13 @@
+name = "DragonLib"
+filename = "dragonlib-fabric-1.20.1-2.2.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sbIsGaOV/versions/pdZt3WAy/dragonlib-fabric-1.20.1-2.2.24.jar"
+hash-format = "sha512"
+hash = "f35fd970a8781b95c87a0eb186c4ec3fcd90a3e8da5587a9307178aba4d313b4a1878cd29fd78d626a189c808ba94f8b7b1db3a119267a7b9ede4001cadabebf"
+
+[update]
+[update.modrinth]
+mod-id = "sbIsGaOV"
+version = "pdZt3WAy"
