@@ -468,11 +468,35 @@ hash = "dbf41eaff8d2ea70b62017a8521399a3d5b2efc689dfad7132cc719a6fc66ba4"
 
 [[files]]
 file = "resourcepacks/CHTR.zip"
-hash = "299033bd8164db6fdc7a242915c7a93e0260ee5992e3288a926703ed35ea2713"
+hash = "cafe7b612cb0fe1a3d0e7281b47ed9bb9ee51f7f11655557966a3f402f4cd959"
 
 [[files]]
 file = "resourcepacks/Cityrail_Trains.zip"
 hash = "17146e4aa0e6071422fe0638442670b5f78d9736b4d945ae26a1788edb856ca5"
+
+[[files]]
+file = "resourcepacks/Countryball icons/assets/mtr/custom_directory/Poland_Sphere.png"
+hash = "61c92a11c093c36fa2fa64af26462464be5e50a0b1b9914e98140a3e0281cbad"
+
+[[files]]
+file = "resourcepacks/Countryball icons/assets/mtr/custom_directory/china.jpg"
+hash = "e9b46eb56688b1a7f8696140b134f72b8c94a6ed9221270337d2a507d4da0396"
+
+[[files]]
+file = "resourcepacks/Countryball icons/assets/mtr/custom_directory/murica.png"
+hash = "33eb26942b37d7d68deb1fe57987a7c80a047e7496d4dab91fac03a392f43701"
+
+[[files]]
+file = "resourcepacks/Countryball icons/assets/mtr/mtr_custom_resources.json"
+hash = "aca3ac8a741581950253a76a8420c2a1610a8514273e5fe35732824030f5c7b7"
+
+[[files]]
+file = "resourcepacks/Countryball icons/pack.mcmeta"
+hash = "12ed11a8259473ea6e3f2296d8ef54b33ce0b32f67352419ddbff8c8662197d4"
+
+[[files]]
+file = "resourcepacks/Countryball icons/pack.png"
+hash = "61c92a11c093c36fa2fa64af26462464be5e50a0b1b9914e98140a3e0281cbad"
 
 [[files]]
 file = "resourcepacks/DOORCLOSINGANNOUNCEMENTS.zip"
