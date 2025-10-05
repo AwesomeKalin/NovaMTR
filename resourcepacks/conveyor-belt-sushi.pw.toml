@@ -1,0 +1,13 @@
+name = "[MTR3] 回転寿司 | Conveyor Belt Sushi"
+filename = "cbsushi.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xeEtmAR0/versions/gGPhBkoo/cbsushi.zip"
+hash-format = "sha512"
+hash = "4c4a56ac3a2a1d070bcb8ac46230c8d76e6613da172e6e5677b1eb5d157d446169dfc2e2fe567bb8bc779479faa21fbb6648b0e0e63e7f6d21332a453eabdfec"
+
+[update]
+[update.modrinth]
+mod-id = "xeEtmAR0"
+version = "gGPhBkoo"

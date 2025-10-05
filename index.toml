@@ -75,6 +75,11 @@ hash = "e101f9f0d789640a0f2cee9a45c324f40f0912e149f4bbe3684bef8e7c86f854"
 metafile = true
 
 [[files]]
+file = "mods/create-power-loader-fabric.pw.toml"
+hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails.pw.toml"
 hash = "b79bc9976d5958f4b88ca23575e0d0dc677a2b06931108f6f7bc3fd3e46bb22c"
 metafile = true
@@ -132,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/essential.pw.toml"
 hash = "d7faf7d06867410ecd7bf7870e20a609e950fd5c0b8c96be177b30411e166d25"
+metafile = true
+
+[[files]]
+file = "mods/exlines-furniture.pw.toml"
+hash = "4af00e84abc94c771726b2894846830e72ddc74e3795182318000ba91d200f93"
 metafile = true
 
 [[files]]
@@ -507,6 +517,10 @@ file = "resourcepacks/FRP1.1.zip"
 hash = "6998d7cd4ae6c3f90a3e9f15f198ff4ab663942ade1f9ce0b6e7cc11d362d8f0"
 
 [[files]]
+file = "resourcepacks/IVR - Japan Sign Pack v.1.0.0.zip"
+hash = "b82157fe6f67d2d144ca1a5172b6a6de0d311d0837c6db5c015b162df8348fbe"
+
+[[files]]
 file = "resourcepacks/InterCity Pack.zip"
 hash = "1f3438557ef592e531aae2a9831e36ef1690546cdcc513e05b620fd526f3a493"
 
@@ -559,6 +573,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/chiba-monorail-pack-mtr.pw.toml"
 hash = "e8503c3c149229039edb8e8d3d080ccf99c4717b9b3163c392acbe735e767a64"
+metafile = true
+
+[[files]]
+file = "resourcepacks/conveyor-belt-sushi.pw.toml"
+hash = "1af8c8bf699ecbccb801d68655eb1ce6d2aafd813fb6e019f455239669265527"
 metafile = true
 
 [[files]]
