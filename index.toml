@@ -65,6 +65,11 @@ hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
 metafile = true
 
 [[files]]
+file = "mods/create-deco.pw.toml"
+hash = "023532063fbf310dd047a33cf1afd06b0c4baf72da4dc23e78d1d599ad5dcccd"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
@@ -271,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "23e34e3efdb22bd125cd37f2010d6bbdf56181da0562dafa2ce244ce7f95bcd2"
+hash = "9e3b3418800bccd02b060d78b49d6fe6404708ae59ae9fb53ce7aa93c133e5c8"
 metafile = true
 
 [[files]]
