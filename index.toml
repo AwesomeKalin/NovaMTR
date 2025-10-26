@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "1140acded7c7806f1f6add42cc1344fb0e3539a318c8108a9cb647dd5f1aa5b2"
+hash = "61d0a24528fb4361586cec9279db4cb42bdfa8b3618b8445112870d011295910"
 metafile = true
 
 [[files]]
