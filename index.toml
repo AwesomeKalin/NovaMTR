@@ -566,6 +566,11 @@ file = "resourcepacks/WuhanMetroRails.zip"
 hash = "e0d72b1c026bde442458ad81c7e90e02e1f0c50cad3a3992c1eed9261f430568"
 
 [[files]]
+file = "resourcepacks/actrons-guided-busway.pw.toml"
+hash = "82496573c66bc081dd71300f5510fb5867ace6fb9f3c2b4b9322a09b8b3180d7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/british-rail-class-350.pw.toml"
 hash = "cd19eb9fc289fb943d3cb0256822c7ecae324be077029417e05f5e11db265a35"
 metafile = true
@@ -642,6 +647,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-curved-platform.pw.toml"
 hash = "9c42dd249866c71632c02a15b30baace2cb955abf611f194cc41c761cd69420c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-shinkansen-infrastructure.pw.toml"
+hash = "ae3f9bea0c20fb245a51547b61e826ebed05778d474f8508e161891df78eaeeb"
 metafile = true
 
 [[files]]

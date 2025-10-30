@@ -1,0 +1,13 @@
+name = "[MTR] Shinkansen Infrastructure"
+filename = "DEWON-Shinkansen-Infra-1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ctWkSkY7/versions/2ZOgBOXp/DEWON-Shinkansen-Infra-1.3.zip"
+hash-format = "sha512"
+hash = "c6b6328c3bbb7d7d79e14569fc2607da1ff1bcb2ba72667a0c58efefd512d1404f2894577fbb3011f0c654d2e944cafe981a64b4d36b549a95130c524d3c759c"
+
+[update]
+[update.modrinth]
+mod-id = "ctWkSkY7"
+version = "2ZOgBOXp"
