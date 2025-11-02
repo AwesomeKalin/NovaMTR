@@ -478,6 +478,10 @@ file = "resourcepacks/Announcements_2.zip"
 hash = "109c4b15c3b129bbafc9fdb6b31c987989bf952b063a8e4d7d75a48c77e8286e"
 
 [[files]]
+file = "resourcepacks/Anti-France Tactile Map.zip"
+hash = "c620f9b2713aa0fe0788a76447f326a3b5ac960142f61428839086886a8b68be"
+
+[[files]]
 file = "resourcepacks/Bart_Train_Remastered_Addon_V1.3.1.zip"
 hash = "dbf41eaff8d2ea70b62017a8521399a3d5b2efc689dfad7132cc719a6fc66ba4"
 
@@ -677,6 +681,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-british-rail-class-158-south-western-railway.pw.toml"
 hash = "65a1142a70fe266939a75b32f38cad657ac23cd45bd1092d25834c88e87a768f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ns-ddm-dd-ar-ddz.pw.toml"
+hash = "5e9158c5b60bdf0e1b323e8870f888ebb1f6a92120e756bc3b1008c8783be1c4"
 metafile = true
 
 [[files]]
