@@ -753,6 +753,11 @@ hash = "1ad790f52cc535670b64f23e88f04e1427bb89d31ac15fcdaa479a7133eca5c2"
 metafile = true
 
 [[files]]
+file = "resourcepacks/vdl-citea-lle-120.pw.toml"
+hash = "702b7a20ebc1d6a913305dced8d0390a20cacde22f4df60026c50589f1b6cd97"
+metafile = true
+
+[[files]]
 file = "resourcepacks/wll.pw.toml"
 hash = "8beaaeb9df408abc748298cdf3b7779a72d573b82f79e5ce54c2bf3cf80db4e5"
 metafile = true
