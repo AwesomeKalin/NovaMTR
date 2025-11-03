@@ -1,0 +1,13 @@
+name = "Fumo"
+filename = "Fumo 16.0.0 1.20.1 Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Abkqr1E0/versions/5GAZ2PSq/Fumo%2016.0.0%201.20.1%20Fabric.jar"
+hash-format = "sha512"
+hash = "143bc53b2f626bf9d1dd417866559fefd6c97e1f0187d7815f20dc298fca7ed7558f126b2a89d7ab811c2ef2e18752706dad07aeca2cc02616184ebf506b81a4"
+
+[update]
+[update.modrinth]
+mod-id = "Abkqr1E0"
+version = "5GAZ2PSq"

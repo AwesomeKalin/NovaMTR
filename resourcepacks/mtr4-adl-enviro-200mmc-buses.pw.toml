@@ -1,0 +1,13 @@
+name = "[MTR4] ADL Enviro 200MMC Buses"
+filename = "ADL Enviro 200MMC MTR4 V1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oi0vj9om/versions/XD80S7Ke/ADL%20Enviro%20200MMC%20MTR4%20V1.1.zip"
+hash-format = "sha512"
+hash = "6ee625452f0965ef68b25f4b59563a6c46772461f24764817694ffa260681a21834f64e29598df26351d0dc052508e6b08a39f4a132e0063b44d9f5baeed48d7"
+
+[update]
+[update.modrinth]
+mod-id = "oi0vj9om"
+version = "XD80S7Ke"

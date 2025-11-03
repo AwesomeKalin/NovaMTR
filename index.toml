@@ -175,6 +175,11 @@ hash = "7ebcea4812d449612eb66ac021bb48931c2dc26d8f541765d24638339d644db0"
 metafile = true
 
 [[files]]
+file = "mods/fumo.pw.toml"
+hash = "7001d9d1e19b86f64574ab105c94664da7bea2254c0ad9cba37119d3ce52a07e"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "b0866b0a27163b903b4d4d0d21f5959c3e481bce03653afd0ce9c6a7e1fbf299"
 metafile = true
@@ -275,6 +280,11 @@ hash = "ede2f61d6b592f44294fa8790c2f050729c487aa86aba09034f2ef30d45e0e93"
 metafile = true
 
 [[files]]
+file = "mods/miku-plushies.pw.toml"
+hash = "64d40a1343147b13443183a2fe2c97d3de338fa1862e105f8423c22aed03f740"
+metafile = true
+
+[[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
 hash = "9e3b3418800bccd02b060d78b49d6fe6404708ae59ae9fb53ce7aa93c133e5c8"
 metafile = true
@@ -322,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "e94cfc8b72a467d63c5d7593a433edaf698a3792e0c9b95274751ba6d8435288"
+metafile = true
+
+[[files]]
+file = "mods/perfect-plushies.pw.toml"
+hash = "67170f41fe49b45bd15635641c05adecd64f07213e655797f62e30b701c1f961"
 metafile = true
 
 [[files]]
@@ -676,6 +691,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr34jr-trains-pack.pw.toml"
 hash = "289dbb9118aa8b7befda8ea030a84ac4caa3068df0ec5f9ccc81d285e5418fe0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-adl-enviro-200mmc-buses.pw.toml"
+hash = "87cfd1854921160ca000b4b6e6933b63f99016a72bdeb00655b70a392250cb28"
 metafile = true
 
 [[files]]
