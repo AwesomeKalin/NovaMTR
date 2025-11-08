@@ -1,0 +1,44 @@
+{
+    "vehicles": [
+        {
+            "id": "vdl_citea_0_block",
+            "name": "VDL Citea LLE-120 (Ground level exit)",
+            "color": "E0E0E0",
+            "transportMode": "TRAIN",
+            "length": 12,
+            "width": 2,
+            "bogie1Position": -4.08,
+            "bogie2Position": 4.08,
+            "couplingPadding1": 0,
+            "couplingPadding2": 0,
+            "description": "The nether",
+            "wikipediaArticle": "",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:szandorthe13th/trains/vdl_citea/vdl_citea_0_block.bbmodel",
+                    "textureResource": "mtr:szandorthe13th/trains/vdl_citea/vdl_citea.png",
+                    "modelPropertiesResource": "mtr:szandorthe13th/trains/vdl_citea/properties_vdl_citea.json",
+                    "positionDefinitionsResource": "mtr:szandorthe13th/trains/vdl_citea/definition_vdl_citea.json",
+                    "flipTextureV": false
+                }
+            ],
+            "bogie1Models": [],
+            "bogie2Models": [],
+            "hasGangway1": false,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": -0.5,
+            "bveSoundBaseResource": "vdl_citea",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0
+        }
+    ],
+    "signs": [],
+    "objects": []
+}

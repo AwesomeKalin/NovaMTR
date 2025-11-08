@@ -95,6 +95,11 @@ hash = "78085457d022d795c7f4f5566476fde9a8a4e81eee96db09ef7f5bd09eb34926"
 metafile = true
 
 [[files]]
+file = "mods/curvebuilding.pw.toml"
+hash = "835d3e607542f336645ea7f772c9e103afa92eba7810d910a57964a5ca917ebc"
+metafile = true
+
+[[files]]
 file = "mods/dcintegration.pw.toml"
 hash = "a3f54d4b294683dbfe027dc01f9172bd828769afb435bb965f167e205640e7c3"
 metafile = true
@@ -579,6 +584,78 @@ hash = "bd5b17578dc8b40cc51328436a3a85d006f450a272cd039f156a2bd7cb39977b"
 [[files]]
 file = "resourcepacks/ToyonoHS.zip"
 hash = "fe4f9e7b798c5929bfabc525f344cb69680b7a7341fbb3d0e9065360d3013917"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/mtr_custom_resources.json"
+hash = "fbb3056ca8cc3deb54cfe6d0495ac3ed694dbe87c462d9f6da74a740efc11020"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds.json"
+hash = "14a7018474132d8d102cf9bccbd8e9abef22ca860c4173cec393718bae17fa04"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds/vdl_citea/brakefreq.csv"
+hash = "04d2fd6bcd8809544018469717ad3e919f2b73fae4343486dac967e2bb0adee6"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds/vdl_citea/brakevol.csv"
+hash = "eafd5da7cad32c23c28ca36afb8e8277b86f0c4cd43f1ede97d618a6e6251dad"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds/vdl_citea/doorcls.ogg"
+hash = "9fa3870175ee83ea4aea79f2eb3a84a512e5679300b7683e8d33857c700000ac"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds/vdl_citea/dooropn.ogg"
+hash = "e0b84b805329d26bb3f697d8fc876a248586541cd439741c06c3609e6eacf0a5"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds/vdl_citea/loop.ogg"
+hash = "0a0ddc85233703ad3ae49f20d69f80dfb17ea7ec7c978ef349c4026b7b8c3248"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds/vdl_citea/motor0.ogg"
+hash = "09571c80a0f3a3deb476803345a1e97e68db1dd0736942d705f3bbd6a7bb9361"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds/vdl_citea/point.ogg"
+hash = "e29fd101803ecdc61910b8b3f428d93ba62cd157dc4b5ee5a0d6ed3d16ac2855"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds/vdl_citea/powerfreq.csv"
+hash = "04d2fd6bcd8809544018469717ad3e919f2b73fae4343486dac967e2bb0adee6"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds/vdl_citea/powervol.csv"
+hash = "eafd5da7cad32c23c28ca36afb8e8277b86f0c4cd43f1ede97d618a6e6251dad"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds/vdl_citea/rub.ogg"
+hash = "e5799134f3825e4a39bc66709c9f7ebddd33e8a15a7f11e5fcd44acd9dc6f6e4"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds/vdl_citea/run.ogg"
+hash = "bc1dd920822e54b4de3e39551d93f9f404c5443618da7b87744ddcbc44a76a77"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/sounds/vdl_citea/sound.cfg"
+hash = "ee84c21334083d5df5030b6fdef6b71223facac70855723dc34ec05359212d98"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/assets/mtr/szandorthe13th/trains/vdl_citea/vdl_citea_0_block.bbmodel"
+hash = "c79ebf43241d7ac381c1db8ee99539a943b152f270bf9f94960023a94a0a00ab"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/pack.mcmeta"
+hash = "7eeca252c0700754a226eebc7dede58f4ba7addaa2d6b65b2133148ce9e2997d"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/pack.png"
+hash = "81bd5f760443030a7b08e321bf252f4d8d7e7c94fa1a7df7085a5015b2f1cc6e"
+
+[[files]]
+file = "resourcepacks/VDL Citea GLE Edition/readme.txt"
+hash = "dfbaee108c5380347676b7dd25eb824b95a574593c132ac1dd1fdf125bf4af76"
 
 [[files]]
 file = "resourcepacks/WuhanMetroRails.zip"

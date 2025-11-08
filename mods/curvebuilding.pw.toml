@@ -1,0 +1,13 @@
+name = "CurveBuilding"
+filename = "curvebuilding-fabric-0.5.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "861c07ff71100894fac5f27f5578cb3b55aa2b55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4680982
+project-id = 860912
