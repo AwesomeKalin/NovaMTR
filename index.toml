@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "9e3b3418800bccd02b060d78b49d6fe6404708ae59ae9fb53ce7aa93c133e5c8"
+hash = "82115b225d34a1db96ae88f9979a7161b296aa6997e02d8ca71daf94bf4f2e7c"
 metafile = true
 
 [[files]]
@@ -745,6 +745,11 @@ hash = "9c42dd249866c71632c02a15b30baace2cb955abf611f194cc41c761cd69420c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr-irr.pw.toml"
+hash = "e93463d9650229f16e921677e5e9de48dff9c593d8427bca49512ca968c1a421"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr-shinkansen-infrastructure.pw.toml"
 hash = "ae3f9bea0c20fb245a51547b61e826ebed05778d474f8508e161891df78eaeeb"
 metafile = true
@@ -777,6 +782,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-british-rail-class-158-south-western-railway.pw.toml"
 hash = "65a1142a70fe266939a75b32f38cad657ac23cd45bd1092d25834c88e87a768f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-manchester-metrolink-bombardier-m5000.pw.toml"
+hash = "421249b7855383806dcccbfc6d376e591c9abff11a8a55b20a349211a79fc347"
 metafile = true
 
 [[files]]

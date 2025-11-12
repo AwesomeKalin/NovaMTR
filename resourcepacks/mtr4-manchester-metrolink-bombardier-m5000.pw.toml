@@ -1,0 +1,13 @@
+name = "[MTR4] Manchester Metrolink Bombardier M5000"
+filename = "Manchester_MetroLink_M5000.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bgUS7BuV/versions/FWxH80Ul/Manchester_MetroLink_M5000.zip"
+hash-format = "sha512"
+hash = "011cf1bf83bd9f13d944fa2627fd738288b7fa330b92e49c0e905b103fe3d11dc244e57f10c1f54ba18cbd2455ae7616adc96084101f025d9e00564f186af0a9"
+
+[update]
+[update.modrinth]
+mod-id = "bgUS7BuV"
+version = "FWxH80Ul"
