@@ -1,0 +1,13 @@
+name = "[MTR3/4] KCR&HK Tramways Pack"
+filename = "MTR_srt_KCR&Tramways_4.0_250530.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dawijncL/versions/qwWm7Osk/MTR_srt_KCR%26Tramways_4.0_250530.zip"
+hash-format = "sha512"
+hash = "e0c9d84b884e8a397e614001d28b9b243afb5e5c29159ab8472fcc03644a9fd5faea365be663ae9fc57b378c267b800a14487ea07d217641e81a73a6871d7012"
+
+[update]
+[update.modrinth]
+mod-id = "dawijncL"
+version = "qwWm7Osk"

@@ -730,6 +730,11 @@ file = "resourcepacks/mlrbve.zip"
 hash = "a805b4e5bf6614799310129ce7188e0d56564856df22405f55ba1e30887f267e"
 
 [[files]]
+file = "resourcepacks/mtr-200-series-shinkansen.pw.toml"
+hash = "db1ac3b8c0184ef7c1ddab89e48ba75ba56a1050a03f881933db1ac4ac9a0c9a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr-4jcm-(un)-legible-prague-pid.pw.toml"
 hash = "2b5948d1502759594e7598d35f183b17c482744dbc281d7a8f937ad3cab42212"
 metafile = true
@@ -770,6 +775,11 @@ hash = "172e07a2445bba2624eacd9594a08293fd0bb317177f25aa5d60b887ba4b6a8f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr34-kcrhk-tramways-pack.pw.toml"
+hash = "ab4905aa1bfe7d1ff2062b525ad725647e4d6959a63f9049d63c98d423cf1e3e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr34jr-trains-pack.pw.toml"
 hash = "289dbb9118aa8b7befda8ea030a84ac4caa3068df0ec5f9ccc81d285e5418fe0"
 metafile = true
@@ -787,6 +797,26 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-manchester-metrolink-bombardier-m5000.pw.toml"
 hash = "421249b7855383806dcccbfc6d376e591c9abff11a8a55b20a349211a79fc347"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4jr-trains-pack-with-working-displays.pw.toml"
+hash = "47c9a3323414ab8db25c6ef2d192e6cb8238a72dcafae57f2b78decf6b6d41a3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr_dutchdarkmode.pw.toml"
+hash = "e36a09fd78b520ee7b6444c47684d792a6ba54a3df016fd5600d0190d5e62ca7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtrsydney_metro_and_trains.pw.toml"
+hash = "7ac620b63259d4e4a8b2ae3eef23a3b2ef3895a10d511617846d5ef3cde12a4d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/nl-deco.pw.toml"
+hash = "0f8c1b91d68a24627be8a2716a12e398fb312f1ad4e23f608d1abb6f907aa46b"
 metafile = true
 
 [[files]]

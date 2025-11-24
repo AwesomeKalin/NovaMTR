@@ -1,0 +1,13 @@
+name = "[MTR3/4] Sydney metro & Sydney Trains"
+filename = "MTR_SydneymetroandTrains_4.0_250811.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SLuSSU6Y/versions/heNxNBWK/MTR_SydneymetroandTrains_4.0_250811.zip"
+hash-format = "sha512"
+hash = "4c774731586de3fe5d31c7261b00758ee917c238c518759a92a7b8862badc456dec333544ea1d83737310ecc402383486c173557d19a90905b700de3af8f1f59"
+
+[update]
+[update.modrinth]
+mod-id = "SLuSSU6Y"
+version = "heNxNBWK"

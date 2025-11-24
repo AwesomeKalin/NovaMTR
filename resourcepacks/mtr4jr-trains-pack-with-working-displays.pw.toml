@@ -1,0 +1,13 @@
+name = "[MTR4] JR Trains Pack with Working Displays"
+filename = "MTR_srt_JRTrains_4.0_251012.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/swkEv5F3/versions/kZ3P3qeo/MTR_srt_JRTrains_4.0_251012.zip"
+hash-format = "sha512"
+hash = "28c53fe2c00989d043a0c6a9ca74c2510f122ddfcd5d65868c61e3d720339a642090d1aa7d8eabc5d0421a38a133f68b631947ee69c3228b2cc49403cfcbd839"
+
+[update]
+[update.modrinth]
+mod-id = "swkEv5F3"
+version = "kZ3P3qeo"

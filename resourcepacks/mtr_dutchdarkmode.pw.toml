@@ -1,0 +1,13 @@
+name = "[MTR/WPP] dutch pids pack"
+filename = "dutchpids.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/el3Qf1Ik/versions/u5Fa9Q4B/dutchpids.zip"
+hash-format = "sha512"
+hash = "61f79bee1fe2bb3a206cd4e0e90f33e65f7004b8160c0aee89396c7e7e3ce25040b41e9b16d0d123c8e81a3e6cd6b4be9e21df994abc82b5750c157cff9d2b64"
+
+[update]
+[update.modrinth]
+mod-id = "el3Qf1Ik"
+version = "u5Fa9Q4B"
