@@ -30,6 +30,11 @@ hash = "2bb6404c6546f92556e2ff7480832ca5bbbfa607470bd56f5a0f59528170816d"
 metafile = true
 
 [[files]]
+file = "mods/chisel-reborn.pw.toml"
+hash = "281e2429b2f37421799b6ff4613c8a783df5e008c2864f91aa862418ff86f272"
+metafile = true
+
+[[files]]
 file = "mods/clicksigns.pw.toml"
 hash = "08803f0f90bd06b2fe2a9491bba86b1d80a60a3d05ec7c879a823c6cf5b5717e"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
@@ -129,6 +139,11 @@ hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
 metafile = true
 
 [[files]]
+file = "mods/effortless.pw.toml"
+hash = "b9f54476b8fd406728130ebc2cce3a706fcf017ccaaf6ba2fc8737ebaa59b900"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "f1d9c0910c3172c83058cc6d9af49e9b8dd9a6e410b0113e41077a373a0646a0"
 metafile = true
@@ -161,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+metafile = true
+
+[[files]]
+file = "mods/factory-blocks.pw.toml"
+hash = "319a316a41db9adfda48349bd92fa8cefe43ba5aee2d5cf41cb9ab9525dcfeac"
 metafile = true
 
 [[files]]
@@ -356,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/russian-metro-addon.pw.toml"
 hash = "0efe63ff58d62a614ca15bad8e5892bc07949c4edf99ffae397aa2b26ff17df7"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
@@ -756,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr-shinkansen-infrastructure.pw.toml"
-hash = "ae3f9bea0c20fb245a51547b61e826ebed05778d474f8508e161891df78eaeeb"
+hash = "4bf35500bcdc9601f21db3a58fa171d83adc1b1752779dbb23a07c2fd12466b7"
 metafile = true
 
 [[files]]
