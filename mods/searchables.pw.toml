@@ -11,3 +11,7 @@ hash = "94a44b9ad58507a28ffb6e1a48b28b23740d4192c5511012b0eb8db33360200232ec84ce
 [update.modrinth]
 mod-id = "fuuu3xnx"
 version = "eh4IBlu2"
+
+[option]
+optional = true
+description = "A library mod that adds helper methods that allow for searching and filtering elements based on components"

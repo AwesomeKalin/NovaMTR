@@ -11,3 +11,7 @@ hash = "1e3da9b2b50488daa7b9165930a48158330404110912037cf42543c6acf649ad79019a32
 [update.modrinth]
 mod-id = "xv94TkTM"
 version = "6ipZLQSK"
+
+[option]
+optional = true
+description = "Adds a search bar to the Key-Bindings menu"
