@@ -105,6 +105,11 @@ hash = "78085457d022d795c7f4f5566476fde9a8a4e81eee96db09ef7f5bd09eb34926"
 metafile = true
 
 [[files]]
+file = "mods/cryonicconfig.pw.toml"
+hash = "ac8c9d8a720dac25670730ed542c7e1575a96103127f5a7a277594e438a420f6"
+metafile = true
+
+[[files]]
 file = "mods/curvebuilding-fabric-0.5.0+1.20.1.jar"
 hash = "0e1e04b8710df8621d0b9c5104db0be84443b96a03113dae43bf17a45a8464bc"
 
