@@ -30,11 +30,6 @@ hash = "2bb6404c6546f92556e2ff7480832ca5bbbfa607470bd56f5a0f59528170816d"
 metafile = true
 
 [[files]]
-file = "mods/chisel-reborn.pw.toml"
-hash = "281e2429b2f37421799b6ff4613c8a783df5e008c2864f91aa862418ff86f272"
-metafile = true
-
-[[files]]
 file = "mods/clicksigns.pw.toml"
 hash = "08803f0f90bd06b2fe2a9491bba86b1d80a60a3d05ec7c879a823c6cf5b5717e"
 metafile = true
