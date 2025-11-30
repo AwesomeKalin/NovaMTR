@@ -184,11 +184,6 @@ hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
-file = "mods/factory-blocks.pw.toml"
-hash = "319a316a41db9adfda48349bd92fa8cefe43ba5aee2d5cf41cb9ab9525dcfeac"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "5c98012330282f45370e95f4206ccf214fb059b73a8b4ebe0aeb2ae57647d8d5"
 metafile = true
