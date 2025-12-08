@@ -584,6 +584,22 @@ file = "resourcepacks/Muni Metro Siemens S200.zip"
 hash = "259232a766c1608c6116656db70d9117433a60fb470fbaafd99263fdcf0d67fc"
 
 [[files]]
+file = "resourcepacks/NRS Class 802/assets/mtr/mtr_custom_resources.json"
+hash = "fc52863e0a95646cce6f0ae3d183e03d50e82cc404941b8082f2e1c0592c6cbf"
+
+[[files]]
+file = "resourcepacks/NRS Class 802/assets/mtr/nrs_802/nrs_802.png"
+hash = "c924a34393d5c4519bddc1cfdbec510210c6dfcd2e30da2610f66bd659ee1799"
+
+[[files]]
+file = "resourcepacks/NRS Class 802/pack.mcmeta"
+hash = "9ef69a9776f7c1ccd16680ea3517ddd96d116773a97a2930bca8e2a4b3692a34"
+
+[[files]]
+file = "resourcepacks/NRS Class 802/pack.png"
+hash = "c59c1bda7b76e45cafb2d2b8a6e14845d92e1a7a4f15472d8727299fd3c31c70"
+
+[[files]]
 file = "resourcepacks/RT D78-2-20250831-165621.zip"
 hash = "c881a2f8745e73b8ff48b1556be122e560a3b4f178ce3496cf3547ae638bbeaa"
 
