@@ -403,6 +403,11 @@ hash = "64b5305d2318d2e32f6e26023b681e1de63cce3c65a0db053338b5f0848d33d7"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
 file = "mods/station-decoration.pw.toml"
 hash = "17cd86b2431e79690a205afc602a7684ad5211bf721d551b71f21b6283dccccb"
 metafile = true
@@ -796,7 +801,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/mtr-smb112x-apm-pack.pw.toml"
-hash = "8586cb1185c12ee323f8cc59359c53f9e1276bf8063b9e2e83a0f658b6d12441"
+hash = "21771ddd7606b1457636fb25b73fee67981a9560068d26269538c56f00fa7f33"
 metafile = true
 
 [[files]]
