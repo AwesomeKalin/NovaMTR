@@ -1,0 +1,13 @@
+name = "[MTR 3/4] Stepford Connect and Waterline Class 730"
+filename = "SCR Class 730 MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lsj1rY4s/versions/SkP0swvu/SCR%20Class%20730%20MTR4.zip"
+hash-format = "sha512"
+hash = "7a10ff916ca38388c6b33bb3e7da817b3ded916768bb479ef9c00376b5ba1a94d8c5399a67dabfb65fd070d951d3b8c0c06a1cb5b48d27156f83d4056eec0e97"
+
+[update]
+[update.modrinth]
+mod-id = "Lsj1rY4s"
+version = "SkP0swvu"

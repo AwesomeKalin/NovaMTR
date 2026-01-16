@@ -1,0 +1,13 @@
+name = "[MTR4] Stepford Express Class 800/801"
+filename = "SCR_Class_800_MTR4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KifR9ZX2/versions/SrY8DIBU/SCR_Class_800_MTR4.zip"
+hash-format = "sha512"
+hash = "370d5c7788a69dfd0be9adae950c7bf0cdb5b80bb0da4099d72e4e3589f4de5e0df214a30a30045e0b76188d530c0a4d85fbb660dcaf3b771af1aa8692ca63bb"
+
+[update]
+[update.modrinth]
+mod-id = "KifR9ZX2"
+version = "SrY8DIBU"

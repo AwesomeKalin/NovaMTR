@@ -1,0 +1,13 @@
+name = "[MTR4] Tyne and Wear Metrocar"
+filename = "Tyne and Wear Metrocar.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ndSKeq70/versions/zlptNO3N/Tyne%20and%20Wear%20Metrocar.zip"
+hash-format = "sha512"
+hash = "ef353ea4a9cbee15cf509ce2aa72c442b0c51467c106c3a833fcbed9909e01f10b4a67055d62e98afba093883d1c46e7df4c661cc26e12e041e0e6548e287ce3"
+
+[update]
+[update.modrinth]
+mod-id = "ndSKeq70"
+version = "zlptNO3N"

@@ -565,8 +565,16 @@ file = "resourcepacks/DOORCLOSINGANNOUNCEMENTS.zip"
 hash = "2856ef8ea906278a15bb0f7da33b77ad578e09999e0396dd2ea758fd030da9c6"
 
 [[files]]
+file = "resourcepacks/Dennis_Trident_3.zip"
+hash = "bb63d0d0bcd5bdfc317349da3c596e00129880d1563c8d9b2bb7050490a79952"
+
+[[files]]
 file = "resourcepacks/FRP1.1.zip"
 hash = "6998d7cd4ae6c3f90a3e9f15f198ff4ab663942ade1f9ce0b6e7cc11d362d8f0"
+
+[[files]]
+file = "resourcepacks/FoameRail Class 599 (Metrocar).zip"
+hash = "f5aaea8acd9f82d05e6cbac180acf3ac1a6319cc25507ad7922aa0adf3941741"
 
 [[files]]
 file = "resourcepacks/IVR - Japan Sign Pack v.1.0.0.zip"
@@ -575,6 +583,14 @@ hash = "b82157fe6f67d2d144ca1a5172b6a6de0d311d0837c6db5c015b162df8348fbe"
 [[files]]
 file = "resourcepacks/InterCity Pack.zip"
 hash = "1f3438557ef592e531aae2a9831e36ef1690546cdcc513e05b620fd526f3a493"
+
+[[files]]
+file = "resourcepacks/JRE_131_Series_v1.1.zip"
+hash = "4411ec4be1240b24931e83c64d92f556514c12d16166e62cca3d472e24dc4569"
+
+[[files]]
+file = "resourcepacks/JRE_235_Series_v1.2 (3).zip"
+hash = "779111dbc10bbb367e5b3ed3fa684918c8797288b6610083a39bcbe7b1802222"
 
 [[files]]
 file = "resourcepacks/MTR_FMB2000-3000_series.zip"
@@ -820,6 +836,16 @@ hash = "ab4905aa1bfe7d1ff2062b525ad725647e4d6959a63f9049d63c98d423cf1e3e"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr34-stepford-connect-class-158-express-sprinter.pw.toml"
+hash = "be5b588a12b4896810a0791da647bf6a6ee06552d381d34e2db417822029ca9b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr34-stepford-express-br-class-221-super-voyager.pw.toml"
+hash = "f3eccbaa11eec328690bc70c67c95b2a8ac87065cb2a724ed5f165fda052205c"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr34jr-trains-pack.pw.toml"
 hash = "289dbb9118aa8b7befda8ea030a84ac4caa3068df0ec5f9ccc81d285e5418fe0"
 metafile = true
@@ -835,8 +861,43 @@ hash = "65a1142a70fe266939a75b32f38cad657ac23cd45bd1092d25834c88e87a768f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr4-british-rail-class-67.pw.toml"
+hash = "1166d4d65c4f70025b5667b37b1755f939abe693905b32e5bfc127453e871fe4"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-british-rail-class-68.pw.toml"
+hash = "0fa45daf5ceb15315056da7eee0fabe1c5b6afc012d5a55396c7945e282d90e1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-british-rail-class-800801-stepford-express.pw.toml"
+hash = "7040b61e2e5ff3f1713360a69c3113b40afd8d25341f5fb4282522ae37257508"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr4-manchester-metrolink-bombardier-m5000.pw.toml"
 hash = "421249b7855383806dcccbfc6d376e591c9abff11a8a55b20a349211a79fc347"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-scr-airlink-class-802.pw.toml"
+hash = "99ba48be16d3e7bb66aa269fbdbad760e575e3aac719310298a0e12ebcdef21c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-stepford-connect-br-class-68.pw.toml"
+hash = "498db4b59df7aff3d9c0c2170caff341736e48b92a1bd52a6dd2e717ecd6eae1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-stepford-connect-coaches.pw.toml"
+hash = "7e8e2f502cff310efe4667eaa5bac634013c077f606340817e6698500bf97c57"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-stepford-express-hst.pw.toml"
+hash = "1e7c019b67db418bad63d38bb701cd9bb67decc563d11be04de3b2420e7342ae"
 metafile = true
 
 [[files]]
@@ -852,6 +913,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtrsydney_metro_and_trains.pw.toml"
 hash = "7ac620b63259d4e4a8b2ae3eef23a3b2ef3895a10d511617846d5ef3cde12a4d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/new-stepford-connect-br-class-158-express-sprinter.pw.toml"
+hash = "6e8660355d96a435112458ced92ed7c719e0bbd880c885dd0e9f5c75e666e0e7"
 metafile = true
 
 [[files]]
@@ -884,6 +950,16 @@ file = "resourcepacks/sparemyfuckinglifejonathanhothiseditorsuckswhenyoucantover
 hash = "bd04504ec25dd960f7ed91acb2f7b3b40686a13141f9adcd16da706d2e880226"
 
 [[files]]
+file = "resourcepacks/stepford-connect-and-waterline-class-730.pw.toml"
+hash = "8548422328944c4743d6c0ef571a51a4cdea57a408e724e8765491003e73cf6f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stepford-metrocar.pw.toml"
+hash = "fa9190bde77fb1ccbf5445a4216829e25608dac1098412fa4f4e77c51f041d7a"
+metafile = true
+
+[[files]]
 file = "resourcepacks/the-dual-side-lrv.pw.toml"
 hash = "cefb66aff58a4ccfa78899d23e775bcf2af42fa1e2956a9cb551af14d687293c"
 metafile = true
@@ -891,6 +967,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/trams-on-roads.pw.toml"
 hash = "52a208cb76955c4a227849c8b99ca71dbeee6f0c3e878e57d517e159d1c3b94d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tyne-and-wear-metrocar.pw.toml"
+hash = "7a790f4692dc086eb5a824e5b6a1f0b3d34ce794ccd573150cc83904022d22ff"
 metafile = true
 
 [[files]]
