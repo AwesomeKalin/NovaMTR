@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "40d1408dbe3cc0506c9d7aac0b0f607c28ac157ecd895944a48a3c2b01a1da2a"
+hash = "e1a1a0b30b4b7b176ed04905970e41cdc9a43489448f93c0f36ceff720352141"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "82115b225d34a1db96ae88f9979a7161b296aa6997e02d8ca71daf94bf4f2e7c"
+hash = "42e312acb7ca0cbcd528ce8e1a0c4b3443fbaec416c4d1741200369925f151a3"
 metafile = true
 
 [[files]]
@@ -345,6 +345,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "95a3e4926b406df108ae3da7deeda518a39c1ac5b5ad79ff296c576f16734d58"
 metafile = true
 
 [[files]]
@@ -409,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/station-decoration.pw.toml"
-hash = "17cd86b2431e79690a205afc602a7684ad5211bf721d551b71f21b6283dccccb"
+hash = "3d30dc4c0da00377baccbed6448f15948e2b84acab55407b3c13c21dd309791e"
 metafile = true
 
 [[files]]
@@ -439,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "ce42716cac2a0013206cf1c6f9efe08244caca89d6de49d9a59c6c4fb8ea6308"
+hash = "32dc6cb4de39449eeed52020e7e2ad35bc8cd6821627193a938338bb9da2aaeb"
 metafile = true
 
 [[files]]
@@ -529,8 +534,408 @@ file = "resourcepacks/Bart_Train_Remastered_Addon_V1.3.1.zip"
 hash = "dbf41eaff8d2ea70b62017a8521399a3d5b2efc689dfad7132cc719a6fc66ba4"
 
 [[files]]
-file = "resourcepacks/CHTR.zip"
-hash = "cafe7b612cb0fe1a3d0e7281b47ed9bb9ee51f7f11655557966a3f402f4cd959"
+file = "resourcepacks/CHTR/assets/mtr/chtrLogo.png"
+hash = "68531945660d69fd7ff4e258d5358311cd71513623ef1e868093f1741d5deaae"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrc761.bbmodel"
+hash = "45b42084c1dac9d66432f84fc9f1ab01f01d6293a6a0834430b91cc4641f6ea3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrc761.png"
+hash = "625c30d27fc5e80f0dfc3884edc827f45f9bb0b24d398a51e651bb4e90ca9003"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrc761v2.png"
+hash = "7c56a387267d2d5acc01e3cd405156c878eb11abb3e01809a80f291aae1c7d86"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrf760.bbmodel"
+hash = "369ec6fd10139d6ed80bd95100e9c424f2667151fb4c67728aa27206b4de139a"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrf760v2.png"
+hash = "0b685c693928fc7105bd0eed7c38c48805732bb153b02c22ede6caa4f7f3c33c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrg553.bbmodel"
+hash = "0d61691997ddff8c59884886427a8913be22defe9a8878e642dd168828dd97e2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrg553v2.png"
+hash = "aca13f245c505d884ec3c6dc347c83eb8bb087773b2e99a310f9c849d4cb5dc4"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtri381.bbmodel"
+hash = "c185d6b9d175604edc1c36f4fd543a3b8e5ce497cffe11e202c77ff422ae73ed"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtri381.png"
+hash = "9dc0db0fa99a9a15639397dfaaee6df0618b535541d5d616e11ac36f2ca1e91d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtri421v2.bbmodel"
+hash = "78e26f14775776cc2cbd3d84df59284d96b28a034246c6bc240331f81572a1a7"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtri421v2.png"
+hash = "e9ef7f952fbaa5cf71d9ad8492bf75117fc0eac61291903db2f1ea93372cdebb"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrn762.png"
+hash = "c768ad75c1b0709b5a84a367ed50ce79d5c01244f61ec72844a436a849e7e0a7"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrn762v2.bbmodel"
+hash = "984e8343f14fa6096c931bdaaac4c25c919fda06c0b08850b771bb9712aae409"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrp363.png"
+hash = "06f826bbe300906d8f2c1954852e4f240dc61f52b38edcd8eef807f7cc3997aa"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrp363v2.bbmodel"
+hash = "7ab9983328aed22f4faba334398749fc34e386be5eeaf9b630c31ae6ff79d399"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrt392.png"
+hash = "1cd4f3d850909f2b5dd29f47454081d167c5b6b3401c3c49e63bd6ab9c16c519"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrt392v2.bbmodel"
+hash = "ad9f8ad3b15f717449f6d063ca7db3da8d92e53077cacbe4848b36bb64e9b2f3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtru416v2.bbmodel"
+hash = "59560e378695919174e32b5fcaafd42b305cd0da3d941a96753db62ab899069d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtru416v2.png"
+hash = "9f39acde48804efbdd575913b6149c9fddd7e2a10def3914fbcef7e3a1ff21a0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtru778.bbmodel"
+hash = "0b11caf04bdde8a884b40064a70428426ec1c458eeba039323cf0b3b44c96df4"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtru778.png"
+hash = "b1564caad5e39f2478578865ecd332258fbdbf43d1f16921a4d0b4a9f9409ca1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrum488.bbmodel"
+hash = "986b155f81d5efb7f6ed2bc5358c0881b805bf902229ea3821988d2b60366139"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtrum488.png"
+hash = "3c9aaa19e3b2c05e0bf39368bf304f23d13be26c386baa12ad794dc2c70ed90b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_20ef9fc6.json"
+hash = "5f27f061d8fcb53164873c995ea78643613603f333f4e7f958ea5c3b718447c4"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_21098cea.json"
+hash = "3ee4b54fdf32a8aedc7654d3a8bdb2880b5f6c6610c425430f4871f36b7c1ac6"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_2d0f79a7.json"
+hash = "4fdcf60574cca03752bc709d8d300d7cb1c72a44e72155edd375a8cab7c6ef76"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_3462ea32.json"
+hash = "f435315fa2ac9f981126870799f80c024e50b8378a98e0293eb966b7535be7da"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_36a35ade.json"
+hash = "c852c6535ae4b97499e20ab2dda8ce4201c12b7bb4a053182f15161d625b828c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_36eee1f3.json"
+hash = "df4fa21a80efb9b22bf068fb2717b9a80430e8246b8ddb12f80d31e09b87155e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_3936ddc5.json"
+hash = "6401b8ed43c983e3c5bc2981d468c6cbf243b0ae17bcdd269dc1615ee96e532e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_39fd68cf.json"
+hash = "fd7378daa9b0b4a2b0b7c84aa018b287640d9622462030694abbb878ddbc42ac"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_3c1953f5.json"
+hash = "7afaaf1ea0849af057b47cd53da8a5852fcce09b8ee64b11c65020fb7b9dab0e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_44aa7c89.json"
+hash = "85c04d269d6156e9251ed6cd9ee8c9dd7b9b8f957e3b77044e2d02c6479c598b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_48f52310.json"
+hash = "73a2e66dddefef5777f0e08b4d0abcd7279a27a9263f11bef998e8d1efae26a2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_52a67e48.json"
+hash = "ffb38dc4c3c35eb871d8e5fd222d4bf52a36fea4ab2b666d0be98923fcd758ee"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_52eeef94.json"
+hash = "b0dd3b61f0fc8549c9dc33a458b5e0312c8aa4ea8d5f0715305b03f0ebaa860f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_5f3f8664.json"
+hash = "b592a120cd68c5e22fd265499c9f0885eb272063f74c2ca1b4aca1e5827a53a2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_6fe28f2e.json"
+hash = "aaf0ff2fdb4951ade99dd3cee86beb656a51d10345b6cf99f75d27cf55f0758d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_707411c3.json"
+hash = "d922c23f69447ccb0535a8b00ce8ec2913550d9bcfa31f0ce245e11609784913"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_7707c440.json"
+hash = "71de9b05e580446ec113dbf731c081fb6e6b9bb91a6befd8474237d1ce49e83b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_7bb3d1c.json"
+hash = "5fcc7a5e4fab000209b457c698c37b7d422b911550727cb444c3937c4178272e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_80156e21.json"
+hash = "6466c01bbf17a2c6e5bc4391b9f10eeb21a7d580ac9d6d5ce302c16085263cef"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_8f442f51.json"
+hash = "4a4eae5d37f2712e392f916f262f3a7e3627d6ad0e77d0de0fcb2184c9ab2705"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_91fad895.json"
+hash = "da33ab679cfb2d25312952012b9d7652b2f1a32ccddbd2093a8b1995c33eaa76"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_93bb0ed6.json"
+hash = "b1d83adde0ec6dd7b27344d9af86e16f7abc29246b7c848725d144d6456dbee9"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_9432645f.json"
+hash = "30ed910bf7314828850a3a988ec312457c9bf4721c6932eafa93bbe225b89012"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_98e97bfd.json"
+hash = "b8edc0d23149e530b8bc733fe0ad8e3c95e12dd1628238bfb0d4bbfbbc709eb1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_9f83fd97.json"
+hash = "e938d5771c1b890c71a638051eedf7a2f809dbf42795157a5de594a68a9d5f43"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_aaa578af.json"
+hash = "77e05173fc5cec4fe8348ad03c16911ca9c7b4d32322b04eb651b1831a7267bf"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_abcd670e.json"
+hash = "bc5eef70a5d05438b821f82da162032426a143e6038ff8bc9655f7cb61b06c3b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_ac43dc75.json"
+hash = "be07ad8d810816724c853229f96d6a87f7ab8db5df1d57b1fb9b9fd84642db70"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_b26991f1.json"
+hash = "9b7875bc3cf73fdcefb6c2c169013030cc65a85c94f766dc87a1075d38877892"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_cecb391d.json"
+hash = "ddb0242f1c6c154aac6f1d30fd8786edd8dc2622751726321857c705ff749284"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_cedcae5f.json"
+hash = "6eb5f0ca6c9bd84d63cf9c5a99f1c486fa2a2b8746ecfdc59f48586d4beb5de5"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_d0f9b0a6.json"
+hash = "8fb7cfcfc6cad32ecc40dcd8a81e36bc7d968ab628db8303ec6f4299a422d573"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_da9b47ba.json"
+hash = "6779c43e296a27f81d6bf4e79a7e864c26e1038f3ce54356f94ed47250d07d0c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_db91400a.json"
+hash = "3e8399820e6a60f4ae75688ab13a98110924705807cfea5581caf6f73778ad89"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_e2a52a4e.json"
+hash = "1726c782f3dfd9e7555715f8ae1a70dfa383808883de116b7e32edc432ae5307"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_e2cd4f8d.json"
+hash = "ea60f646a86d3711cb9b9426b4af1a0a5a7e21489b5c30232fe503b3f848980b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_ea0b3bb7.json"
+hash = "4eb4f671323cd0a7b3f2ced4cbd73123ae569bff79a1f6380d9f017ab9592589"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/mtr_custom_resources.json"
+hash = "5603a7616a65a9f68b3de8febae99c53608ebacdb30dfcf7cb12e7c3e0d1cf9c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_10f18245.json"
+hash = "def38f46d935ac78b061592db37aa9dd10ca208d58544cbc8535931d809cb3d1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_138215a6.json"
+hash = "ed5aa68ec438df8c6037876b8d330472b5080eed02f8d102e9b08c3e70bfe3cb"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_15666ac6.json"
+hash = "6c6b466b393c236501360d6a463774eb6dccfb28b486a5c9ab6bf6b9d00c4431"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_218ba48f.json"
+hash = "a0d024cc00ae969b9aec5e5e2b17172cc963f4b579b18f6ba4ba23fc21351aec"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_23fc1795.json"
+hash = "6be91377e0af16ca897125310270044b6d50d8e5f003a173c7b0ffb36c96e638"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_24591d77.json"
+hash = "a1e7a59a49f9a73d2aaa8a0ce3be9b86ef4268986be2344ed590582814158118"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_24872bb1.json"
+hash = "dcf1c3bade112f60fd434f52218e94a55acc75e8a3ac08df24e181135280c537"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_27868d48.json"
+hash = "93e7d0aae1140738535ab4c07fc288098e8198093c9a2ba1cff45d6329c958e9"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_2a8132fa.json"
+hash = "18fd98fbf52a6900ec5f7ce5d31b99b6c79321511813852efd4086fdd20cc212"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_2c8ef0ef.json"
+hash = "b7f17a5eb9c33cb9c82e643fdfade226493f330484003925061efd5906ca3e4a"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_2e54eed5.json"
+hash = "027ccb02a5bc3e7d9a674408712f7fe8082b4ad2a3a46aa42ef3df2a8f5e623c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_382791de.json"
+hash = "a4e2115d8518b05ba301a57bc12102bc668200fa99ae6c7e05fe9d8c613d9dc0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_39a933d3.json"
+hash = "8aee8b5fd97ecff89b8f88ae45493b363d80f5446c5aca639ee43c9001854c85"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_455ad12f.json"
+hash = "35fceff735adbd23e10cd21025910ee986e497cd3652b772e92996def291b82c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_48e3ab3f.json"
+hash = "405611bbb4bd9bb567fe21586a6428e053fcf3b3dc10219e8c82e20ba01450d2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_5a3c7723.json"
+hash = "118198f152d1e78e418a9d2ccabc48034570ca7107191e7161bf8343a8ebf6fd"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_755b673a.json"
+hash = "cbc02f1bbbfa9d9ff41bb248025823476f91d127ec77a74a61f0eaa3d0994cc2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_84821119.json"
+hash = "06e843f0111cab0ff6a90e2def06a2ff88cbc66473051034cff8fe19d8ab77cd"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_89dfc8fb.json"
+hash = "c14ff20b22d6e615aedd5daf6355175582ced56d8768a4e25e7a417db26a7e40"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_8d144eef.json"
+hash = "bf90ce19dbb8cedfd0baf25e4f9062a836e2e9c849fe53ce5702889be4a76e0c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_932b5ccd.json"
+hash = "295db84ae13848877f19e8b9885f18af74a241cadbdad10bfa5b442d6a9bddba"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_9be63d22.json"
+hash = "5875df1acb1ac1ba823cb46bde393420791cdac3be47615bcbcec060ee8ac837"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_a68bc551.json"
+hash = "888da685a75d829838fd8a1f0cb1c701443f13902e7902fd36f5d81bd56f55e1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_b127983.json"
+hash = "d926254f4aca0657efeabefe3f8a034aed252f621cfd224db99686b1d15ad302"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_b28e3811.json"
+hash = "a145ae1f92f46ada2c4e0f1d1473f5c10c4b49358db54d6c544278a3574f2f48"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_b7222c81.json"
+hash = "219d6615cb4c6f92796102b9234cbc75d0364774d4fde701b2cc3be77bdf54cc"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_b7f07100.json"
+hash = "15b66a7c929d10ccaf79a44f80b215b53c3f862093b9159e0d016b25c273c589"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_bc91cf0f.json"
+hash = "88fa8503e9f1f4576949ef3ecac16fb2ce52f994f64cca1c44e10ed3f7a9115b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_beae2166.json"
+hash = "bffb99209c2629ab561d24955d69194a0beab6ccc2348b37d5f3ff18f215f224"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_cf9ba4e9.json"
+hash = "2376c5ba0dc8bbb1eb4a5dfae54c7a0c0bafdc56a76878e699f1c81916ee3143"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_cfe1722c.json"
+hash = "d72b699e504945ec7819d7d96c2273b4a3a9e48cee7b3f715fa1bd635e734572"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_d7182938.json"
+hash = "af227d739063744ed21ba519a56e22d36857565cf73557a6ef0d73558fd16c91"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_d77840af.json"
+hash = "580a7a92c8f43d1c4bd266acf1bd0083f1db5f4a6b65020233d309ffb2d0055a"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_f390d479.json"
+hash = "5b363b42f064f24f30cca7ab55d7dedf0f46bbed600d0475a5ff5d01c9608474"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_fa3abc32.json"
+hash = "37f4ddd401688dfb938a48b8b297b8a3b25ce9d962762ea2f6edc24a72da91e7"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_fbdc045e.json"
+hash = "cf7b7cdf2d801577a7e8218b6b30e9fcfeab1211d8aabd61e7c1d36cdc2887c5"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_fd4f128a.json"
+hash = "8a4a63273f6c27983583b02ca61ecf5510c8d355bf745d3fe5a3953fdc0fa13c"
+
+[[files]]
+file = "resourcepacks/CHTR/pack.mcmeta"
+hash = "8202c0e4d26225a5d618193dcfaa5eb4ebdba2ac54e1a54e0795d90bcf47c36f"
+
+[[files]]
+file = "resourcepacks/CHTR/pack.png"
+hash = "68531945660d69fd7ff4e258d5358311cd71513623ef1e868093f1741d5deaae"
 
 [[files]]
 file = "resourcepacks/Cityrail_Trains.zip"
@@ -625,6 +1030,10 @@ file = "resourcepacks/RT D78-2-20250831-165621.zip"
 hash = "c881a2f8745e73b8ff48b1556be122e560a3b4f178ce3496cf3547ae638bbeaa"
 
 [[files]]
+file = "resourcepacks/S43-Tec Stadtbahn Pack BETA 5.1.zip"
+hash = "69545dbcc6716b08114dbbcc5018b6935c5a6a5eab3ff63c16686132a76684d8"
+
+[[files]]
 file = "resourcepacks/SHSRUP Avant Pack.zip"
 hash = "b0ddb5cb299caf2a892854d8af79539956aa30d41fa29599ed843532c8c150a9"
 
@@ -715,6 +1124,10 @@ hash = "dfbaee108c5380347676b7dd25eb824b95a574593c132ac1dd1fdf125bf4af76"
 [[files]]
 file = "resourcepacks/WuhanMetroRails.zip"
 hash = "e0d72b1c026bde442458ad81c7e90e02e1f0c50cad3a3992c1eed9261f430568"
+
+[[files]]
+file = "resourcepacks/[MTR4] Karlsruher Stadtbahn.zip"
+hash = "b8f6bb53a55171c196ad4b8cbaf07c4b07c2d9fd3a48bc4f666c6f9c4c8c48db"
 
 [[files]]
 file = "resourcepacks/actrons-guided-busway.pw.toml"
@@ -811,6 +1224,11 @@ hash = "e93463d9650229f16e921677e5e9de48dff9c593d8427bca49512ca968c1a421"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr-n700a-series-shinkansen.pw.toml"
+hash = "cfd08303ad8cc1c9460aaaa66a5a1ece4ec0898f626759b67a047376b5bd5aba"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr-shinkansen-infrastructure.pw.toml"
 hash = "4bf35500bcdc9601f21db3a58fa171d83adc1b1752779dbb23a07c2fd12466b7"
 metafile = true
@@ -876,6 +1294,16 @@ hash = "7040b61e2e5ff3f1713360a69c3113b40afd8d25341f5fb4282522ae37257508"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr4-jr-east-e233-2000-series-jre2332000.pw.toml"
+hash = "3c2531436d08e14f4b608b6eecd1aadf0313affdbb2c98ac97dbe3345597d77b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-jr-east-e233-series-jre233.pw.toml"
+hash = "bdcac77d51475ebdc0c50346601511d2b8b198a2826d6ffe6d0e02fbc5309b48"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr4-manchester-metrolink-bombardier-m5000.pw.toml"
 hash = "421249b7855383806dcccbfc6d376e591c9abff11a8a55b20a349211a79fc347"
 metafile = true
@@ -898,6 +1326,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-stepford-express-hst.pw.toml"
 hash = "1e7c019b67db418bad63d38bb701cd9bb67decc563d11be04de3b2420e7342ae"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-zoomono.pw.toml"
+hash = "ac12a9f9aa3c4b70e01e89291b88af56d4d3e3315a4d642fe6ea93d791572b18"
 metafile = true
 
 [[files]]
@@ -1006,5 +1439,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/world-pids-pack.pw.toml"
-hash = "82e23205df493ce917c761f2c4cf65cfad8db77aed83e901f664ed9cf0cd5dc8"
+hash = "bda1d7ab35a82d3d499b40a771c1a856836a5a43700b29cd949c348fbdd41b18"
 metafile = true
