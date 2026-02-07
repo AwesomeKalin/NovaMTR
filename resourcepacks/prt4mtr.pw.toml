@@ -1,0 +1,13 @@
+name = "Personal Rapid Transit for MTR"
+filename = "prt.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lz5NHQmc/versions/HQ8CkWho/prt.zip"
+hash-format = "sha512"
+hash = "12c947a199881a65d34893be65107d926e51aa3ae3423b49dcee913a159550c7dc9ee10f64148d5281a593933ad578a5addcf4df848663ed3f9a30db84f9c7fd"
+
+[update]
+[update.modrinth]
+mod-id = "Lz5NHQmc"
+version = "HQ8CkWho"

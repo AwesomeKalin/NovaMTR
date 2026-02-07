@@ -1140,8 +1140,8 @@ hash = "cd19eb9fc289fb943d3cb0256822c7ecae324be077029417e05f5e11db265a35"
 metafile = true
 
 [[files]]
-file = "resourcepacks/bvg_pack.pw.toml"
-hash = "806b23470ba0c733d63ec067849b803917205ea3c477bbb415b19449b7b61c66"
+file = "resourcepacks/british-rail-class-458.pw.toml"
+hash = "87f69065584ff64dc33e04fcc508dfb80aa4640176474758a7d5ffccff892d46"
 metafile = true
 
 [[files]]
@@ -1150,18 +1150,8 @@ hash = "e8503c3c149229039edb8e8d3d080ccf99c4717b9b3163c392acbe735e767a64"
 metafile = true
 
 [[files]]
-file = "resourcepacks/conveyor-belt-sushi.pw.toml"
-hash = "1af8c8bf699ecbccb801d68655eb1ce6d2aafd813fb6e019f455239669265527"
-metafile = true
-
-[[files]]
 file = "resourcepacks/crosscountry-iet-pack.pw.toml"
 hash = "6dade1cd2b70258a83d96bbbb269739f343f83bfc701e6f00ade9c8eeb26e559"
-metafile = true
-
-[[files]]
-file = "resourcepacks/cx100-tampa.pw.toml"
-hash = "4cd8dbbace9b041f671ab1f638de6f2f9f7e5d2aa308744087134448f8a1edea"
 metafile = true
 
 [[files]]
@@ -1206,6 +1196,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-4jcm-(un)-legible-prague-pid.pw.toml"
 hash = "2b5948d1502759594e7598d35f183b17c482744dbc281d7a8f937ad3cab42212"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-british-rail-class-165.pw.toml"
+hash = "393a0c850cb21355fcb3f8024c9bb4f792dcec98a2a9572e3f6b3ee387c49198"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-british-rail-class-378-capitalstar.pw.toml"
+hash = "96f5fdae4f988f4da1f0e5d936f1feaa1ce06dc1928fd70f3bd1cab9c92638ef"
 metafile = true
 
 [[files]]
@@ -1364,6 +1364,11 @@ hash = "5e9158c5b60bdf0e1b323e8870f888ebb1f6a92120e756bc3b1008c8783be1c4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/prt4mtr.pw.toml"
+hash = "18212438999b2c21626c997752a5ea6b07fa42d955ae1c2329df31ea87fb5ef0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/renfe-repaints.pw.toml"
 hash = "665b592fbc2547db4f3cc9f08899f39c92a0d9bde590ec676a96d54ec81f2ad8"
 metafile = true
@@ -1439,5 +1444,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/world-pids-pack.pw.toml"
-hash = "bda1d7ab35a82d3d499b40a771c1a856836a5a43700b29cd949c348fbdd41b18"
+hash = "da09eafcf2d11ba68509d3533e373d3307656193ed076438d0978d3fe1499b04"
 metafile = true
