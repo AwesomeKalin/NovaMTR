@@ -545,6 +545,14 @@ file = "resourcepacks/Anti-France Tactile Map.zip"
 hash = "c620f9b2713aa0fe0788a76447f326a3b5ac960142f61428839086886a8b68be"
 
 [[files]]
+file = "resourcepacks/B07 MTR4.zip"
+hash = "3607f4278fca369e82d6a1f6e904f4f5d462b8001d86b81e0ebd0f1c74b49b07"
+
+[[files]]
+file = "resourcepacks/B90 MTR4.zip"
+hash = "dc54ca58016c405dd205efb3f570cab317534a7080af074a11d590471bcb0b1e"
+
+[[files]]
 file = "resourcepacks/Bart_Train_Remastered_Addon_V1.3.1.zip"
 hash = "dbf41eaff8d2ea70b62017a8521399a3d5b2efc689dfad7132cc719a6fc66ba4"
 
@@ -1019,6 +1027,10 @@ hash = "779111dbc10bbb367e5b3ed3fa684918c8797288b6610083a39bcbe7b1802222"
 [[files]]
 file = "resourcepacks/JR_East_E233_Series_V1.1 2.zip"
 hash = "e38b1c771e2ac3a481753ddb939242af8153bd65d3b9c2fde3db216d62c91179"
+
+[[files]]
+file = "resourcepacks/LT Pack.zip"
+hash = "ec6eed7f8fa715c281fac548812538d03e664aef9ba002521182e9f71c59f59f"
 
 [[files]]
 file = "resourcepacks/MTR_FMB2000-3000_series.zip"
