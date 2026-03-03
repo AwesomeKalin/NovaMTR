@@ -1,0 +1,13 @@
+name = "Métropolis."
+filename = "Metropolis-0.4.1-beta-MTR4.0.3+fabric-1.20.1_20260303.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g5AOeP4R/versions/FKQiRMCe/Metropolis-0.4.1-beta-MTR4.0.3%2Bfabric-1.20.1_20260303.jar"
+hash-format = "sha512"
+hash = "d29082d0917216b634bdb4f893e204273cfcf2b8d2c8f44c31ce0306fc7ea557a6053486655c12ce66c61f67bdd961cf812566dda0a9639fb70fec1f968803fa"
+
+[update]
+[update.modrinth]
+mod-id = "g5AOeP4R"
+version = "FKQiRMCe"

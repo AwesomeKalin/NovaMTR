@@ -1,0 +1,1007 @@
+{
+  "ukcrossing1": {
+    "sounds": [
+      {
+        "name": "curts_uk_stuffs/ukcrossing1",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "ukcrossing2": {
+    "sounds": [
+      {
+        "name": "curts_uk_stuffs/ukcrossing2",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "czechcrossing": {
+    "sounds": [
+      {
+        "name": "czech/czechcrossing",
+        "attenuation_distance": 32
+      }
+    ]
+  },
+  "jingle": {
+    "sounds": [
+      "station_jingles/j1"
+    ]
+  },
+  "jinglefull": {
+    "sounds": [
+      "station_jingles/j1full"
+    ]
+  },
+  "d0": {
+    "sounds": [
+      "station_jingles/d0"
+    ]
+  },
+  "d1": {
+    "sounds": [
+      "station_jingles/d1"
+    ]
+  },
+  "d2": {
+    "sounds": [
+      "station_jingles/d2"
+    ]
+  },
+  "d3": {
+    "sounds": [
+      "station_jingles/d3"
+    ]
+  },
+  "d4": {
+    "sounds": [
+      "station_jingles/d4"
+    ]
+  },
+  "d5": {
+    "sounds": [
+      "station_jingles/d5"
+    ]
+  },
+  "lineaplat1": {
+    "sounds": [
+      "station_jingles/lineaplat1"
+    ]
+  },
+  "jr_ddg_final_681_horn": {
+    "sounds": [
+      "station_jingles/jr_ddg_final_681_horn"
+    ]
+  },
+  "jr_sh_6": {
+    "sounds": [
+      "station_jingles/jr_sh_6"
+    ]
+  },
+  "jr_maihama_happiness_is_here__platform_1_": {
+    "sounds": [
+      "station_jingles/jr_maihama_happiness_is_here__platform_1_"
+    ]
+  },
+  "jr_ddg_final_207_horn": {
+    "sounds": [
+      "station_jingles/jr_ddg_final_207_horn"
+    ]
+  },
+  "jr_tr8_blue_danube": {
+    "sounds": [
+      "station_jingles/jr_tr8_blue_danube"
+    ]
+  },
+  "jr_azamino_v1": {
+    "sounds": [
+      "station_jingles/jr_azamino_v1"
+    ]
+  },
+  "jr_sakura_sakura__musashi_koganei_ver__d_": {
+    "sounds": [
+      "station_jingles/jr_sakura_sakura__musashi_koganei_ver__d_"
+    ]
+  },
+  "jr_ddg_ios_brake": {
+    "sounds": [
+      "station_jingles/jr_ddg_ios_brake"
+    ]
+  },
+  "jr_sh_7": {
+    "sounds": [
+      "station_jingles/jr_sh_7"
+    ]
+  },
+  "jr_cosmos_v1": {
+    "sounds": [
+      "station_jingles/jr_cosmos_v1"
+    ]
+  },
+  "jr_joban_3_1": {
+    "sounds": [
+      "station_jingles/jr_joban_3_1"
+    ]
+  },
+  "jr_sunny_spot_v1": {
+    "sounds": [
+      "station_jingles/jr_sunny_spot_v1"
+    ]
+  },
+  "jr_ddg_ios_e231_atc_bell": {
+    "sounds": [
+      "station_jingles/jr_ddg_ios_e231_atc_bell"
+    ]
+  },
+  "jr_sh_5": {
+    "sounds": [
+      "station_jingles/jr_sh_5"
+    ]
+  },
+  "jr_ebisu_ver__g": {
+    "sounds": [
+      "station_jingles/jr_ebisu_ver__g"
+    ]
+  },
+  "jr_maihama_brand_new_day__platform_2_": {
+    "sounds": [
+      "station_jingles/jr_maihama_brand_new_day__platform_2_"
+    ]
+  },
+  "jr_mellow_time": {
+    "sounds": [
+      "station_jingles/jr_mellow_time"
+    ]
+  },
+  "jr_azamino_v2": {
+    "sounds": [
+      "station_jingles/jr_azamino_v2"
+    ]
+  },
+  "jr_sh_9_1": {
+    "sounds": [
+      "station_jingles/jr_sh_9_1"
+    ]
+  },
+  "jr_ebisu_ver__f": {
+    "sounds": [
+      "station_jingles/jr_ebisu_ver__f"
+    ]
+  },
+  "jr_sh_4": {
+    "sounds": [
+      "station_jingles/jr_sh_4"
+    ]
+  },
+  "jr_sunny_spot_v2": {
+    "sounds": [
+      "station_jingles/jr_sunny_spot_v2"
+    ]
+  },
+  "jr_gota_del_vient": {
+    "sounds": [
+      "station_jingles/jr_gota_del_vient"
+    ]
+  },
+  "jr_sf_10_31": {
+    "sounds": [
+      "station_jingles/jr_sf_10_31"
+    ]
+  },
+  "jr_fraying_of_flowers_v2": {
+    "sounds": [
+      "station_jingles/jr_fraying_of_flowers_v2"
+    ]
+  },
+  "jr_melody": {
+    "sounds": [
+      "station_jingles/jr_melody"
+    ]
+  },
+  "jr_susuki_heights_v2": {
+    "sounds": [
+      "station_jingles/jr_susuki_heights_v2"
+    ]
+  },
+  "jr_syncopation": {
+    "sounds": [
+      "station_jingles/jr_syncopation"
+    ]
+  },
+  "jr_sh_1": {
+    "sounds": [
+      "station_jingles/jr_sh_1"
+    ]
+  },
+  "jr_sh_3": {
+    "sounds": [
+      "station_jingles/jr_sh_3"
+    ]
+  },
+  "jr_ddg_final_osaka_loop": {
+    "sounds": [
+      "station_jingles/jr_ddg_final_osaka_loop"
+    ]
+  },
+  "jr_ddg_ios_go": {
+    "sounds": [
+      "station_jingles/jr_ddg_ios_go"
+    ]
+  },
+  "jr_sh_2": {
+    "sounds": [
+      "station_jingles/jr_sh_2"
+    ]
+  },
+  "jr_airly": {
+    "sounds": [
+      "station_jingles/jr_airly"
+    ]
+  },
+  "jr_marina": {
+    "sounds": [
+      "station_jingles/jr_marina"
+    ]
+  },
+  "jr_ddg_ios_103_horn": {
+    "sounds": [
+      "station_jingles/jr_ddg_ios_103_horn"
+    ]
+  },
+  "jr_tr3": {
+    "sounds": [
+      "station_jingles/jr_tr3"
+    ]
+  },
+  "jr_twilight": {
+    "sounds": [
+      "station_jingles/jr_twilight"
+    ]
+  },
+  "jr_station_notification_2": {
+    "sounds": [
+      "station_jingles/jr_station_notification_2"
+    ]
+  },
+  "jr_time_of_summer_colors": {
+    "sounds": [
+      "station_jingles/jr_time_of_summer_colors"
+    ]
+  },
+  "jr_station_notification_3": {
+    "sounds": [
+      "station_jingles/jr_station_notification_3"
+    ]
+  },
+  "jr_sh_8_1": {
+    "sounds": [
+      "station_jingles/jr_sh_8_1"
+    ]
+  },
+  "jr_tr12": {
+    "sounds": [
+      "station_jingles/jr_tr12"
+    ]
+  },
+  "jr_astro_boy_v4": {
+    "sounds": [
+      "station_jingles/jr_astro_boy_v4"
+    ]
+  },
+  "jr_tr2": {
+    "sounds": [
+      "station_jingles/jr_tr2"
+    ]
+  },
+  "jr_sf_10_43": {
+    "sounds": [
+      "station_jingles/jr_sf_10_43"
+    ]
+  },
+  "jr_the_sound_of_the_bell": {
+    "sounds": [
+      "station_jingles/jr_the_sound_of_the_bell"
+    ]
+  },
+  "jr_verde_rayo_v2": {
+    "sounds": [
+      "station_jingles/jr_verde_rayo_v2"
+    ]
+  },
+  "jr_flowers_and_sky": {
+    "sounds": [
+      "station_jingles/jr_flowers_and_sky"
+    ]
+  },
+  "jr_ddg_ss_atc_kincon": {
+    "sounds": [
+      "station_jingles/jr_ddg_ss_atc_kincon"
+    ]
+  },
+  "jr_sakura_sakura__musashi_koganei_ver__b_": {
+    "sounds": [
+      "station_jingles/jr_sakura_sakura__musashi_koganei_ver__b_"
+    ]
+  },
+  "jr_tr11": {
+    "sounds": [
+      "station_jingles/jr_tr11"
+    ]
+  },
+  "jr_morning_tranquility": {
+    "sounds": [
+      "station_jingles/jr_morning_tranquility"
+    ]
+  },
+  "jr_tr1": {
+    "sounds": [
+      "station_jingles/jr_tr1"
+    ]
+  },
+  "jr_sunny_islands": {
+    "sounds": [
+      "station_jingles/jr_sunny_islands"
+    ]
+  },
+  "jr_the_other_side_of_the_track": {
+    "sounds": [
+      "station_jingles/jr_the_other_side_of_the_track"
+    ]
+  },
+  "jr_astro_boy_v3": {
+    "sounds": [
+      "station_jingles/jr_astro_boy_v3"
+    ]
+  },
+  "jr_bell_b": {
+    "sounds": [
+      "station_jingles/jr_bell_b"
+    ]
+  },
+  "jr_sakura_sakura__musashi_koganei_ver__c_": {
+    "sounds": [
+      "station_jingles/jr_sakura_sakura__musashi_koganei_ver__c_"
+    ]
+  },
+  "jr_sweet_call": {
+    "sounds": [
+      "station_jingles/jr_sweet_call"
+    ]
+  },
+  "jr_sakura_sakura__komagome_ver__b_": {
+    "sounds": [
+      "station_jingles/jr_sakura_sakura__komagome_ver__b_"
+    ]
+  },
+  "jr_dance_on": {
+    "sounds": [
+      "station_jingles/jr_dance_on"
+    ]
+  },
+  "jr_astro_boy_v2": {
+    "sounds": [
+      "station_jingles/jr_astro_boy_v2"
+    ]
+  },
+  "jr_maihama_when_your_heart_makes_a_wish__platform_1___jr_maihama_station_": {
+    "sounds": [
+      "station_jingles/jr_maihama_when_your_heart_makes_a_wish__platform_1___jr_maihama_station_"
+    ]
+  },
+  "jr_tr4": {
+    "sounds": [
+      "station_jingles/jr_tr4"
+    ]
+  },
+  "jr_the_coming_thaw_v1": {
+    "sounds": [
+      "station_jingles/jr_the_coming_thaw_v1"
+    ]
+  },
+  "jr_cielo_estrellado": {
+    "sounds": [
+      "station_jingles/jr_cielo_estrellado"
+    ]
+  },
+  "jr_susuki_heights": {
+    "sounds": [
+      "station_jingles/jr_susuki_heights"
+    ]
+  },
+  "jr_bell_a": {
+    "sounds": [
+      "station_jingles/jr_bell_a"
+    ]
+  },
+  "jr_ddg_ios_info": {
+    "sounds": [
+      "station_jingles/jr_ddg_ios_info"
+    ]
+  },
+  "jr_kids_station": {
+    "sounds": [
+      "station_jingles/jr_kids_station"
+    ]
+  },
+  "jr_astro_boy_v1": {
+    "sounds": [
+      "station_jingles/jr_astro_boy_v1"
+    ]
+  },
+  "jr_distant_blue_sky": {
+    "sounds": [
+      "station_jingles/jr_distant_blue_sky"
+    ]
+  },
+  "jr_sf_22_29__kanamachi_ver__": {
+    "sounds": [
+      "station_jingles/jr_sf_22_29__kanamachi_ver__"
+    ]
+  },
+  "jr_rainy_station_b": {
+    "sounds": [
+      "station_jingles/jr_rainy_station_b"
+    ]
+  },
+  "jr_see_you_again": {
+    "sounds": [
+      "station_jingles/jr_see_you_again"
+    ]
+  },
+  "jr_osaka_loop_1": {
+    "sounds": [
+      "station_jingles/jr_osaka_loop_1"
+    ]
+  },
+  "jr_rainy_station_c": {
+    "sounds": [
+      "station_jingles/jr_rainy_station_c"
+    ]
+  },
+  "jr_sf_10_60": {
+    "sounds": [
+      "station_jingles/jr_sf_10_60"
+    ]
+  },
+  "jr_ddg_ios_hijyotsuho": {
+    "sounds": [
+      "station_jingles/jr_ddg_ios_hijyotsuho"
+    ]
+  },
+  "jr_holiday_v2": {
+    "sounds": [
+      "station_jingles/jr_holiday_v2"
+    ]
+  },
+  "jr_tr5_song_of_spring": {
+    "sounds": [
+      "station_jingles/jr_tr5_song_of_spring"
+    ]
+  },
+  "jr_waiting_for_the_spring_wind": {
+    "sounds": [
+      "station_jingles/jr_waiting_for_the_spring_wind"
+    ]
+  },
+  "jr_sakura_sakura__komagome_ver__a_": {
+    "sounds": [
+      "station_jingles/jr_sakura_sakura__komagome_ver__a_"
+    ]
+  },
+  "jr_sh_2_1": {
+    "sounds": [
+      "station_jingles/jr_sh_2_1"
+    ]
+  },
+  "jr_osaka_loop_2": {
+    "sounds": [
+      "station_jingles/jr_osaka_loop_2"
+    ]
+  },
+  "jr_water_crown": {
+    "sounds": [
+      "station_jingles/jr_water_crown"
+    ]
+  },
+  "jr_osaka_loop_3": {
+    "sounds": [
+      "station_jingles/jr_osaka_loop_3"
+    ]
+  },
+  "jr_moonstone": {
+    "sounds": [
+      "station_jingles/jr_moonstone"
+    ]
+  },
+  "jr_new_season": {
+    "sounds": [
+      "station_jingles/jr_new_season"
+    ]
+  },
+  "jr_flower_shop": {
+    "sounds": [
+      "station_jingles/jr_flower_shop"
+    ]
+  },
+  "jr_the_whereabouts_of_the_southern_wind": {
+    "sounds": [
+      "station_jingles/jr_the_whereabouts_of_the_southern_wind"
+    ]
+  },
+  "jr_tr6_vivaldi_spring": {
+    "sounds": [
+      "station_jingles/jr_tr6_vivaldi_spring"
+    ]
+  },
+  "jr_ebisu_midi": {
+    "sounds": [
+      "station_jingles/jr_ebisu_midi"
+    ]
+  },
+  "jr_holiday_v1": {
+    "sounds": [
+      "station_jingles/jr_holiday_v1"
+    ]
+  },
+  "jr_waterfront": {
+    "sounds": [
+      "station_jingles/jr_waterfront"
+    ]
+  },
+  "jr_babbling_brook_v1": {
+    "sounds": [
+      "station_jingles/jr_babbling_brook_v1"
+    ]
+  },
+  "jr_sakura_sakura__musashi_koganei_ver__a_": {
+    "sounds": [
+      "station_jingles/jr_sakura_sakura__musashi_koganei_ver__a_"
+    ]
+  },
+  "jr_old_music_box": {
+    "sounds": [
+      "station_jingles/jr_old_music_box"
+    ]
+  },
+  "jr_sf_22_29": {
+    "sounds": [
+      "station_jingles/jr_sf_22_29"
+    ]
+  },
+  "jr_ddg_ios_e231_horn": {
+    "sounds": [
+      "station_jingles/jr_ddg_ios_e231_horn"
+    ]
+  },
+  "jr_osaka_loop_4": {
+    "sounds": [
+      "station_jingles/jr_osaka_loop_4"
+    ]
+  },
+  "jr_babbling_brook_v2": {
+    "sounds": [
+      "station_jingles/jr_babbling_brook_v2"
+    ]
+  },
+  "jr_commuter_train_of_love": {
+    "sounds": [
+      "station_jingles/jr_commuter_train_of_love"
+    ]
+  },
+  "jr_seiryu": {
+    "sounds": [
+      "station_jingles/jr_seiryu"
+    ]
+  },
+  "jr_sf_22_14": {
+    "sounds": [
+      "station_jingles/jr_sf_22_14"
+    ]
+  },
+  "jr_sh_3_1": {
+    "sounds": [
+      "station_jingles/jr_sh_3_1"
+    ]
+  },
+  "jr_coral_reef": {
+    "sounds": [
+      "station_jingles/jr_coral_reef"
+    ]
+  },
+  "jr_first_spring_storm": {
+    "sounds": [
+      "station_jingles/jr_first_spring_storm"
+    ]
+  },
+  "jr_verde_rayo": {
+    "sounds": [
+      "station_jingles/jr_verde_rayo"
+    ]
+  },
+  "jr_tr7_jesu__joy_of_man_s_desiring": {
+    "sounds": [
+      "station_jingles/jr_tr7_jesu__joy_of_man_s_desiring"
+    ]
+  },
+  "jr_waking_of_the_trees_v1": {
+    "sounds": [
+      "station_jingles/jr_waking_of_the_trees_v1"
+    ]
+  },
+  "jr_ddg_ios_e231_atc_2_bell": {
+    "sounds": [
+      "station_jingles/jr_ddg_ios_e231_atc_2_bell"
+    ]
+  },
+  "jr_sf_1": {
+    "sounds": [
+      "station_jingles/jr_sf_1"
+    ]
+  },
+  "jr_sf_3": {
+    "sounds": [
+      "station_jingles/jr_sf_3"
+    ]
+  },
+  "jr_ddg_nds_e231_door_chime": {
+    "sounds": [
+      "station_jingles/jr_ddg_nds_e231_door_chime"
+    ],
+    "attenuation_distance": 64
+  },
+  "jr_maihama_when_your_heart_makes_a_wish__platform_2___jr_maihama_station_": {
+    "sounds": [
+      "station_jingles/jr_maihama_when_your_heart_makes_a_wish__platform_2___jr_maihama_station_"
+    ]
+  },
+  "jr_waking_of_the_trees_v2": {
+    "sounds": [
+      "station_jingles/jr_waking_of_the_trees_v2"
+    ]
+  },
+  "jr_sh_1_1": {
+    "sounds": [
+      "station_jingles/jr_sh_1_1"
+    ]
+  },
+  "jr_eau_conrante": {
+    "sounds": [
+      "station_jingles/jr_eau_conrante"
+    ]
+  },
+  "jr_sf_10_38": {
+    "sounds": [
+      "station_jingles/jr_sf_10_38"
+    ]
+  },
+  "jr_babble": {
+    "sounds": [
+      "station_jingles/jr_babble"
+    ]
+  },
+  "jr_joban_2": {
+    "sounds": [
+      "station_jingles/jr_joban_2"
+    ]
+  },
+  "jr_maihama_brand_new_day__platform_1_": {
+    "sounds": [
+      "station_jingles/jr_maihama_brand_new_day__platform_1_"
+    ]
+  },
+  "jr_sh_5_1": {
+    "sounds": [
+      "station_jingles/jr_sh_5_1"
+    ]
+  },
+  "jr_spring": {
+    "sounds": [
+      "station_jingles/jr_spring"
+    ]
+  },
+  "jr_sh_8": {
+    "sounds": [
+      "station_jingles/jr_sh_8"
+    ]
+  },
+  "jr_sunrise": {
+    "sounds": [
+      "station_jingles/jr_sunrise"
+    ]
+  },
+  "jr_maihama_happiness_is_here__platform_2_": {
+    "sounds": [
+      "station_jingles/jr_maihama_happiness_is_here__platform_2_"
+    ]
+  },
+  "jr_ebisu_ver__h": {
+    "sounds": [
+      "station_jingles/jr_ebisu_ver__h"
+    ]
+  },
+  "jr_sh_5_2": {
+    "sounds": [
+      "station_jingles/jr_sh_5_2"
+    ]
+  },
+  "jr_beautiful_hill": {
+    "sounds": [
+      "station_jingles/jr_beautiful_hill"
+    ]
+  },
+  "jr_walnut_play": {
+    "sounds": [
+      "station_jingles/jr_walnut_play"
+    ]
+  },
+  "jr_station_notification": {
+    "sounds": [
+      "station_jingles/jr_station_notification"
+    ]
+  },
+  "door_open": {
+    "sounds": [
+      {
+        "name": "hkmtr/door_open"
+      }
+    ]
+  },
+  "eal_mind_the_gaps_and_difference_in_levels": {
+    "sounds": [
+      {
+        "name": "hkmtr/eal_mind_the_gap_and_difference_in_levels"
+      }
+    ]
+  },
+  "mind_the_gap": {
+    "sounds": [
+      {
+        "name": "hkmtr/mind_the_gap"
+      }
+    ]
+  },
+  "stand_back_from_the_platform_doors": {
+    "sounds": [
+      {
+        "name": "hkmtr/stand_back_from_the_platform_doors"
+      }
+    ]
+  },
+  "stand_back_from_the_train_doors": {
+    "sounds": [
+      {
+        "name": "hkmtr/stand_back_from_the_train_doors"
+      }
+    ]
+  },
+  "train_arriving": {
+    "sounds": [
+      {
+        "name": "hkmtr/train_arriving"
+      }
+    ]
+  },
+  "route1jingle": {
+    "sounds": [
+      {
+        "name": "station_jingles/route1jingle"
+      }
+    ]
+  },
+  "bluebirdjingle": {
+    "sounds": [
+      {
+        "name": "station_jingles/bluebirdjingle"
+      }
+    ]
+  },
+  "rainingjingle": {
+    "sounds": [
+      {
+        "name": "station_jingles/rainingjingle"
+      }
+    ]
+  },
+  "splatoonjingle": {
+    "sounds": [
+      {
+        "name": "station_jingles/splatoonjingle"
+      }
+    ]
+  },
+  "osaka_metro_final_stop_interior": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_final_stop_interior"
+    ]
+  },
+  "osaka_metro_door_open": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_door_open"
+    ]
+  },
+  "osaka_metro_notification": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_notification"
+    ]
+  },
+  "osaka_metro_announcement": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_announcement"
+    ]
+  },
+  "osaka_metro_yaominami": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_yaominami"
+    ]
+  },
+  "osaka_metro_door_close": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_door_close"
+    ]
+  },
+  "osaka_metro_final_train_notification": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_final_train_notification"
+    ]
+  },
+  "osaka_metro_leaving_2": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_leaving_2"
+    ]
+  },
+  "osaka_metro_arriving_2": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_arriving_2"
+    ]
+  },
+  "osaka_metro_arriving_3": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_arriving_3"
+    ]
+  },
+  "osaka_metro_leaving_3": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_leaving_3"
+    ]
+  },
+  "osaka_metro_leaving_1": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_leaving_1"
+    ]
+  },
+  "osaka_metro_arriving_1": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_arriving_1"
+    ]
+  },
+  "osaka_metro_leaving_4": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_leaving_4"
+    ]
+  },
+  "osaka_metro_arriving_4": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_arriving_4"
+    ]
+  },
+  "osaka_metro_leaving_5": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_leaving_5"
+    ]
+  },
+  "osaka_metro_notification_2": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_notification_2"
+    ]
+  },
+  "osaka_metro_notification_3": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_notification_3"
+    ]
+  },
+  "osaka_metro_terminates_here": {
+    "sounds": [
+      "osaka_station_sounds/osaka_metro_terminates_here"
+    ]
+  },
+  "icytundrahorizonic": {
+    "sounds": [
+      "germanmain/icytundrahorizonic"
+    ]
+  },
+  "shupei": {
+    "sounds": [
+      "germanmain/shupei"
+    ]
+  },
+  "asakusa": {
+    "sounds": [
+      "germanmain/asakusa"
+    ]
+  },
+  "asakusa_north": {
+    "sounds": [
+      "germanmain/asakusa_north"
+    ]
+  },
+  "asakusa_south": {
+    "sounds": [
+      "germanmain/asakusa_south"
+    ]
+  },
+  "horiku": {
+    "sounds": [
+      "germanmain/horiku"
+    ]
+  },
+  "isahaya": {
+    "sounds": [
+      "germanmain/isahaya"
+    ]
+  },
+  "jotetsu_horiku": {
+    "sounds": [
+      "germanmain/jotetsu_horiku"
+    ]
+  },
+  "nagasaki": {
+    "sounds": [
+      "germanmain/nagasaki"
+    ]
+  },
+  "shin_omura": {
+    "sounds": [
+      "germanmain/shin_omura"
+    ]
+  },
+  "shinkansen_e5": {
+    "sounds": [
+      "germanmain/shinkansen_e5"
+    ]
+  },
+  "shinkansen_kyushu": {
+    "sounds": [
+      "germanmain/shinkansen_kyushu"
+    ]
+  },
+  "shinkansen_n700": {
+    "sounds": [
+      "germanmain/shinkansen_n700"
+    ]
+  },
+  "takeo_onsen": {
+    "sounds": [
+      "germanmain/takeo_onsen"
+    ]
+  },
+  "tokaido_sanyo": {
+    "sounds": [
+      "germanmain/tokaido_sanyo"
+    ]
+  },
+  "tokaido_sanyo_2": {
+    "sounds": [
+      "germanmain/tokaido_sanyo_2"
+    ]
+  },
+  "ureshino_onsen": {
+    "sounds": [
+      "germanmain/ureshino_onsen"
+    ]
+  },
+  "germanmain_door_open": {
+    "sounds": [
+      "germanmain/door_open"
+    ]
+  },
+  "germanmain_door_close": {
+    "sounds": [
+      "germanmain/door_close"
+    ]
+  },
+  "shupei_mellow": {
+    "sounds": [
+      "germanmain/shupei_mellow"
+    ]
+  }
+}
