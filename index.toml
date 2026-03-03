@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
+hash = "1ee56d5feb0ede9397b26f3c5b7543a3556088146d154b55172ef0e8b1a97705"
 metafile = true
 
 [[files]]
@@ -269,17 +269,17 @@ metafile = true
 
 [[files]]
 file = "mods/macaws-biomes-o-plenty.pw.toml"
-hash = "9876d69a9340de96537eb80fec92f5df5afdd2e5464dd6a557597358f3f79f5e"
+hash = "e0578d5fc47f4358f96589feb619a4c771bfcb50e1604d9f619744da61c13210"
 metafile = true
 
 [[files]]
 file = "mods/macaws-doors.pw.toml"
-hash = "ea9af51413113483ba002f9827a66653b184363c68d6280009677df1fe171afa"
+hash = "b573cf54b09dabe06138af1b3a8d925b51479623bcddf42d9ba4c99e4fa34f67"
 metafile = true
 
 [[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "2119cbbefc4cddc7dcd10e3b8e3bcfde462242aa8383f62d4218ffd14d3ce7e7"
+hash = "0f170663bb0f70d773ac5c3d24f09747253c5ba8a855b3a45fe7f1952e574b78"
 metafile = true
 
 [[files]]
