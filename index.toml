@@ -5,6 +5,10 @@ file = "config/yosbr/options.txt"
 hash = "42fcaf153b8fa9ac37b06c3f916357ad531e38ee9723ec690964b01dc3ffe338"
 
 [[files]]
+file = "mods/MTR-Renfe-Addon-fabric-4.0.2-V4.0.1+1.20.1 (1).jar"
+hash = "abe0cb4a538c8c37d4d110456c81988b13137205ce27a380493bc9b939ec567e"
+
+[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "832cae9626d32a106d48fac5452c00124c4cf28914e8876c90acdcbc0b17d538"
 metafile = true
@@ -335,11 +339,6 @@ metafile = true
 [[files]]
 file = "mods/mtr-london-underground-trains.pw.toml"
 hash = "0475d4b7b5c0737f962b9648d69ce012d524493f9b27c1f57be8955e099b651a"
-metafile = true
-
-[[files]]
-file = "mods/mtr-renfe-addon.pw.toml"
-hash = "3170d9bd421a120782402b068f15dce17a204b7d53485765db3d456c7cbb414a"
 metafile = true
 
 [[files]]
