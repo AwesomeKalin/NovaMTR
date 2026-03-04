@@ -343,11 +343,6 @@ hash = "3170d9bd421a120782402b068f15dce17a204b7d53485765db3d456c7cbb414a"
 metafile = true
 
 [[files]]
-file = "mods/nedologin.pw.toml"
-hash = "9a834af9dfe14c731d77b5a60072d1a92a6c89346d44c24af341a88ebc64500e"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
@@ -419,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/station-decoration.pw.toml"
-hash = "8f85ba8166bc1af6f816ec748b5582a8d62e43fd415a47b374d5b8f126ebf7bd"
+hash = "4abe581869ebd30ba223adb0756669a81016b69975ecd8aed12e606e7e9f7677"
 metafile = true
 
 [[files]]
