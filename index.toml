@@ -2009,6 +2009,11 @@ hash = "82496573c66bc081dd71300f5510fb5867ace6fb9f3c2b4b9322a09b8b3180d7"
 metafile = true
 
 [[files]]
+file = "resourcepacks/airliners-for-mtr(4.0).pw.toml"
+hash = "48a3e1e42b6ba19b0b18bf3059e0825954e6550285c4169b3fc8f1fadf291147"
+metafile = true
+
+[[files]]
 file = "resourcepacks/british-rail-class-350.pw.toml"
 hash = "cd19eb9fc289fb943d3cb0256822c7ecae324be077029417e05f5e11db265a35"
 metafile = true
