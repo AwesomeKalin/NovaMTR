@@ -1,0 +1,146 @@
+{
+	"e131_airzero": {
+		"sounds": [
+			{
+				"name": "mtr:e131/airzero",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_flange0": {
+		"sounds": [
+			{
+				"name": "mtr:e131/flange0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_loop": {
+		"sounds": [
+			{
+				"name": "mtr:e131/loop",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_point": {
+		"sounds": [
+			{
+				"name": "mtr:e131/point",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_dooropn": {
+		"sounds": [
+			{
+				"name": "mtr:e131/dooropn",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_doorcls": {
+		"sounds": [
+			{
+				"name": "mtr:e131/doorcls",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_m0": {
+		"sounds": [
+			{
+				"name": "mtr:e131/m0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_m1": {
+		"sounds": [
+			{
+				"name": "mtr:e131/m1",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_m2": {
+		"sounds": [
+			{
+				"name": "mtr:e131/m2",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_m3": {
+		"sounds": [
+			{
+				"name": "mtr:e131/m3",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_m4": {
+		"sounds": [
+			{
+				"name": "mtr:e131/m4",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_m5": {
+		"sounds": [
+			{
+				"name": "mtr:e131/m5",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_m6": {
+		"sounds": [
+			{
+				"name": "mtr:e131/m6",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_m7": {
+		"sounds": [
+			{
+				"name": "mtr:e131/m7",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_m8": {
+		"sounds": [
+			{
+				"name": "mtr:e131/m8",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	},
+	"e131_run0": {
+		"sounds": [
+			{
+				"name": "mtr:e131/run0",
+				"pitch": 1,
+				"attenuation_distance": 32
+			}
+		]
+	}
+}

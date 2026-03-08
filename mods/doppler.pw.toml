@@ -1,0 +1,13 @@
+name = "Doppler"
+filename = "Doppler-1.2.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2fb3B5H0/versions/KtMYzHB0/Doppler-1.2.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ce40fe4f004203239cb93204e13223caf8af9b8fe71daee2373ef6f688d4a4d6d2093d9c879736a4d9bb2f6f19cb587381cc665803cd3d5a9f070c8ad7dbb698"
+
+[update]
+[update.modrinth]
+mod-id = "2fb3B5H0"
+version = "KtMYzHB0"

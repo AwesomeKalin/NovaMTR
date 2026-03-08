@@ -123,6 +123,11 @@ hash = "47fd33da68d0b13cdffd4124f5bc9cff64caa2878ce7e979ba8092400c2ae1eb"
 metafile = true
 
 [[files]]
+file = "mods/doppler.pw.toml"
+hash = "f5dc2d8513e457cbd93baf9b76d3ddc3813415e3792e842a7919086109a62dad"
+metafile = true
+
+[[files]]
 file = "mods/dragonlib.pw.toml"
 hash = "05bbbe7a64f640b6a179f543204ddb5819ed7491a6c6047b4272f02363a1b0fc"
 metafile = true
@@ -303,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/metropolis.pw.toml"
-hash = "f3576a9c03e063cd2affadf92b048bf8c4ee842d106ef2adf954462d09dbb9fa"
+hash = "63c1a01371fdd9d515e52502bebbd8a2b9a5b5d96b4d634d4924bf09beb11d3a"
 metafile = true
 
 [[files]]
@@ -1032,8 +1037,360 @@ file = "resourcepacks/JR_East_E233_Series_V1.1 2.zip"
 hash = "e38b1c771e2ac3a481753ddb939242af8153bd65d3b9c2fde3db216d62c91179"
 
 [[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_1110e9dd.json"
+hash = "6823a158700884c3843ea17b7bcd7705dadea653dce862834be99357ec408167"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_2c83b322.json"
+hash = "0cf349cdcd2b74db054156468d3bb1d8be9071960b43c22df384e24aebad451a"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_336dea53.json"
+hash = "b360fa08cf778b7900a97bb2f6136dc5bd3aa3935a9e90e9e3de19b380501107"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_40b50477.json"
+hash = "bf775650e56484eb2c9b803a9aa15318a65d9fa5412bdc2cf715e04312df5b56"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_4c13b0be.json"
+hash = "1fc10d7c2735e4239b527d6f89e914875da0cb40ae7044f14519c7ffa0c079f7"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_56d74ef1.json"
+hash = "95eae5784eef5fd84ba82af71234adf5043ca34b3438098b8c6652086b58bb28"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_5d71f3fe.json"
+hash = "c88ad8452a4108ec130459bec03f062c4f00c93064b262e604c1ca798eee5db0"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_60e38f7c.json"
+hash = "1a3f645d877eb024122359a5084b4929a0374cd0846dca4ca19df858693578b5"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_68566dfc.json"
+hash = "b51c4964a212fa982dbd405eadedc91a0138bf18af303e8756a0b123daaad76f"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_6c79b272.json"
+hash = "86e3316c6689d616d2ca2d1dc55172b0de203cfc3c759179ef47506ad67f153e"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_72124937.json"
+hash = "07c134e11f9ed46b154c97f565c02ce521510e2ea2e89380007767f7766e660a"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_75cc735b.json"
+hash = "027f0f9d386ea6d78cb0b424a2518eb0c3a593e13ad2f4ad51423c55ad51bf91"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_766cccc.json"
+hash = "4d27f970364c1c46d9a58a6bc56682fc8e57eaaf72d6dbb622e561f563853f07"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_7dc87c4f.json"
+hash = "3663bf616d63cc0bcd2826a97b88f540796681b4da7a5cb4b167c632cce42473"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_98197b10.json"
+hash = "fcb124f49c080670835575e67e83c620849d14ba458f362fae473f79d9eef07b"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_98270825.json"
+hash = "7315583f6f0410d8fe68453aaa6df5a678a702f268619fd6c659e5648aacc119"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_9aed9e7c.json"
+hash = "4ba6cf7f3ff5852eeb0b3f61bf7a514d664518d3877dc53a352e898ca2f1da5f"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_a9b90e51.json"
+hash = "4ebd2c9075891541f438ce82169e2d3cb7f1a49a685fa2a5df1e419a0ff66ece"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_b9990035.json"
+hash = "873ee4b13650afb1cae409c6404c29a09054c2d4abd37a57a4a441e39e69a97b"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_bd2e530d.json"
+hash = "b29636064c5188965e424ae8f8aea67aa31a5a23b6131d12d6d880b13d13d34b"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_be69bbc8.json"
+hash = "b0d5a02e3244f92a879463f35132c37ec7794bba1c30290fd574e0ea8234a931"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_cb311b08.json"
+hash = "c749050a9afd03103468468736f6ca8c549ac9eb41f83d978ce169d933694f3f"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_d3dcc799.json"
+hash = "700fb7b923ca1ec467c1608e51257fae201011034a0cea3d335993dee5af7fe2"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_e1ee6f85.json"
+hash = "a30306b4e1839169259cb23fb308a42472d13644864b1375eddfcd3a887e0b49"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_e227f7e.json"
+hash = "e9efcd0ec97a0d813813cf84db754a7e986d5b7d4e7efcaf2d99a64109b6793f"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_ed6c2bc4.json"
+hash = "4b92ec00639fedb0a987750499d72fafa7b192c15e7c1bcb17d641da8652c839"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_f2d4741e.json"
+hash = "5eb483fa54d2c8521c29f810342c6c8b50b231044a2e7b65a80d9331ea968204"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/definition_fbfe0848.json"
+hash = "35dffaa6c1b30a4aac5abe53bc3f6a45f9ba82b28f4608cc6bfc3db3d251db17"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/jr_east_e233.bbmodel"
+hash = "926115afa5e2b8565c06959297f9ccd63ff0ca7f5935ed7fb9496c6b492ba2dc"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/jr_east_e233_0.png"
+hash = "b9bb0706b4232a39a5050a413dcb98811d2f4ebcce053a8c778393d14bbe1c4d"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/jr_east_e233_1000.png"
+hash = "f4a6ab2f1ae82546730461f7944ed9af8b8898c8225724c77497285d77f654e2"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/jr_east_e233_3000.png"
+hash = "805187518229409f7e4ac02361ecd4996561d698d9766619c164b80cf955d58b"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/jr_east_e233_5000.png"
+hash = "bd671b7cbaa96785aded84ed93afeadaef08e92f4c4aa14c05fb9cc5a7203941"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/jr_east_e233_6000.png"
+hash = "ab6ca193ddbe12edeea25e760cdeec8dcca3fb45dc636f6bd446cb3dbd85917f"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/jr_east_e233_7000.png"
+hash = "47a9f4246709956bb283c2609d67eab9ce087ca8068daf543002be0f6950aea7"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/jr_east_e233_8000.png"
+hash = "d3fc89c46334210db0d5b987d04d87a69ce4aeef84e0f89b7e3c307010b26f19"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/mtr_custom_resources.json"
+hash = "4ea03065479ebe22219ed9ee6626ea1f8451c0aada21728aa04887993d5b7367"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_1ea7825e.json"
+hash = "7abc9cb8529e3d6fed13c7614c7eef00b741d0aa78a32dbef8ea3ac1c94afb25"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_23de9fb7.json"
+hash = "3e316bb4ac55b7562c9b93e0307713a372685872edfeba98443610c84469cea9"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_25731cca.json"
+hash = "b12d4297eca147225c23b9127d458db9405039e0ec461fd4ae0d0b48f1b7beaa"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_2ea9b0ae.json"
+hash = "6ae85727b59d742f458e05439050a505edf906f469aa178f3be69f94732a9958"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_479e5a16.json"
+hash = "ce910e020e9e633fecb623b1de2a25398b8ca50e2b18b8ec8e5e65e4b45538d3"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_53e94c2d.json"
+hash = "745a18c635dcb8782dfb020689624f45941eb80851192b0372fa7a5fdccd6cb8"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_6f5fe852.json"
+hash = "7240315e5dc8a54ec8c76077c34404fc4892de992cabd2f94dd50db0cbbc46f5"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_79771380.json"
+hash = "ff6d73972492d97af2bf77bf1062dda1535358bd57484c568bb4dfc7dc294732"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_852661b7.json"
+hash = "cb5a96e5c28985b765f04e3f97b4313c5764aef263cda92b621de235aa76eb94"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_8902a25.json"
+hash = "11e85543cf2304da4524fe846c71a6864378430ed96a80554f4482302a52c927"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_8ed07b90.json"
+hash = "62ff6ac0de8b22a5c16e01acdc53de361bee81698d7d02603c7e2e3318f68a16"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_90616f2f.json"
+hash = "34985ef69bf61cbe3692e80a9cdb6cfbaa8599f59e73dad3b529b992e97701f9"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_95d0624a.json"
+hash = "69073f45fd8c88148a356ae1d31cbffddc243303f51d3e6a24a07416c0563a5d"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_9a132e2.json"
+hash = "599b5a965e64cdd930cce61c30ff3bb3fd2b3632f6baf1deb7ec2c736ef63941"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_9acfb384.json"
+hash = "75e7bb69142cec869acd1791eeb94f4d9ebdb91c00d45d7077d0e02bffbd77a2"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_af026a09.json"
+hash = "671ede2c5140a291c7f88fa701612e8eee88fe6bd4eb249c32cb7b7665c43cec"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_bc9b62b8.json"
+hash = "98ba1a0b096851a0f168309b405af8dd43916144d2f255c1ff8c60a11c06bd07"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_d03d6176.json"
+hash = "ae5124fe3099d9e53fd016d46b49adfc8f148ed943109c1870422aebc061a743"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_d477d35a.json"
+hash = "9af2462e99bb2dfe3508bbb089e6cd793fdf468c718cfa4686572a852de2ff9b"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_de15fc63.json"
+hash = "622b03b75d50da1425415e4121c1b2c02b8b596018db1bf15cc2300e61d5e1d8"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_e18c5723.json"
+hash = "4976cc265b3f11ab7d7a641fcc4331680e7406ecc46dfe29ed189ab68c795b43"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_e2019b3b.json"
+hash = "2489e446993d9497b4e0d1cf855db4ce9c46b78123fbaed452ede515907a5142"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_e3770744.json"
+hash = "6bcc6b5f58d00a07a3369b32b76620c8b8e3c89461d90a3c898eddc53906a432"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_e8e27238.json"
+hash = "1f5d8661ac6bd7e731b4f43ae13fd0a10ad5489b03809880ab584db709650625"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_e9839d04.json"
+hash = "1f2b7b85c3debb473da33e863eedeef4663d58f26fc09679c909f1e10aabbd2c"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_f292e6a5.json"
+hash = "246eb616fa4df1f97f38cb812297b12c4be6eebcd22696badda7227d1877cb6d"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_f863525d.json"
+hash = "acf7e94997928c31987787627b9864d047cfb8af9f582bd81825e82e7352151e"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/properties_fe8f1b7.json"
+hash = "d3585f796232bcd0fe4704dfdc7ccedd831895fd4b0a3919097fa70769d3f2d7"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds.json"
+hash = "d29cacb5e69e6ed52dca89e0e9bae16d6fb91491bb8cb665c912e30f7edf9412"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/airzero.ogg"
+hash = "379681cd06071f3d7cd3a5702cf096977223bae6540df46b0b8e0cdd48d868df"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/brakefreq.csv"
+hash = "f811045b4dcee4f746cf9693068623b79247e71a0e945863c73185561f3d2980"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/brakevol.csv"
+hash = "b5721449949f0f94a978ee87bfc5bac0265834ca4d5b81063987d75f97358fb3"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/doorcls.ogg"
+hash = "2c23118e48a3fc3248934782d5a460be094b8e236a915ade813d12350d4438e0"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/dooropn.ogg"
+hash = "130661a699c879ea23b81afa42ba8cd3b3aa880a263e1dd7c2f54f529e94286d"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/loop.ogg"
+hash = "e95e43f3fe3b67ef3ffd75d71bc99b9f2f034db6d9fdc14fc596620fca31c208"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/m0.ogg"
+hash = "f1ce0ed725b0a3abecb69848a9f904df0272f618b6a4053b44c368b3f56f63b8"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/m1.ogg"
+hash = "a0fa6e33ad157b9fd6bca12c3a209d066298a043f6c169c201f7690be8a7f11d"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/m2.ogg"
+hash = "6f676dca056b31aa8eb496aa7da1191e587f1ab4843058264de11594532ebdb3"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/m3.ogg"
+hash = "cb48f74298dd73431c0dc2a8dc1a8dc427783b18c152a8636979f930216a7e65"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/m4.ogg"
+hash = "8efcc24bfcbd5ed578f9ad9b4ee0ff108ff0dc538935722a5853667410bbbf96"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/m5.ogg"
+hash = "7bedc09fd85bcbcb5d49a7f1e89505613b8154651871c14228ff055a8e9bbdfc"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/m6.ogg"
+hash = "5a133758c4a096ac34288311a14aed6d8c4a1827e12f29a194817bf137a1be81"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/m7.ogg"
+hash = "cfbe8a2d328357357dc664343da3a0c14f9755b73cac84447024912790fc9402"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/m8.ogg"
+hash = "16579065f6f242cefa8b5a38dae9cfb01eeb1a5dfae69ee0e8566eb768c59fe7"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/point.ogg"
+hash = "fb1fb3eeadfb44fc42b3ab78216f9a21789ed09358ca72f3d70653f5f99c559e"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/powerfreq.csv"
+hash = "6fd864486f6dd32b7995bcd3b5cd28df3f88b0d0086a107ec38928758cfd82a2"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/powervol.csv"
+hash = "48ecce6d73c04b989e7a9bffc56c0697b06c7b416d9c3557c63ad64bfdaea99d"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/run0.ogg"
+hash = "044f1e2ff4c3ef191151ea7cfb1e120df2cfe57d3755b0f190c1bb02e56cceb3"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/assets/mtr/sounds/e131/sound.cfg"
+hash = "f28a1e1433c942e693458aa1f17a8406e6396a4ca530b76ae83756c61a3d5f20"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/pack.mcmeta"
+hash = "1d07c8f9436c61c19e65d394f97c41fd8cda69a1d19f557473ff6b5af5aed6e7"
+
+[[files]]
+file = "resourcepacks/JR_East_E233_Series_V1.1/pack.png"
+hash = "58946b82e963cebbb897955ff92fcaa60abcc007af130c1a62e87dbab4c1434d"
+
+[[files]]
 file = "resourcepacks/LT Pack.zip"
-hash = "ec6eed7f8fa715c281fac548812538d03e664aef9ba002521182e9f71c59f59f"
+hash = "a7f9fb73b8c1713839ec49215a1dd1a8c826dd2a6f182b39a1733f69604595d8"
 
 [[files]]
 file = "resourcepacks/MTR_FMB2000-3000_series.zip"
@@ -2044,6 +2401,11 @@ hash = "955729007c05e28220ae2881bc3eda67dff5adb8601f4a344c10922cb90c6de7"
 metafile = true
 
 [[files]]
+file = "resourcepacks/jr-east-e531-series-.pw.toml"
+hash = "435fd424778401e175f4a229376d35e7fe643561f61a2f63b7e96d82a41a53e3"
+metafile = true
+
+[[files]]
 file = "resourcepacks/lert-nir3k-4k.pw.toml"
 hash = "549c069b91f7a49d85552b06eb3d37784d9eb30d26726f8be766a8ac3fe1595a"
 metafile = true
@@ -2163,11 +2525,6 @@ hash = "0fa45daf5ceb15315056da7eee0fabe1c5b6afc012d5a55396c7945e282d90e1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mtr4-british-rail-class-800801-stepford-express.pw.toml"
-hash = "7040b61e2e5ff3f1713360a69c3113b40afd8d25341f5fb4282522ae37257508"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mtr4-jr-east-e233-2000-series-jre2332000.pw.toml"
 hash = "3c2531436d08e14f4b608b6eecd1aadf0313affdbb2c98ac97dbe3345597d77b"
 metafile = true
@@ -2175,11 +2532,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-manchester-metrolink-bombardier-m5000.pw.toml"
 hash = "421249b7855383806dcccbfc6d376e591c9abff11a8a55b20a349211a79fc347"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr4-scr-airlink-class-802.pw.toml"
-hash = "99ba48be16d3e7bb66aa269fbdbad760e575e3aac719310298a0e12ebcdef21c"
 metafile = true
 
 [[files]]
