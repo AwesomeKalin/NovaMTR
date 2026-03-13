@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragonlib.pw.toml"
-hash = "05bbbe7a64f640b6a179f543204ddb5819ed7491a6c6047b4272f02363a1b0fc"
+hash = "85a779854ea0fe7b56d78986fe5ee10d70986b023d04b29ee70d8706b26e1d68"
 metafile = true
 
 [[files]]
@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/trafficcraft.pw.toml"
-hash = "6baf60921cecbeaa6a1cb85528913145ffdf4d374f6141f2d51677bf86b8abe4"
+hash = "35afd05c1afa923227fa52b86f63920d7d9cda9023af1051899a908963c05aa1"
 metafile = true
 
 [[files]]
