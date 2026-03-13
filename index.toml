@@ -84,11 +84,6 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
-file = "mods/create-pantographs-and-wires.pw.toml"
-hash = "e101f9f0d789640a0f2cee9a45c324f40f0912e149f4bbe3684bef8e7c86f854"
-metafile = true
-
-[[files]]
 file = "mods/create-power-loader-fabric.pw.toml"
 hash = "bf8514a56af755dd22d7ef3994e0c6e33d4db963eea2688fdbe466f998e123b2"
 metafile = true
@@ -218,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "26eb9a0d230cfebd3e32df2db21326d45ecca1348fb3d731657f3e55a9dde467"
+hash = "3ba1f8150b574b10a258a4af832ed6fa1817b8ec2a2401fe29b303238778c1c6"
 metafile = true
 
 [[files]]
