@@ -1,0 +1,13 @@
+name = "[MTR4] CBT Wroclaw"
+filename = "CBT-Wroclaw-1.3.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RGJbtXvS/versions/9m0bLS5P/CBT-Wroclaw-1.3.zip"
+hash-format = "sha512"
+hash = "5b789b79b66646df03e2d260a7af7de98917daa2621659c794483c6ee3615bc5e7ff446649c97e1b71f46068f53b766c1f94b266e990e6f25fe284c8b1cd76c2"
+
+[update]
+[update.modrinth]
+mod-id = "RGJbtXvS"
+version = "9m0bLS5P"

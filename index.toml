@@ -988,6 +988,10 @@ file = "resourcepacks/Countryball icons/pack.png"
 hash = "3d523be08e53bccebb76a7463e617da0946b2529eda81a1c67126f73dccf98c9"
 
 [[files]]
+file = "resourcepacks/DMRT R-Train.zip"
+hash = "9b620be9412c059f49f0bca45759daa7d25799ce0e6e4b41f38d2d47e201e344"
+
+[[files]]
 file = "resourcepacks/DOORCLOSINGANNOUNCEMENTS.zip"
 hash = "2856ef8ea906278a15bb0f7da33b77ad578e09999e0396dd2ea758fd030da9c6"
 
@@ -1385,7 +1389,7 @@ hash = "58946b82e963cebbb897955ff92fcaa60abcc007af130c1a62e87dbab4c1434d"
 
 [[files]]
 file = "resourcepacks/LT Pack.zip"
-hash = "a7f9fb73b8c1713839ec49215a1dd1a8c826dd2a6f182b39a1733f69604595d8"
+hash = "22c1911aa64401a54b35095ca7fe47805a5e393109636feecff0c24935fd25ab"
 
 [[files]]
 file = "resourcepacks/MTR_FMB2000-3000_series.zip"
@@ -2381,6 +2385,11 @@ hash = "6dade1cd2b70258a83d96bbbb269739f343f83bfc701e6f00ade9c8eeb26e559"
 metafile = true
 
 [[files]]
+file = "resourcepacks/dennis-trident-3.pw.toml"
+hash = "baa23b5250af5d2a5066a0e417c76b6806c8a5baa61ea9feaeb3365bce0d5e09"
+metafile = true
+
+[[files]]
 file = "resourcepacks/eths.pw.toml"
 hash = "ea5185ab574bd252f91a457bb997b07848ffcc2fb83cc4cf70eab89ab31dd9b5"
 metafile = true
@@ -2520,8 +2529,23 @@ hash = "0fa45daf5ceb15315056da7eee0fabe1c5b6afc012d5a55396c7945e282d90e1"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr4-cbt-wroclaw.pw.toml"
+hash = "eb6c23ca9987a44eb91d1f98dbe683f347f407c7996cded64ce71b5bb752c93b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-jr-east-209-e501-series.pw.toml"
+hash = "9789938a03e2315d3dbb5c5fc2c58cce59d086bbf018ebe7c2bf2c7cc9642f84"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr4-jr-east-e233-2000-series-jre2332000.pw.toml"
 hash = "3c2531436d08e14f4b608b6eecd1aadf0313affdbb2c98ac97dbe3345597d77b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-london-underground-1972.pw.toml"
+hash = "ffab82a17bf210807b85b1315ce33ea530bd1fb24584bf98d176cf292f6f2d17"
 metafile = true
 
 [[files]]
