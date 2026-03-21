@@ -1389,7 +1389,7 @@ hash = "58946b82e963cebbb897955ff92fcaa60abcc007af130c1a62e87dbab4c1434d"
 
 [[files]]
 file = "resourcepacks/LT Pack.zip"
-hash = "22c1911aa64401a54b35095ca7fe47805a5e393109636feecff0c24935fd25ab"
+hash = "61816690b7bfb1187c03cab6fed80697a642732f9e5ac5cf785635b4d2955bc1"
 
 [[files]]
 file = "resourcepacks/MTR_FMB2000-3000_series.zip"
@@ -2541,6 +2541,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-jr-east-e233-2000-series-jre2332000.pw.toml"
 hash = "3c2531436d08e14f4b608b6eecd1aadf0313affdbb2c98ac97dbe3345597d77b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr4-jre233.pw.toml"
+hash = "8efafb1dede5d93f7ec9b30f44eb75b9549fe43738c5b01e9e22d2964709dbc1"
 metafile = true
 
 [[files]]
