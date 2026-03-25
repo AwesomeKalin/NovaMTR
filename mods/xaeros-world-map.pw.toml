@@ -11,3 +11,7 @@ hash = "47e299ebcb14ec5a93f325f07fc96383cc399fa52c6985990f06aaab47578263637dbc71
 [update.modrinth]
 mod-id = "NcUtCpym"
 version = "6WcEeMbU"
+
+[option]
+optional = true
+description = "Complements xaero's minimap mod."
