@@ -1,0 +1,60 @@
+{
+	"vehicles": [
+		{
+			"id": "volvo_b7rle",
+			"name": "Volvo B7RLE",
+			"color": "ffffff",
+			"transportMode": "TRAIN",
+			"length": 11,
+			"width": 2,
+			"bogie1Position": -3,
+			"bogie2Position": 3,
+			"couplingPadding1": 1,
+			"couplingPadding2": 1,
+			"wikipediaArticle": "Volvo_B7RLE",
+			"models": [
+				{
+					"modelResource": "mtr:volvobus/volvobus.bbmodel",
+					"textureResource": "mtr:volvobus/volvob7rle.png",
+					"modelPropertiesResource": "mtr:enviro200mmcarriva/properties/properties_adl_e200_jpn.json",
+					"positionDefinitionsResource": "mtr:enviro200mmcarriva/definition/definition_adl_e200_jpn.json",
+					"flipTextureV": true
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": false,
+			"hasBarrier2": false,
+			"legacyRiderOffset": -0.8,
+			"bveSoundBaseResource": "adl_e200_jpn"
+		},
+		{
+			"id": "wright_gb_hawk",
+			"name": "Wright GB Hawk",
+			"color": "ffffff",
+			"transportMode": "TRAIN",
+			"length": 11,
+			"width": 2,
+			"bogie1Position": -3,
+			"bogie2Position": 3,
+			"couplingPadding1": 1,
+			"couplingPadding2": 1,
+			"wikipediaArticle": "Wright_GB_Hawk",
+			"models": [
+				{
+					"modelResource": "mtr:volvobus/volvobus.bbmodel",
+					"textureResource": "mtr:volvobus/wrightgbhawk.png",
+					"modelPropertiesResource": "mtr:enviro200mmcarriva/properties/properties_adl_e200_jpn.json",
+					"positionDefinitionsResource": "mtr:enviro200mmcarriva/definition/definition_adl_e200_jpn.json",
+					"flipTextureV": true
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": false,
+			"hasBarrier2": false,
+			"legacyRiderOffset": -0.8,
+			"bveSoundBaseResource": "adl_e200_jpn"
+		}
+		]
+}

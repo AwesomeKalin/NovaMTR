@@ -1,0 +1,13 @@
+name = "[MTR/NTE] DB Train Pack"
+filename = "DB train pack v1.0 beta.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/v36S1g5U/versions/I0LiQcve/DB%20train%20pack%20v1.0%20beta.zip"
+hash-format = "sha512"
+hash = "2281705523ed1609f8aa27128d7eb15e5a84785975159f9ad2d187b13020e1852d158e574c959a55b9e8df91ffd3ccaa99b67c25eaba578665df7c209019042b"
+
+[update]
+[update.modrinth]
+mod-id = "v36S1g5U"
+version = "I0LiQcve"

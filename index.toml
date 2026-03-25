@@ -996,10 +996,6 @@ file = "resourcepacks/DOORCLOSINGANNOUNCEMENTS.zip"
 hash = "2856ef8ea906278a15bb0f7da33b77ad578e09999e0396dd2ea758fd030da9c6"
 
 [[files]]
-file = "resourcepacks/Dennis_Trident_3.zip"
-hash = "bb63d0d0bcd5bdfc317349da3c596e00129880d1563c8d9b2bb7050490a79952"
-
-[[files]]
 file = "resourcepacks/FRP1.1.zip"
 hash = "6998d7cd4ae6c3f90a3e9f15f198ff4ab663942ade1f9ce0b6e7cc11d362d8f0"
 
@@ -2352,6 +2348,30 @@ file = "resourcepacks/VDL Citea GLE Edition/readme.txt"
 hash = "dfbaee108c5380347676b7dd25eb824b95a574593c132ac1dd1fdf125bf4af76"
 
 [[files]]
+file = "resourcepacks/Wright Buses/assets/mtr/mtr_custom_resources.json"
+hash = "095239e2bf351f7bc9c68a03575cbf3a9e4bad4680e872410ac19170fc312aa8"
+
+[[files]]
+file = "resourcepacks/Wright Buses/assets/mtr/volvobus/volvob7rle.png"
+hash = "8087359a4f79f7c158f91d08b24b059f08da2b6935a4e89c0c2ce1730f92b71d"
+
+[[files]]
+file = "resourcepacks/Wright Buses/assets/mtr/volvobus/volvobus.bbmodel"
+hash = "08d63694fda411521a5e73f3976c22b9c45425fed22b304cd71d1d58a156589a"
+
+[[files]]
+file = "resourcepacks/Wright Buses/assets/mtr/volvobus/wrightgbhawk.png"
+hash = "8a8b437947c398f4de6c9be67bfa657cacaafd8ffda04c0225675a89485c5ed4"
+
+[[files]]
+file = "resourcepacks/Wright Buses/pack.mcmeta"
+hash = "409ddeb314a75766a354635d5522cf98185e60d7a6dbaede2745518b5a23d468"
+
+[[files]]
+file = "resourcepacks/Wright Buses/pack.png"
+hash = "2393d55ed40a19350705f0517adb8851487df41ea6a30836040e9424af771aa9"
+
+[[files]]
 file = "resourcepacks/WuhanMetroRails.zip"
 hash = "e0d72b1c026bde442458ad81c7e90e02e1f0c50cad3a3992c1eed9261f430568"
 
@@ -2396,7 +2416,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ie-class-22k.pw.toml"
-hash = "a1afbb12759a35f35b7cfa728cf1202369badce682d197577d505fca5b86b0b6"
+hash = "691fe6b0a0b12c02853429112922f768d713b3904390e308ceb1845edcba98f6"
 metafile = true
 
 [[files]]
@@ -2494,16 +2514,6 @@ hash = "ccbe1514911ea87bd051221490bbfedab53ecb40705f5ceb0d0099418e6713aa"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mtr34-stepford-connect-class-158-express-sprinter.pw.toml"
-hash = "be5b588a12b4896810a0791da647bf6a6ee06552d381d34e2db417822029ca9b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr34-stepford-express-br-class-221-super-voyager.pw.toml"
-hash = "f3eccbaa11eec328690bc70c67c95b2a8ac87065cb2a724ed5f165fda052205c"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mtr34jr-trains-pack.pw.toml"
 hash = "289dbb9118aa8b7befda8ea030a84ac4caa3068df0ec5f9ccc81d285e5418fe0"
 metafile = true
@@ -2559,21 +2569,6 @@ hash = "421249b7855383806dcccbfc6d376e591c9abff11a8a55b20a349211a79fc347"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mtr4-stepford-connect-br-class-68.pw.toml"
-hash = "498db4b59df7aff3d9c0c2170caff341736e48b92a1bd52a6dd2e717ecd6eae1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr4-stepford-connect-coaches.pw.toml"
-hash = "7e8e2f502cff310efe4667eaa5bac634013c077f606340817e6698500bf97c57"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr4-stepford-express-hst.pw.toml"
-hash = "1e7c019b67db418bad63d38bb701cd9bb67decc563d11be04de3b2420e7342ae"
-metafile = true
-
-[[files]]
 file = "resourcepacks/mtr4-zoomono.pw.toml"
 hash = "ac12a9f9aa3c4b70e01e89291b88af56d4d3e3315a4d642fe6ea93d791572b18"
 metafile = true
@@ -2589,13 +2584,13 @@ hash = "e36a09fd78b520ee7b6444c47684d792a6ba54a3df016fd5600d0190d5e62ca7"
 metafile = true
 
 [[files]]
-file = "resourcepacks/mtrsydney_metro_and_trains.pw.toml"
-hash = "7ac620b63259d4e4a8b2ae3eef23a3b2ef3895a10d511617846d5ef3cde12a4d"
+file = "resourcepacks/mtrnte-db-train-pack.pw.toml"
+hash = "5f5ca70aed4623492337cce3d19a86c38c0d128e244ea558c1ab532498962d18"
 metafile = true
 
 [[files]]
-file = "resourcepacks/new-stepford-connect-br-class-158-express-sprinter.pw.toml"
-hash = "6e8660355d96a435112458ced92ed7c719e0bbd880c885dd0e9f5c75e666e0e7"
+file = "resourcepacks/mtrsydney_metro_and_trains.pw.toml"
+hash = "7ac620b63259d4e4a8b2ae3eef23a3b2ef3895a10d511617846d5ef3cde12a4d"
 metafile = true
 
 [[files]]
@@ -2631,11 +2626,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/sparemyfuckinglifejonathanhothiseditorsuckswhenyoucantoverwritefileslikeinmtr3iswearingod-20250815-232051.zip"
 hash = "bd04504ec25dd960f7ed91acb2f7b3b40686a13141f9adcd16da706d2e880226"
-
-[[files]]
-file = "resourcepacks/stepford-connect-and-waterline-class-730.pw.toml"
-hash = "8548422328944c4743d6c0ef571a51a4cdea57a408e724e8765491003e73cf6f"
-metafile = true
 
 [[files]]
 file = "resourcepacks/stepford-metrocar.pw.toml"

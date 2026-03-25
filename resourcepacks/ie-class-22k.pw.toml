@@ -1,13 +1,13 @@
-name = "Iarnród Éireann Class 22000"
-filename = "ie22k.zip"
+name = "[MTR4] Iarnród Éireann Class 22000"
+filename = "IE22K V2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/TWb7WTMx/versions/gsq0onyr/ie22k.zip"
+url = "https://cdn.modrinth.com/data/TWb7WTMx/versions/iwm4s3Ai/IE22K%20V2.zip"
 hash-format = "sha512"
-hash = "da3dead59e3e9f4429cb8af23c76c1ed1a867b56059db420912cb33c0cd12f23a2db07192b12fa1818831a42e7c66518f5896e7656174d6daa974c39fe7466b8"
+hash = "e67098285d7fb94b39156cb23de03bf52f5779e17c53a68d66ad91750bec4e3d0a11ca1c5d966d8d6792de6f46971f93eec28287470b715bcbf9d9f58ca1ffea"
 
 [update]
 [update.modrinth]
 mod-id = "TWb7WTMx"
-version = "gsq0onyr"
+version = "iwm4s3Ai"
