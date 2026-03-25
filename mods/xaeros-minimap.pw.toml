@@ -11,3 +11,7 @@ hash = "9dfdc116a9ecec65547cbf9f0a9a1b2cb261d081c565c7e98bacec21dd6561323cdce7ab
 [update.modrinth]
 mod-id = "1bokaNcj"
 version = "7wlcmhtN"
+
+[option]
+optional = true
+description = "Adds an minimap to the upper-right corner of your screen."
