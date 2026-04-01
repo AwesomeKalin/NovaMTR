@@ -2440,6 +2440,11 @@ hash = "f9311e8261a216fd274aa6f39bf3c7d88994a62d22d5fc666ce8af1d49210b25"
 metafile = true
 
 [[files]]
+file = "resourcepacks/lert-lu-2009.pw.toml"
+hash = "4b397693ba1bcd7ae5ce9fd677bfbccd393bf5644795c785f116a2b5586b8025"
+metafile = true
+
+[[files]]
 file = "resourcepacks/lert-nir3k-4k.pw.toml"
 hash = "549c069b91f7a49d85552b06eb3d37784d9eb30d26726f8be766a8ac3fe1595a"
 metafile = true
@@ -2526,6 +2531,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr34jr-trains-pack.pw.toml"
 hash = "289dbb9118aa8b7befda8ea030a84ac4caa3068df0ec5f9ccc81d285e5418fe0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr3mtr4-british-rail-class-158-express-sprinter.pw.toml"
+hash = "fc2f45f1fb3fb5a4dfe38f3a6611d614760dc24ef3094392aaa543ac25e386fd"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "[MTR4] Low effort LU 2009 Stock"
+filename = "lert2009 v2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/gHr5x6bV/versions/9a4oBsIH/lert2009%20v2.zip"
+hash-format = "sha512"
+hash = "46cffba04da67482f00394c239831737db895799795f9e8c353b26621f6ed7ebd647fc2298175f682a455415e68bf363ce7b87361d238ce0661d0fe47e7d3ad2"
+
+[update]
+[update.modrinth]
+mod-id = "gHr5x6bV"
+version = "9a4oBsIH"
