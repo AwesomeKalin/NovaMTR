@@ -498,12 +498,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "f186401be01f7216a7bbd73c8e3e7cff96ab9db76d19029ee3be92f407b1b207"
+hash = "6c8133f0d81acf5e6cf01f85ce8c114ccb439a1a94e08f496f8f40a84d1102d1"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "9d9ab7248c5a9ed01ce3e23fba5c60139065e31d94452e3179b263ac4be535aa"
+hash = "4210d86ff518486b03d2f2d17eebe403e4d9885c1d2140e47c45de4e0a2cdfeb"
 metafile = true
 
 [[files]]
@@ -1385,7 +1385,7 @@ hash = "58946b82e963cebbb897955ff92fcaa60abcc007af130c1a62e87dbab4c1434d"
 
 [[files]]
 file = "resourcepacks/LT Pack.zip"
-hash = "61816690b7bfb1187c03cab6fed80697a642732f9e5ac5cf785635b4d2955bc1"
+hash = "6018544d9efc193be41c7f0ff567f8d53c37fb9dc7d86c3dc222e00bac09b54c"
 
 [[files]]
 file = "resourcepacks/MTR_FMB2000-3000_series.zip"
@@ -2427,6 +2427,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/jr-east-e531-series-.pw.toml"
 hash = "435fd424778401e175f4a229376d35e7fe643561f61a2f63b7e96d82a41a53e3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/leahs-resource-library.pw.toml"
+hash = "357ad3ddce9ce57af0918c561619e4bc9ee5d079e216f96ad45a4d6c514dd57c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/leahs_freight_pack.pw.toml"
+hash = "f9311e8261a216fd274aa6f39bf3c7d88994a62d22d5fc666ce8af1d49210b25"
 metafile = true
 
 [[files]]
