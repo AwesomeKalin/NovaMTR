@@ -1,0 +1,13 @@
+name = "PaddySigns"
+filename = "PaddySignsv1.09.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VaVVWp9L/versions/H0AhSxoS/PaddySignsv1.09.zip"
+hash-format = "sha512"
+hash = "b7d26f4c8b51de762f96b2b6916d497a96f7d544aa71c53a89377af91d4bbdf2f333e88babe38a291351d2ff0852528242fd38442e1eb01097f6e88123e55b42"
+
+[update]
+[update.modrinth]
+mod-id = "VaVVWp9L"
+version = "H0AhSxoS"

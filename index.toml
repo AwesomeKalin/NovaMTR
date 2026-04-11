@@ -19,6 +19,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "8d4062c1773719f1e07818d27233ce07c9caf65dd52f9263c4699519dcf02ffa"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "192013ac239a0a0257d4ac74d6866e724fe33255c2e5d13afbf9323382cb907c"
 metafile = true
@@ -31,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/blockus.pw.toml"
 hash = "2bb6404c6546f92556e2ff7480832ca5bbbfa607470bd56f5a0f59528170816d"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
 metafile = true
 
 [[files]]
@@ -289,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-roofs.pw.toml"
 hash = "4a7a7460f802eaf18bb298e31c4925a38e5e649ff11b08c61a5f88c03b886749"
+metafile = true
+
+[[files]]
+file = "mods/magic-mtr.pw.toml"
+hash = "c5d92f50b392544bbc789f336c97e98ea635710672d702a7878514ffacb68569"
 metafile = true
 
 [[files]]
@@ -556,6 +571,14 @@ file = "resourcepacks/Bart_Train_Remastered_Addon_V1.3.1.zip"
 hash = "dbf41eaff8d2ea70b62017a8521399a3d5b2efc689dfad7132cc719a6fc66ba4"
 
 [[files]]
+file = "resourcepacks/C951 Long Refurbished-20260407-180632.zip"
+hash = "95f3145a6f6175d83200809a605663f5e451212101e80287aaf7e9a7297f0f31"
+
+[[files]]
+file = "resourcepacks/C951 Long-20260407-175045.zip"
+hash = "749db01ca47a403bf76291cb0bb3a87a35dbabc617c2549a79cf08116f649bb9"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrLogo.png"
 hash = "68531945660d69fd7ff4e258d5358311cd71513623ef1e868093f1741d5deaae"
 
@@ -800,8 +823,16 @@ file = "resourcepacks/CHTR/assets/mtr/definition_ea0b3bb7.json"
 hash = "4eb4f671323cd0a7b3f2ced4cbd73123ae569bff79a1f6380d9f017ab9592589"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/hm_train.bbmodel"
+hash = "e0ed6c2b32cf4fac8e42409294f2087a00f57698ae7cb59f263d7c22cd307ca2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/hm_train.png"
+hash = "0c5bd19576b7c1bf7b9b3a27f29b23950438cc57581c59aab4efae3cdec54bf9"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/mtr_custom_resources.json"
-hash = "5603a7616a65a9f68b3de8febae99c53608ebacdb30dfcf7cb12e7c3e0d1cf9c"
+hash = "c7de097893455ecccd6dea2b91480b0a74b139f48f7c16a3810e342e8ff8ca53"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_10f18245.json"
@@ -950,6 +981,978 @@ hash = "cf7b7cdf2d801577a7e8218b6b30e9fcfeab1211d8aabd61e7c1d36cdc2887c5"
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_fd4f128a.json"
 hash = "8a4a63273f6c27983583b02ca61ecf5510c8d355bf745d3fe5a3953fdc0fa13c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds.json"
+hash = "4c35a29c2f388e7413d6bf72aa52cc9ae9d1b65c7676416ecc2d05c479fae352"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_0a.ogg"
+hash = "968c0bb1853078b36950d6e19f801fe0f2a9b226b0dc07530329fe89a97f3f69"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_0b.ogg"
+hash = "be910bdfceac798eef87c579518c804d691e17d3ae87355267bbf368bce5df3e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_0c.ogg"
+hash = "9f086d83d156aac842aa6e6ece76c313236a6f4b5efbaa2681925a315cd3cb5e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_10a.ogg"
+hash = "475d49fed279e8f41a509dc743af64c0de78f1845b9760f96fefd1d1bc1d2802"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_10b.ogg"
+hash = "98eee4bfb40a1515d65fabbd790dfd9bb1c12ba0a6b102f4a43dd4ff287b1f4f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_10c.ogg"
+hash = "118ef10393008cfc8e25f80ee66a45ddc15dc4d8127233aa148e562ed2013937"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_11a.ogg"
+hash = "b67202ac9f58323881ef3cfe269d796ca04c468b300f16775007ad6be07f363b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_11b.ogg"
+hash = "6e8f2dba9b9a8aa7a9489753ab3c9a4780633eea5c8e5686e9c616477d27eafa"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_11c.ogg"
+hash = "7f47202a27eea041bde94b8d11468ca2a57ea9342b0ec44b94019f5fe564868a"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_12a.ogg"
+hash = "2185b8e493b6f386ea07d8ae4fa98973e379f3a09ddc18610858d6a70e1a688f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_12b.ogg"
+hash = "83e7c7e5d85acabb7e02f70f7f21b279b11a4c6278ca8c4fdcf878340523510a"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_12c.ogg"
+hash = "e0b418dd58bb50c2080a736dd736d69451045d334458693fdd1734f966e7e808"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_13a.ogg"
+hash = "aeebd8ddf37ae9f5090d6ffb46fc179400acc9617fd9c426b8bc6950755625f0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_13b.ogg"
+hash = "9ccf8dfda3a4294e58d108825652651d4526c072cc61599cdc1a2e0382a9d72b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_13c.ogg"
+hash = "7649e50cc648433ccfbece48cc7366bd4b1f68767d7c25caaf286c844ad62a9e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_14a.ogg"
+hash = "caefdc4775bf8b5444d304513c48a3e6bb4bd49046c0b1035a55e691575bc1a6"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_14b.ogg"
+hash = "17353996433971e68afc610c5c0b5d5a4aa1c306f3f29ea3260ab3644ca5ce6f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_14c.ogg"
+hash = "a487fdd4039b8e66b89d8bd7c8611ce14813770ded3b90b1a4ac187ee09ff9e8"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_15a.ogg"
+hash = "11ad7fb4c781857650b86dd0c9c10d72ec2450b9dbecfb6fb270469d4496c745"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_15b.ogg"
+hash = "0e7beb0f0db3a51eb8508b3871547b5f4a560f3a3d864360ce3ec636eaf50a4b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_15c.ogg"
+hash = "a225f10711b127724e21fd0196be955c968b171356487d24d98d7fde236c457d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_16a.ogg"
+hash = "8480b50bf976330d00bc58a0ba0ba36151a2580facc703fc0ef163f770375600"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_16b.ogg"
+hash = "a78da6f944cfa221b998389740703d909e16f858ce61ab1c26611e9e49d8d6a1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_16c.ogg"
+hash = "3817de3e34553302262e6d5cc64d862567c823e3e0e90625cce58bb651935115"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_17a.ogg"
+hash = "d74669c037bc6662a2798be87567f0e203fe7fd3fc2136c1336510c478bd0959"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_17b.ogg"
+hash = "e4d50d2d611783c4494b0d964fc10d7be254f41078ca44a8c3556301419a17a4"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_17c.ogg"
+hash = "0f2459a1c153bf58fcc32e73af1fa3a65f2fa25d58f336f3eb5ce68834e5430a"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_18a.ogg"
+hash = "90543f0a80a89fa8bbcc275a4b86219bbf6d2ae7e28890b69228ce7e2404242c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_18b.ogg"
+hash = "f4f028cd0555e8f69cbe94d59fb357b05028fac9d839c7757063e733803c3999"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_18c.ogg"
+hash = "1e89bb60d8346fec9468c141d9cb94494e570954aa82125afd3d92d3583662c2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_19a.ogg"
+hash = "9a08e0db32c09a2d63ed094321748e1c556eca26a02f038e05511c46701edc94"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_19b.ogg"
+hash = "2fa1fd821982fafb3f896fb12105aab927ae939c5008bf4c537a1195037ddd55"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_19c.ogg"
+hash = "d3504aa4fbdbdd0a383c68b0b347425f2fb22b8c2fdd1a03e8c01b27d723b3f7"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_1a.ogg"
+hash = "fd49f8e570161c94b43ae8e5598235aefb5ec88d41a0bd308521241377ec2cd0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_1b.ogg"
+hash = "61bcba2742e223350b8d0a2a4a8de9bed83252f32eefa4a07bc3acde83db8805"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_1c.ogg"
+hash = "d0b574d5d7e273745552fa1cbfed39354c804e34547f24381cc76eb81df524d4"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_20a.ogg"
+hash = "5c7655b8f1dd598fd881cb05ad11d798c938bb5373fd30ad09ac54b1695f26b5"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_20b.ogg"
+hash = "37fc8b344c58a0e3d305a6eb8a026f15f6dae81b88f028591ef312aad21949ee"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_20c.ogg"
+hash = "dd1e02753bc5a2c96b20ab45bd54a79eea7ad9b205dc5bbecdbe52637ca7e087"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_21a.ogg"
+hash = "79707fe9110cf9183e30f89f0aece4a07b54ef90e387f740afd5de4cc384df99"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_21b.ogg"
+hash = "741529339ced5cc699d4ccc1095ec0f79802ce00c7e0454ceec0a19e4894a9cc"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_21c.ogg"
+hash = "29ce8c5827aa90e63ac29a4d017f8b996094d082c1159e23e2861fc1fffcf408"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_22a.ogg"
+hash = "43882894c258da4e6fa0311a862ec293d7fa2d737ececf69da0e2638e4d08c63"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_22b.ogg"
+hash = "13f38faead4a1309374d26b18e176ac5cc27dcf2f9fc1799b3253326966d9cb8"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_22c.ogg"
+hash = "c2b92cec1e5cf69972f0c30a8544e0fb98a42e56164079c78aeb62cfc416c287"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_23a.ogg"
+hash = "0f692cead8c13aa5bbc50ba3abfc7497903cb28a36c4a2ec0936e6f0368edc3c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_23b.ogg"
+hash = "118030b8a89f7f40632ba1d1ab8d2f1c3275270dd735eefaf46f6a8867fdb365"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_23c.ogg"
+hash = "fb6d702b29055caef48cf7e9e1089525cb66a87cf408152b34b6ab7d7fce9655"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_24a.ogg"
+hash = "77c963042e06a94da72a3a1d746ac65abcce14a25e18f704b54c152645be14b0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_24b.ogg"
+hash = "d3e44ebad00a27fbbdf3691f40b994766104448ae1d1fdf713613b30283fe05f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_24c.ogg"
+hash = "024bd908d8992480db8f5c5ede464954e87eec1106cfa040ee9e9f109a628a85"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_25a.ogg"
+hash = "ab918a25541bd365056dbc70b79b43030a3f8cc7ecbe9921cdbbefd09c9078e3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_25b.ogg"
+hash = "8a220a131d9629957025b4fd871f5468d6c938bf892afaabb2b21fd03f4a6fcc"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_25c.ogg"
+hash = "f97a93b05fee44f29c7c97b0e11172cac11d1bcff47a605921d024e41425dd5f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_26a.ogg"
+hash = "ac668bb329dac09b552d363fd926a4b1fa7feb953d63750a47ea6672d2664e93"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_26b.ogg"
+hash = "f5081a6a49c34314342b793e0af7a57398ccb7a3292735c0e470e06efea20f2d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_26c.ogg"
+hash = "efce22471661aac1b08d4034fc3b901056b515e1823a541b7fc318e55019898c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_27a.ogg"
+hash = "90adef8e467836c730f7a72fa4625c7810dc4ffbe5ce8316b038ef891d7e3f87"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_27b.ogg"
+hash = "666584e4b587d46f0e9235dfa124642cf8aeba759315b637b31025f415a7dcba"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_27c.ogg"
+hash = "d374caa302ab74279c856950f7aaf9700c9fb40d3a945e9abd480d121047897d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_28a.ogg"
+hash = "1e12957e4b28c63b47d51e9a694ac81b6de6983c23da87b590492739411f6af2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_28b.ogg"
+hash = "17143df1f26cf2103cf817907519350e8f94f81c495f14d6a6fea32909e7dec0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_28c.ogg"
+hash = "f9ba0a935a98eb7ae5efb76d184132305b197a3137a26b23e7dab78bd8003a44"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_29a.ogg"
+hash = "53e4369bee10483dfdf2a39783c8dedb11a8c9e3ee80af8864c49405d50a0bca"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_29b.ogg"
+hash = "785f1326fe9db70d19e826a3bb2e84d9fdcf1c90f9b58b654a7d9f9b115c53c3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_29c.ogg"
+hash = "f442fca932e616fc69f5adefa220a3c97a1e57b80f0cf8a143243ccedec332a7"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_2a.ogg"
+hash = "56de7f3bcec6e5d8a61296f9db6f92653c477854df51211fe6f2554155915624"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_2b.ogg"
+hash = "68b1bb27ebb62dc44333199d1a00c081684353ef1b446e3fefdbde68b1bad7ff"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_2c.ogg"
+hash = "02d27cb920c386a147558dd3dbde4638791a69c91b82af52da40f630cb7cadf2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_30a.ogg"
+hash = "103c1fcef30862b60e5d03788d3f268e8edcef4fec17d513532ba0c23b7b036c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_30b.ogg"
+hash = "34fe55108ba5e32fef1255e88b71e06dc5df551e927a709e1f9f60883294bee9"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_30c.ogg"
+hash = "639dbe4fea04f3d38a91c5d16dfd7074cb7256ba24166301c5cef5e757c76468"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_31a.ogg"
+hash = "d41c10ce4326a9fb8f065fb2f66e90107d230c6bbf832f35315f097b51e2d3ee"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_31b.ogg"
+hash = "1e169f4bed1b8a8e4cedb557102c722d856efb0f208a2bc0e9b2abe37411806f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_31c.ogg"
+hash = "a05f4318c1700cc542416304241788004fe2f7f5a23bfbd41f391afbd73032f5"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_32a.ogg"
+hash = "a6e23519c63968ef46952e38ee276fab913bb149bc34c364d79bb79760df03d9"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_32b.ogg"
+hash = "59d51c9b2ccbeb0c9737c3e5116ceda65466a9b2185453beee868e3e4d06c48c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_32c.ogg"
+hash = "0429d91068cd57f79a940d618e8e7bd6f7dcae91e50c6b4ec27b77cd871b750a"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_33a.ogg"
+hash = "697e58ddc6951be4576a0258807f1ca0742c84bb17d9fe8614225ae194229f16"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_33b.ogg"
+hash = "a8655af7a4c42af6e4597fa83bd3b6b5758260d43e4ed295f00600175d98f2b1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_33c.ogg"
+hash = "0968801fe68edcc5c665bac6db5303c49534e09adefb88a7088584ab71c0d5e1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_34a.ogg"
+hash = "95fd4fcb44dd06ddbdf20cf1232a37796695e3c7f6e2791d210e90389b016d24"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_34b.ogg"
+hash = "e8847190f5c607592d7f2d3af3a9d7f5f57e7f57a1e788f5e996a728e48abec8"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_34c.ogg"
+hash = "14947fb9ee6de1445885ce21daff6d9912328a54681def36d55cd83c8f9dccb3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_35a.ogg"
+hash = "bd0fdb68ddfa1f8506983008c887efb06651d1c1e75ced20c119585a0986723e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_35b.ogg"
+hash = "e2b4d7f900e5c1f5e35b10b44e26d145cc0f952e42465baeb0e39dabc9763318"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_35c.ogg"
+hash = "3cfa65668f8a3b54dc91331f13c010d9e892ca820e62ebeef9d73cce3609c44a"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_36a.ogg"
+hash = "bffba650256f6c6d9c417eb77c78d27c9061e0dc9d8ca1265facbef33c4f81b8"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_36b.ogg"
+hash = "10427eef7c325c8414f4ad2ea76045b4c9973678dc7016c2b608452ee6edc3db"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_36c.ogg"
+hash = "f933bd2a6b8c367b8450c8177789d886cdbb974af8cdcac2d325579454784e41"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_37a.ogg"
+hash = "7b474c9de8efe9ee411f949ece650f62b91f8969df4cf9f73d5fc573bf6257fa"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_37b.ogg"
+hash = "61d85e1ce9ae26dc7349ab8bde8b318d72cce31a8b3607c9bdcbe0a5a8cddb2c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_37c.ogg"
+hash = "834a901ed12a3f58f33e8cb3d09e875cc0c85e9442a7ee603e71ad4b437d5e68"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_38a.ogg"
+hash = "ac62453872ab5edbe1064b24ffc24ea4312d804971c3bfc53460e03f434bca8e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_38b.ogg"
+hash = "941d069247dbcfa4829b0626f3b09dfa5d63e3bdfaa437d20cd709dfa4a0c1c3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_38c.ogg"
+hash = "497d97def60344d85468f9d0a49ce8d78484954a24644007bd6684941842a282"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_39a.ogg"
+hash = "ecb1e262d642b275e0f4a2a1cf011daaf2628dc7a1d1a39a577d132964aa1f6f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_39b.ogg"
+hash = "1d4b01afb2c0375f300424d5155a1af350d90dfb644f10ad5f63a8937d65ec3e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_39c.ogg"
+hash = "0e90f4501a0e523221c5e04e95e463faf292c2ed4f0620b65e6efe9612906228"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_3a.ogg"
+hash = "cf815b5f01b9657e0ab43c244cb187364bf50bebf230088c5781fe7a645d2017"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_3b.ogg"
+hash = "c90709e4e24ce31a174e101b78506511b8d26385097f3cb2688239e183667bb4"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_3c.ogg"
+hash = "5ecbc1f54edb5baae9675b309fab5c742591a0692957235e516b259e995760db"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_4a.ogg"
+hash = "ddc05c993a3bd1b3253ddaa31f07c4fd4a2765b9ad2eae1bd5e71095602f6b73"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_4b.ogg"
+hash = "5184f8f339dd00390b40a628ac6c37f7ca46ea9fa8b30bf623ae4465faa712cf"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_4c.ogg"
+hash = "bf580ded07e0f7de36ef259cca04722f39b5eac5286768607daaa5fff8e29e68"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_5a.ogg"
+hash = "d6e20ceb2ff8d8446cc42b575cae89e1ade8d052812fd265a13723143ff7724b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_5b.ogg"
+hash = "3ec9491f7bd43b5099ff29e77cb136cca0892f0efa7fa53bcc7c140e4b38cb97"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_5c.ogg"
+hash = "76bb7614e92316aa64b2b8a138b5561325a01c991bd9fa0ba4093f26323da6d5"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_6a.ogg"
+hash = "1f3c3f96aa915ec9ee563762775115f406ba3bc8b525fd4ffcae754944f5eb1e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_6b.ogg"
+hash = "9c3f7520474f9854bb22ee5d15ab241da94a6650a68054230e4b30e555227e62"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_6c.ogg"
+hash = "6af8229fc586fc629dd6eeeba9c06b4f23fd02c7e922fe89ff66e7826f60f9cb"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_7a.ogg"
+hash = "847301f95e824daa071ba0c9fac797a23156834425209d804251f7019d9f06ca"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_7b.ogg"
+hash = "4baba30ead25f5b03b511dda3f6952bf4b57b957e3bcc3008a703d2391f0ec29"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_7c.ogg"
+hash = "822f23fcecfc4a5b1f4cbb4fc95ab158fa73509b2369be92f3ad016f0169452f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_8a.ogg"
+hash = "cd08454346c6ea8d3e8d8d49bb766be52e08e13534ebf9af46e3b140fb6e2f07"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_8b.ogg"
+hash = "c12df61f26e6882d1b02fee7826337db53761fc60f1e9f8e32fa180e4e1464ae"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_8c.ogg"
+hash = "a205a5ee091c997d82bcaa4351cf2b470e34d14f450def2fde16d622b35d1d58"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_9a.ogg"
+hash = "d8363fba868cb5304ddf3fa7d1a22cb67f561e61b08439b4508b29c11f114af7"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_9b.ogg"
+hash = "5284719d40bb8d9cf1e878df92665470bb37357266aa9b98a906c5551a6e6589"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/acceleration/speed_9c.ogg"
+hash = "7f7be3a9bce0e348e0ff84197d2c9f0cd633636297de0fa306b3eabec1d6b7c6"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_0a.ogg"
+hash = "cfb21512af259faf119b441bcdbdc13739baa169987372e323bd414402218923"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_0b.ogg"
+hash = "b42f45e43341bf52235456e8966be9bcd568b4b222d1a6aed2c264639b76b1bb"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_0c.ogg"
+hash = "4b57fd7270030487b7f5d201084cf919048344d9272add6f77e943a9bed75c1d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_10a.ogg"
+hash = "434555ef4a9c4aa6040f25a15a0ef1363c66c0586017a6f768e651d82227095f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_10b.ogg"
+hash = "c9f9868f4142018d4f97b7276b4e559f6df66e5def9918c99846dedf4125263f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_10c.ogg"
+hash = "27150b76645ace5f96b67591afbe471c32184644fecceb420e048809acf899d9"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_11a.ogg"
+hash = "26b14501013da50c78b67934e2032284fddb039c73c0d255b9e830f5f054b605"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_11b.ogg"
+hash = "75cf4eb53b35167093df89800ecdbf9425e225737d31abc9e861d4d9049b9a55"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_11c.ogg"
+hash = "e5b1d1e18e17fa875916cd79ab4754e0b0d1f9608a0299333061474f8665aaea"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_12a.ogg"
+hash = "5b54a679032d36778fd30faff180c8e5abdd3747193a6357a10b1d4a332341bb"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_12b.ogg"
+hash = "3e2c90513e742506178f893823ed4a2e12ba95bad29a2e2dc4ba0f3a5e8d1720"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_12c.ogg"
+hash = "85529812702d74ca0c7468658a8daafd6b59dbb43415b39f8d99e77b6ddd917c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_13a.ogg"
+hash = "c14ec9d09086bc05b6c346650521e393cb413364417fa1ad11885c245daa81a7"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_13b.ogg"
+hash = "abd078b4665ad64033c1c1d7219186c1ed6097a20d114c141b80e80d7e62365f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_13c.ogg"
+hash = "9217d3fdb053bdac4a2d2a441cc4962f7d9edf51015d4d85765f8fb8082750c0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_14a.ogg"
+hash = "ae441af31ca741301a5b7bb98b9998997dee703c99adc61c2f63826b565dc80a"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_14b.ogg"
+hash = "d7c34a435b028168b8ba9d909d1e65b46b480e67b4b49ded46633e3683586407"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_14c.ogg"
+hash = "6e971d2fbd4d9bd0d00e7efd701bbb65a4d33d4171df8f4e6a3c15a42c9c9c15"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_15a.ogg"
+hash = "c62998b7dcec578da1514704a9bdc4a08367baf9fa523bcfea70e9cf4d8fd1e2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_15b.ogg"
+hash = "9b6fae89c567d046a8ba9ea46d47e862b69fb6935704c2cd3e3b56dd3ad8f92a"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_15c.ogg"
+hash = "d9920217c45244d8de63edb8cb18611f3b65bccaaaca68568d6448e9748181a1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_16a.ogg"
+hash = "8b72840db2d445355363e8dbd6de0255dfc99184a80ab711aec44c470c2dad4d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_16b.ogg"
+hash = "5781159ff12aefc332785375aaa47b862153721ef40010cd123f413307c2b933"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_16c.ogg"
+hash = "1ce87272f72bf4c4fefc17551ca264eed52fd4ef9b0bf3ec9e53389963fae015"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_17a.ogg"
+hash = "bba9dd6e64d46ab5fda16e9ed1c90e683ada2862987a78576ddc3ca259fcf11e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_17b.ogg"
+hash = "cafbe16cea2402fb531a75634570d295078b68fc5184e919e93047940391baa1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_17c.ogg"
+hash = "4a2fca363a1d1a9c6fd3e2c47aa6090d56ba2f726dfa2efae55ca13fd66a2838"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_18a.ogg"
+hash = "7ecfb643aad51ffb6a3c882e9b9f084c1a7712cbe58d90a9316afad5727ccfff"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_18b.ogg"
+hash = "0cdfaeca60bae5ad6e6119171f63a46a713a560cee2befeaa2f944184cf55c2d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_18c.ogg"
+hash = "31f0bb251a123976265b3c6dfd2af5bb595c50158dfc387d60d43a2d6c4401d8"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_19a.ogg"
+hash = "c1eb0f4b7a66a92f4bb1a0ee2c614a67ad0b4edf4b7dfb4032510142cd9d1be3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_19b.ogg"
+hash = "6f92a30bbb0a21b084ae78d50261a0e3a63069eddec355c74629a099fe9ae794"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_19c.ogg"
+hash = "a31f3011ada6187283acd07835d1da8bf5edfff3d62c9a0cffdef49243e4c61c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_1a.ogg"
+hash = "8a1963fffeb8938047ad0cfa9e57c671c7edd3f81e8f58443e573b420e9fd337"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_1b.ogg"
+hash = "743a5ba013e8fb316c176eebf42628db9c364d38269dc535ea2b82ac494710c4"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_1c.ogg"
+hash = "3fe616bff319bb6ee3c7990cea17c18b20c6c187a1ce3383f748f34bbb9af717"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_20a.ogg"
+hash = "02651d6c36725c47884d076534466dd7ecf005299e3dcce85d6e337bc6b5c520"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_20b.ogg"
+hash = "645d1f11a11383f7935f7178e929ddf5b747de4c9fe8c0fe81418bcb27fa4a87"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_20c.ogg"
+hash = "3d122da2f5c70605fd3633aff9695b8f01531b4e795f626517fd2ab9c10133b2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_21a.ogg"
+hash = "3a7f24562ee34906b009c7f165330471d82d325cab63b8d946f79c5fee15bd9f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_21b.ogg"
+hash = "e6748650f8028bedac8aafcd571724843d57d276f963641f0106a6b2df8a513e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_21c.ogg"
+hash = "0d365f0a4da7208670ad28f28eab630f4f3b4c207cc3aefe6f1bfbf54599e556"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_22a.ogg"
+hash = "284e7ec6bb56c765b68443d2dc1d67a6421e8dbd44ed59c8b01630d093eb8f57"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_22b.ogg"
+hash = "64e0c8842438fab08866fe0fc6d9ed4d4d817617e2c31b26277f22dbdd6e0b13"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_22c.ogg"
+hash = "ef1989da03375d92361aae1c910c543e1b34bea4f9569db75cb1015e5c3abf08"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_23a.ogg"
+hash = "876c39c59a535aa2cf46e5c190037c8bd6d2b3aff63d66d77efc8920513b78f0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_23b.ogg"
+hash = "93b0b4f7b6bacf557097ca09187ccdd74da16216e558156b9355de623fd2ccfa"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_23c.ogg"
+hash = "3f88329293945d7e569e110df3197108c6db1b6827daec80b8881e0b1bef6739"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_24a.ogg"
+hash = "90c838634f2c87dbb109c8abba5d533a749828e34a8ea294a024abd278e7e39f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_24b.ogg"
+hash = "72fe139833944ad7f57557d904be1db0a7c461b7ddcc736bdbf931b3c38612e0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_24c.ogg"
+hash = "57e3bd62ca29249f70fc5f649b7532be30cea70fd13b3af7c7c30a6eb21179fe"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_25a.ogg"
+hash = "dd6414f36a92141451244afc09f784e469ccc77f24fb426935b2ee0bc6802a8e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_25b.ogg"
+hash = "3cd78ff2fe4cbf929c5cc23bf44603ce1424a7efb18aff2b5165ea7dbabb7102"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_25c.ogg"
+hash = "7124c20a15b1e166e851d9787a50abca5b4dce05e36b465975b268efa20bc7c3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_26a.ogg"
+hash = "59a2d48bf94b285b2931e3645d9052a084aa813bced3f0c554fe210fb6f92aa0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_26b.ogg"
+hash = "f65dfb0f081d16eb56896e739d2bbd05bec736c577e5cf15c1fa5478269dc4ce"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_26c.ogg"
+hash = "b711cee29d4c58bacf3a7b86fb77d50f510803e92a67af52c46b353037e698e5"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_27a.ogg"
+hash = "eea30efcfd6a64e66e9496a58f9ad34eda23a55bad524cb6d71c44c77f1d04df"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_27b.ogg"
+hash = "993e8f6a87a5a0db307ca7a6097235eb2ef7286c128fbc011f8786bf77136c79"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_27c.ogg"
+hash = "2c3a4ff4da9f86de19816a23f4176913cb2dc61d91150b3fd2eb81cf7667c376"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_28a.ogg"
+hash = "7e4fa6b4ef3901a8e8d6bf121a5324289aefc9b5812e0bb161d04747d2b081b5"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_28b.ogg"
+hash = "c8ae63929311499822a2d336085507a5b350dd016e98bd093e1dd0d9dfbb1833"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_28c.ogg"
+hash = "9879859be9c2b135b148574c7d291d1ecf6e6c27b6e79f422be0aa8437ef64ad"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_29a.ogg"
+hash = "fede4664d5147e1c7cf97e883eec3f5c55acf4ba79d7866a03a53c2a8ba8e7c9"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_29b.ogg"
+hash = "59d4a4c7dae35ac3f3b6f214c3ff10ff511f57ec6260032a065fd5ba4d4ed340"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_29c.ogg"
+hash = "cc2a325d850d8776c138e4e624d38f66b4fc9463942d48439388029c38908170"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_2a.ogg"
+hash = "084cab275a19eaf2a1a85fe94cd5bcac1038a594f0661cf8bd55756c7088a3ca"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_2b.ogg"
+hash = "21df0465cdaf366b56d4cedb1ca6e636b13b78ff1690b9761ed685bd3a2037df"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_2c.ogg"
+hash = "5eda9289097ced1037a2a750896a18e542edfff74150f2fdb5d7d7861d3a67e1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_30a.ogg"
+hash = "23330f4af57ddbaa8a8c32fd74f87f383f3bfa78f13178c28f5d718f650420f0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_30b.ogg"
+hash = "c69b3ccbc06be168569cfc0f8cd91ca12485c9efc26fa566f076fad8cdc8d1f5"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_30c.ogg"
+hash = "657be3f6f7495f2e68e0b4a6d3f7790c8bcdd740258f9d2ab559f62394f69dc3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_31a.ogg"
+hash = "6dccca6c06385fad39c210c0e37250c72bbec97a5a72dcb6c3d61ddfe4fe1349"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_31b.ogg"
+hash = "e53976215cf90adb733254f5b3cd5fefaf67716939df247b70f66069bfd2d721"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_31c.ogg"
+hash = "7738edcdeac0e945037f4b361f7118e67de7209408a849dd2140b945f125f0a3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_32a.ogg"
+hash = "e531925b6ac912165e65f8c8ba8b4abd32c811c3e9ddd3dd18c135c3b59863e5"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_32b.ogg"
+hash = "ec99a47cbb0b14dcc49ac22e765c9d1bc7bf9807a2bc058623436a98aac7f332"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_32c.ogg"
+hash = "274e4f31cda39773d03cc92dd27d03176322e213726bdbedfe648683e19030a1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_33a.ogg"
+hash = "9fcfb6b599447798b65e10abcbcd4128abd947e24b868b0926c6bcf9466330a9"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_33b.ogg"
+hash = "237f1443d2853ae163c92f98ed126165d6df77f1ef3dc388519ebecbc3cb6441"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_33c.ogg"
+hash = "6bdb86166300006ac9f1342f4e6e3ae60fe27b271091dda16516e7ce04430157"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_34a.ogg"
+hash = "d390ed5c0694f6e3646b5745162fa1a6e03b40342ab53eb846d0c6cccafd8c99"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_34b.ogg"
+hash = "40f1ade7e7ea4aac0d214c7c75072e15d043693c7924250343e7a9b1a2387212"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_34c.ogg"
+hash = "67585233b649d6fa80135d2840250d304e8b1cbf56190e609986d2aed0819709"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_35a.ogg"
+hash = "4a897b53d43e165b8abc1bc4ba36af9ef196a5b82068c77aa94c29f1f6f36e32"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_35b.ogg"
+hash = "031f7a4fe3260234532e278470937313e3ba3c86416d9d52bace229c3be547f8"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_35c.ogg"
+hash = "fc0ec54e0732a8228c6e6b5897ed43ca332def348c0b1b1aab30292f06928736"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_36a.ogg"
+hash = "46523e78cc71015de780c8511f500ecef07d215e5225b04e3a29d4746f3215e6"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_36b.ogg"
+hash = "af93594d0c5ddf4083287e710cd7d6322cb60869fda895a7fc01f62e8f782357"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_36c.ogg"
+hash = "f8261054ed0d9315fedc1bfca7fa26fea8d889187450c4dd5bc02095a989d216"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_37a.ogg"
+hash = "ae21ca1a163b395719618dc8d453c7d9c0e856aa66231e5e622ce1360e5d261c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_37b.ogg"
+hash = "0a3e3cb7b72747c176635ac8049f2732f87b3d13fb192dc36bc58b5499cc3032"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_37c.ogg"
+hash = "4f3e6e40d6e36237292299f6cd9a88f5cc0866a227a21eb61fcc6e4f3c9dddbd"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_38a.ogg"
+hash = "eb9a236c556d4d3c1221ecf970d35431cb9e7d9534a6a5201555c8f297c7b865"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_38b.ogg"
+hash = "7883a5addcebf4b2ddfeec9939d61e70826a5c468daa6b5bb90365a2eb24b75e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_38c.ogg"
+hash = "cb1ee947e846b83936e9c76c3a36efada7ed3f19ad74115c29d8bf7272a4a290"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_39a.ogg"
+hash = "9f89141b54742ae3f4ecb8895cec21dcb7d68e14bb221edcd636889d268f3f22"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_39b.ogg"
+hash = "3b722672790e45de7e11c850b4371cdd59b0f13570ee85cee9cde56360e4152c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_39c.ogg"
+hash = "fa2a12af0d0c32cbf8d0d0d41f6b30dddd5f029e2a5cbb756fc824590c357427"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_3a.ogg"
+hash = "3304b0e0ff2b953235d69a6177840482bb1652dfcc403e6cb71bdb712b1e51a0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_3b.ogg"
+hash = "8582262843f78a3fbc1c88768ff9d2d7897291a330d67a2d6b909ef3b56df998"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_3c.ogg"
+hash = "e352cbb5343a1c8d37d3f035224a65cabdbe2e14a56a4bcb7fd18e1c9a4400f3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_4a.ogg"
+hash = "9e3a65e57b5e9f0c9dd82d38be2ae0e4b0093df2d8b7e51f4db4b1b72a53250f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_4b.ogg"
+hash = "8ead14ad88c1ed13c6e571c6420ee5a65fc0c93a55b2b8140f5554f25aa129be"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_4c.ogg"
+hash = "7790fc29cfe7c888c23b017c7c0aecaa2b2f058dabdd8cb8d629fd6133dd2cfb"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_5a.ogg"
+hash = "d01af7244b3fe7a2916ab1f1f8aac8dff5471341b44f7cc5a344ada5232e436f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_5b.ogg"
+hash = "1c6fd4629827c2e0d7ef87621709cfb9a4e5aaa17399c032e6809badd8669175"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_5c.ogg"
+hash = "ee5bf1b4b1e2286709d30114bbf28c721ac3a9061de5d4c1ed6cc24f37f955c7"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_6a.ogg"
+hash = "7ed89930b7b4bc1dc637b4d3cfda7fd341e3495c48942f59b240c56bb39205e3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_6b.ogg"
+hash = "5ab103d5f02a7c8e963b98960e5d8ae8d32fd78efce186745a2c011b1ba1457c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_6c.ogg"
+hash = "8e225534790aaaddc8f3ec84b057da571a1c486fb97dc4e5e883feb0ed8dfafb"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_7a.ogg"
+hash = "baac9b2e426031d291953c524f2cee7c3316c030df3d908388cbad95dfd55792"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_7b.ogg"
+hash = "876956413ea8642e58f70046ef0bac355e8b5de24ee53f9d162faa4e2ee842f3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_7c.ogg"
+hash = "78fb3a2fc17ad0199406fd69549f8f731cca2508bb339e3082bc8bfe3763d200"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_8a.ogg"
+hash = "1ad5100cd1724fd376f0f49f3c70acfa3f2c59174fec4b61dcf9a92c9b779dd3"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_8b.ogg"
+hash = "0fb5fdadfa6e53e77834285d4e372fa65efd2dc6591eb309a09c25a872ffc53f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_8c.ogg"
+hash = "d6b1f9c73abdf3164e206df69a234b72f009c2d936b1d7017b4343d1e1c7fc89"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_9a.ogg"
+hash = "ef4077baf069ef6b5d0e173ef7a4f10e6515f82bd0543e7534e98d0e209f994b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_9b.ogg"
+hash = "96ce83e3ee32eb3226da43e7f1d11a11d0d6e03d2d611ba1790ab3f47317a9e4"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/deceleration/speed_9c.ogg"
+hash = "d82102734213d325c69611b016a8edac8c571584e4b0af0807da3a45e3d9155c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/door_close.ogg"
+hash = "10e00e8c71454af61c4d74cee57714ed243e1491c97a29a84df1f592846a6bf9"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/door_open.ogg"
+hash = "0aee14e2ed194ed9879cf344fd81cbfc8043d220d00903c866a0901a73778ded"
 
 [[files]]
 file = "resourcepacks/CHTR/pack.mcmeta"
@@ -1382,6 +2385,10 @@ hash = "1d07c8f9436c61c19e65d394f97c41fd8cda69a1d19f557473ff6b5af5aed6e7"
 [[files]]
 file = "resourcepacks/JR_East_E233_Series_V1.1/pack.png"
 hash = "58946b82e963cebbb897955ff92fcaa60abcc007af130c1a62e87dbab4c1434d"
+
+[[files]]
+file = "resourcepacks/LERT Q-Train.zip"
+hash = "e21ed4788e3e99b0638b78ab874fef6a20b4e10233d287dc1c8d73738558e916"
 
 [[files]]
 file = "resourcepacks/LT Pack.zip"
@@ -2400,8 +3407,18 @@ hash = "87f69065584ff64dc33e04fcc508dfb80aa4640176474758a7d5ffccff892d46"
 metafile = true
 
 [[files]]
+file = "resourcepacks/class-377-retextures.pw.toml"
+hash = "81d33132f8d0c1d623c26287586aa170587544f84b2b7482ff9f44706a977153"
+metafile = true
+
+[[files]]
 file = "resourcepacks/crosscountry-iet-pack.pw.toml"
 hash = "6dade1cd2b70258a83d96bbbb269739f343f83bfc701e6f00ade9c8eeb26e559"
+metafile = true
+
+[[files]]
+file = "resourcepacks/croydon-tramlink-s700.pw.toml"
+hash = "b8022b0820552758f0e50f1af57847980be9b06b16fa26a290706add51a2a32f"
 metafile = true
 
 [[files]]
@@ -2412,6 +3429,21 @@ metafile = true
 [[files]]
 file = "resourcepacks/eths.pw.toml"
 hash = "ea5185ab574bd252f91a457bb997b07848ffcc2fb83cc4cf70eab89ab31dd9b5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gwr-class-230.pw.toml"
+hash = "2a88ab1b225544ad0b4f5dcc11a6f590117f9cdf6ce517ef3bc44c68f5c95030"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gwr387mtr4.pw.toml"
+hash = "f8ece197f716de807e3b0742cf7d87bf505d24e4c3bc17a91739625d1bfa9b93"
+metafile = true
+
+[[files]]
+file = "resourcepacks/heathrow-express.pw.toml"
+hash = "5820271ac27c090f7b4043b56013cf3b0e83976f68c497fe8b842da31dde20cc"
 metafile = true
 
 [[files]]
@@ -2457,6 +3489,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/lightrain_izumi.pw.toml"
 hash = "753c0e4ed2c2d19373e08b44d3988524b61c32bfe24578c57fd08c23eca68efb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/london-overground-class-345.pw.toml"
+hash = "acd83d97778361824690a77eec03ce6378f9a57473254dc6a873c6dbebad6f74"
 metafile = true
 
 [[files]]
@@ -2511,11 +3548,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-smb112x-apm-pack.pw.toml"
 hash = "21771ddd7606b1457636fb25b73fee67981a9560068d26269538c56f00fa7f33"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr-tgv-pse.pw.toml"
-hash = "191bbfddcb394ac011d5df0cb7610b2870402bc01485412d62db86399951294a"
 metafile = true
 
 [[files]]
@@ -2589,6 +3621,11 @@ hash = "421249b7855383806dcccbfc6d376e591c9abff11a8a55b20a349211a79fc347"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr4-uk-led-pids.pw.toml"
+hash = "8d7d30fa6478f810474c7016c30a264bd015f7e2704f9255db5ac13db80d534e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr4-zoomono.pw.toml"
 hash = "ac12a9f9aa3c4b70e01e89291b88af56d4d3e3315a4d642fe6ea93d791572b18"
 metafile = true
@@ -2624,6 +3661,11 @@ hash = "5e9158c5b60bdf0e1b323e8870f888ebb1f6a92120e756bc3b1008c8783be1c4"
 metafile = true
 
 [[files]]
+file = "resourcepacks/paddysigns.pw.toml"
+hash = "90a0ad2ea97a827a2cd7fa6a15eb5fdef2b5e9584d4dae469441a56514f1c882"
+metafile = true
+
+[[files]]
 file = "resourcepacks/prt4mtr.pw.toml"
 hash = "18212438999b2c21626c997752a5ea6b07fa42d955ae1c2329df31ea87fb5ef0"
 metafile = true
@@ -2631,6 +3673,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/renfe-repaints.pw.toml"
 hash = "665b592fbc2547db4f3cc9f08899f39c92a0d9bde590ec676a96d54ec81f2ad8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/singapore-mrt-sbs-transit-downtown-line-c951.pw.toml"
+hash = "43351d9d27ab17becbc4867394bcda4aa58534017e8cb2baee4cc4fae0c35ffa"
 metafile = true
 
 [[files]]

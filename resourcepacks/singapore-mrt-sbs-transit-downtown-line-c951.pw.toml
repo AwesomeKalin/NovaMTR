@@ -1,0 +1,13 @@
+name = "Singapore MRT SBS Transit Downtown Line C951"
+filename = "SBS_Transit_C951_V1.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UngXlEv9/versions/3zHOh1pN/SBS_Transit_C951_V1.2.zip"
+hash-format = "sha512"
+hash = "5742aad2acf52d3a066052be61ac8995d71a6c15bc9486771d90e8534a4718a04078f7b787fb5b577c598607013827706b6fb286e1f707b517c09d39a2628030"
+
+[update]
+[update.modrinth]
+mod-id = "UngXlEv9"
+version = "3zHOh1pN"
