@@ -1,0 +1,16 @@
+{
+  "pids_images": [
+    {
+      "id": "chtr_modern",
+      "name": "CHTR PIDS (Modern)",
+      "thumbnail": "mtr:chtr_logo.png",
+      "scriptFiles": ["jsblock:scripts/chtr-modern.js"]
+    },
+    {
+      "id": "chtr_1_block",
+      "name": "CHTR PIDS (1 block)",
+      "thumbnail": "mtr:chtr_logo.png",
+      "scriptFiles": ["jsblock:scripts/chtr-1-block.js"]
+    }
+  ]
+}

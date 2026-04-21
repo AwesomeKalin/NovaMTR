@@ -39,11 +39,6 @@ hash = "2bb6404c6546f92556e2ff7480832ca5bbbfa607470bd56f5a0f59528170816d"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "b1581bbfae9d16690f4022536da6567f000130c4ea5e04d92177c1bc61fea709"
-metafile = true
-
-[[files]]
 file = "mods/clicksigns.pw.toml"
 hash = "08803f0f90bd06b2fe2a9491bba86b1d80a60a3d05ec7c879a823c6cf5b5717e"
 metafile = true
@@ -258,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "41594554e4438af6326154bde5a2be30b1093699033108703c46b615ed341143"
+hash = "0463ecbcdbdf377b2773b61c94cba28ca94030a57e5e81d6f99f265441ef784e"
 metafile = true
 
 [[files]]
@@ -328,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "42e312acb7ca0cbcd528ce8e1a0c4b3443fbaec416c4d1741200369925f151a3"
+hash = "2605f9d82d953fff3d41212928d97cd7ba72b6411afccb5163832e0cf8b7fa5b"
 metafile = true
 
 [[files]]
@@ -579,16 +574,52 @@ file = "resourcepacks/C951 Long-20260407-175045.zip"
 hash = "749db01ca47a403bf76291cb0bb3a87a35dbabc617c2549a79cf08116f649bb9"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/jsblock/joban_custom_resources.json"
+hash = "8a4aedcca1d6e82daf122deff8e0380cda55221ef3967abb77a879b3c830bdf0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/scripts/chtr-1-block.js"
+hash = "417295028fa1efeaea86f97d5c0b0277b620f210816a72e35fee491612a3e25f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/scripts/chtr-modern.js"
+hash = "16be24196418c1e189aefdb0ef1eabcff3c96c44a9bee872351fef4c55bc507d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds.json"
+hash = "58fc01f10aa0eb8c1ef3119588ea6b189244c914942b4b7feb67f49816a9acf9"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/dc_chtr.ogg"
+hash = "b30138dc6d9e28e3531729ae8e949caafa3d0191c3852a2564465d564a069bc0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/do_chtr.ogg"
+hash = "ca108bb0452b6bf7749eb981748ecab809dccc01573af8b6749100b47926e2b9"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/ta_chtr.ogg"
+hash = "ec4b92be4568f6755b322b8d80f67408edf4b445d25ec710987f56674846db68"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/textures/lrr.png"
+hash = "6990bca866922b39cabcc6468da6a841a0cf66148af7d06597e8916cdfd4eeb9"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrLogo.png"
 hash = "68531945660d69fd7ff4e258d5358311cd71513623ef1e868093f1741d5deaae"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr_logo.png"
+hash = "68531945660d69fd7ff4e258d5358311cd71513623ef1e868093f1741d5deaae"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrc761.bbmodel"
-hash = "45b42084c1dac9d66432f84fc9f1ab01f01d6293a6a0834430b91cc4641f6ea3"
+hash = "a9479761ce30598a7ead976a3da8568cec985c717772649863f3d0480d6f7eea"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrc761.png"
-hash = "625c30d27fc5e80f0dfc3884edc827f45f9bb0b24d398a51e651bb4e90ca9003"
+hash = "2233240a71d31a3a5f36b064694fc289dc7d135af3a5bc618d7a7d8a496d34e9"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrc761v2.png"
@@ -832,7 +863,7 @@ hash = "0c5bd19576b7c1bf7b9b3a27f29b23950438cc57581c59aab4efae3cdec54bf9"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/mtr_custom_resources.json"
-hash = "c7de097893455ecccd6dea2b91480b0a74b139f48f7c16a3810e342e8ff8ca53"
+hash = "f2b3477d8346d760dbd7819d045d838824ea90670f5d059c62ffe892ce79040c"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_10f18245.json"
@@ -924,7 +955,7 @@ hash = "5875df1acb1ac1ba823cb46bde393420791cdac3be47615bcbcec060ee8ac837"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_a68bc551.json"
-hash = "888da685a75d829838fd8a1f0cb1c701443f13902e7902fd36f5d81bd56f55e1"
+hash = "ae431f5081cd8663bc7c17592dc4f3a8abbf736218dc47507e756562ff84959c"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_b127983.json"
@@ -3497,6 +3528,11 @@ hash = "acd83d97778361824690a77eec03ce6378f9a57473254dc6a873c6dbebad6f74"
 metafile = true
 
 [[files]]
+file = "resourcepacks/london-underground-c69.pw.toml"
+hash = "b7515869b71b652e15279be9b4fcb72c949c71f81165bb5d33171d32a85f05ef"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mlrbve.zip"
 hash = "a805b4e5bf6614799310129ce7188e0d56564856df22405f55ba1e30887f267e"
 
@@ -3746,5 +3782,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/world-pids-pack.pw.toml"
-hash = "da09eafcf2d11ba68509d3533e373d3307656193ed076438d0978d3fe1499b04"
+hash = "28cfb378e0ae84a9ad29743c4be177ec1bfeaf6e3e845fbcad2634b6fb3ad353"
 metafile = true
