@@ -2334,18 +2334,6 @@ file = "resourcepacks/FRP1.1.zip"
 hash = "6998d7cd4ae6c3f90a3e9f15f198ff4ab663942ade1f9ce0b6e7cc11d362d8f0"
 
 [[files]]
-file = "resourcepacks/FoameRail Class 22000-20260215-222004.zip"
-hash = "a9de7037427aa01721914df1f143e90c169cc1bcfa720ee95ef69be0a0d163b6"
-
-[[files]]
-file = "resourcepacks/FoameRail Class 3000 and 4000-20260215-214138.zip"
-hash = "d68cefe27a7a54c8b84c46be702f0d01808e5187b441b75aae5f241ba337ab36"
-
-[[files]]
-file = "resourcepacks/FoameRail Class 599 (Metrocar).zip"
-hash = "f5aaea8acd9f82d05e6cbac180acf3ac1a6319cc25507ad7922aa0adf3941741"
-
-[[files]]
 file = "resourcepacks/IVR - Japan Sign Pack v.1.0.0.zip"
 hash = "b82157fe6f67d2d144ca1a5172b6a6de0d311d0837c6db5c015b162df8348fbe"
 
@@ -4009,6 +3997,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/renfe-repaints.pw.toml"
 hash = "665b592fbc2547db4f3cc9f08899f39c92a0d9bde590ec676a96d54ec81f2ad8"
+metafile = true
+
+[[files]]
+file = "resourcepacks/singapore-mrt-c151-and-c651.pw.toml"
+hash = "b6ba0335db969662b5f633fd60870d5428a2dc953ab5828774385a938528eae7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/singapore-mrt-nsewl-trains-4-pack.pw.toml"
+hash = "eaf5c1dc2f491f19081f34beec490e26a507e665dfa36dee7fdb194639d021a3"
 metafile = true
 
 [[files]]

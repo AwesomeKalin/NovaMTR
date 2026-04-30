@@ -1,0 +1,13 @@
+name = "Singapore MRT NSEWL Trains 4-Pack"
+filename = "SMRT_Trains_C151ABC_C751B_V1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bANVT0MJ/versions/jTIBuJV7/SMRT_Trains_C151ABC_C751B_V1.1.zip"
+hash-format = "sha512"
+hash = "cd8b236f02aea04843b813ce89e55d6b01aa6fdbf9d4f2287aae7fc1ce59e8a8fab6a8af22ca34283127d8b5423fe8d4b1ef57ceb5044fa340613dfe39de96e8"
+
+[update]
+[update.modrinth]
+mod-id = "bANVT0MJ"
+version = "jTIBuJV7"
