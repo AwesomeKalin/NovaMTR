@@ -566,14 +566,6 @@ file = "resourcepacks/Bart_Train_Remastered_Addon_V1.3.1.zip"
 hash = "dbf41eaff8d2ea70b62017a8521399a3d5b2efc689dfad7132cc719a6fc66ba4"
 
 [[files]]
-file = "resourcepacks/C951 Long Refurbished-20260407-180632.zip"
-hash = "95f3145a6f6175d83200809a605663f5e451212101e80287aaf7e9a7297f0f31"
-
-[[files]]
-file = "resourcepacks/C951 Long-20260407-175045.zip"
-hash = "749db01ca47a403bf76291cb0bb3a87a35dbabc617c2549a79cf08116f649bb9"
-
-[[files]]
 file = "resourcepacks/CHTR/assets/jsblock/joban_custom_resources.json"
 hash = "8a4aedcca1d6e82daf122deff8e0380cda55221ef3967abb77a879b3c830bdf0"
 
@@ -2714,10 +2706,6 @@ file = "resourcepacks/LT Pack.zip"
 hash = "6018544d9efc193be41c7f0ff567f8d53c37fb9dc7d86c3dc222e00bac09b54c"
 
 [[files]]
-file = "resourcepacks/MTR_FMB2000-3000_series.zip"
-hash = "fd94a39cf4f2f0718f5a7c1b6bfe3352ad584675ec610f44d162ddf489a390a7"
-
-[[files]]
 file = "resourcepacks/MitzunamiArcher.zip"
 hash = "e043d0153e011a4f4cf01e6e0b13d7c9fc145b811991771ecc7589bfa5e32948"
 
@@ -2744,6 +2732,10 @@ hash = "c59c1bda7b76e45cafb2d2b8a6e14845d92e1a7a4f15472d8727299fd3c31c70"
 [[files]]
 file = "resourcepacks/NRS Regio Metrocar (Class 599)-20260215-225823 (1).zip"
 hash = "133f6bfac987967fabe950d36554d5e822327b654c687e82b19f10c6aa41ba60"
+
+[[files]]
+file = "resourcepacks/RCTA_RP.zip"
+hash = "038ce56a3701bf9a616587ee61dbd004d970011e6091cd1692257269429a4d0d"
 
 [[files]]
 file = "resourcepacks/RT D78-2-20250831-165621.zip"
@@ -3702,10 +3694,6 @@ file = "resourcepacks/WuhanMetroRails.zip"
 hash = "e0d72b1c026bde442458ad81c7e90e02e1f0c50cad3a3992c1eed9261f430568"
 
 [[files]]
-file = "resourcepacks/[MTR4] Karlsruher Stadtbahn.zip"
-hash = "b8f6bb53a55171c196ad4b8cbaf07c4b07c2d9fd3a48bc4f666c6f9c4c8c48db"
-
-[[files]]
 file = "resourcepacks/actrons-guided-busway.pw.toml"
 hash = "82496573c66bc081dd71300f5510fb5867ace6fb9f3c2b4b9322a09b8b3180d7"
 metafile = true
@@ -3736,11 +3724,6 @@ hash = "6dade1cd2b70258a83d96bbbb269739f343f83bfc701e6f00ade9c8eeb26e559"
 metafile = true
 
 [[files]]
-file = "resourcepacks/croydon-tramlink-s700.pw.toml"
-hash = "b8022b0820552758f0e50f1af57847980be9b06b16fa26a290706add51a2a32f"
-metafile = true
-
-[[files]]
 file = "resourcepacks/dennis-trident-3.pw.toml"
 hash = "baa23b5250af5d2a5066a0e417c76b6806c8a5baa61ea9feaeb3365bce0d5e09"
 metafile = true
@@ -3753,16 +3736,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/gwr-class-230.pw.toml"
 hash = "2a88ab1b225544ad0b4f5dcc11a6f590117f9cdf6ce517ef3bc44c68f5c95030"
-metafile = true
-
-[[files]]
-file = "resourcepacks/gwr387mtr4.pw.toml"
-hash = "f8ece197f716de807e3b0742cf7d87bf505d24e4c3bc17a91739625d1bfa9b93"
-metafile = true
-
-[[files]]
-file = "resourcepacks/heathrow-express.pw.toml"
-hash = "5820271ac27c090f7b4043b56013cf3b0e83976f68c497fe8b842da31dde20cc"
 metafile = true
 
 [[files]]
@@ -3808,11 +3781,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/lightrain_izumi.pw.toml"
 hash = "753c0e4ed2c2d19373e08b44d3988524b61c32bfe24578c57fd08c23eca68efb"
-metafile = true
-
-[[files]]
-file = "resourcepacks/london-overground-class-345.pw.toml"
-hash = "acd83d97778361824690a77eec03ce6378f9a57473254dc6a873c6dbebad6f74"
 metafile = true
 
 [[files]]
@@ -3897,11 +3865,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr4-adl-enviro-200mmc-buses.pw.toml"
 hash = "87cfd1854921160ca000b4b6e6933b63f99016a72bdeb00655b70a392250cb28"
-metafile = true
-
-[[files]]
-file = "resourcepacks/mtr4-british-rail-class-158-south-western-railway.pw.toml"
-hash = "65a1142a70fe266939a75b32f38cad657ac23cd45bd1092d25834c88e87a768f"
 metafile = true
 
 [[files]]
@@ -4027,11 +3990,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/sparemyfuckinglifejonathanhothiseditorsuckswhenyoucantoverwritefileslikeinmtr3iswearingod-20250815-232051.zip"
 hash = "bd04504ec25dd960f7ed91acb2f7b3b40686a13141f9adcd16da706d2e880226"
-
-[[files]]
-file = "resourcepacks/stepford-metrocar.pw.toml"
-hash = "fa9190bde77fb1ccbf5445a4216829e25608dac1098412fa4f4e77c51f041d7a"
-metafile = true
 
 [[files]]
 file = "resourcepacks/the-dual-side-lrv.pw.toml"
