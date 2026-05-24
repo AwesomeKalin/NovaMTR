@@ -81,3 +81,6 @@ net.minecraft.class_500 {
 com.lx862.jcm.mod.render.gui.screen.ClientConfigScreen {
 }
 
+net.minecraft.class_410 {
+}
+
