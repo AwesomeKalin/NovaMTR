@@ -133,6 +133,11 @@ hash = "85a779854ea0fe7b56d78986fe5ee10d70986b023d04b29ee70d8706b26e1d68"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "158d2ed5aa66f6346783d1810f7be9bfdb663d7a81ec007703678e7ca35eecc3"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "efd77a76faba07c5ba127a014d2b0390414d02a531bdfd9bab4b1ef7ea35e4f6"
 metafile = true
@@ -185,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/factory_blocks-fabric-1.4.0+mc1.20.1.jar"
 hash = "433614a6499e45cbcc715014e4b12e52b10527255f5908196ae1f98f440fc079"
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "51e8cded4ae413045bdc1a1863f8f59bb4aa100f702ad37b168188b883485a70"
+metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
@@ -262,6 +272,11 @@ hash = "17dd0e16456db561f1058c67928b03b5194eeaf4efd8ff6a979cb8fb75fa9cfe"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "d6be91dc0a2aca23ee640818d8a8295c85ddb2db6e0413669ecac9600b01eef0"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
@@ -304,6 +319,11 @@ metafile = true
 [[files]]
 file = "mods/mcr_blahaj.pw.toml"
 hash = "62830320ba2a100ac8e5d497b18cdcc9ae4311f71cbcbc8a3dce55178dc58de5"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "a387dcfe8d66bcde451407d5608af67e95720dea13d94a20e13ad5340f6bec6e"
 metafile = true
 
 [[files]]
