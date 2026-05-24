@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "ce85923b284cefa4ca74951aedcddb1a3b246ae1aca73a37f775bd5b162bebb6"
+hash = "0d07af3b8bd1d541cf3f570bd4ef619328fa4ccaf8a1cfd4bbb8bfdde455946b"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/magic-mtr.pw.toml"
-hash = "c5d92f50b392544bbc789f336c97e98ea635710672d702a7878514ffacb68569"
+hash = "a50affcfb7b099f668e93b222e4fd4fcbf50448a580b681d1fadaf9b287f72ad"
 metafile = true
 
 [[files]]
@@ -349,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/mtr-london-underground-trains.pw.toml"
 hash = "0475d4b7b5c0737f962b9648d69ce012d524493f9b27c1f57be8955e099b651a"
+metafile = true
+
+[[files]]
+file = "mods/mtr-traffic-addon.pw.toml"
+hash = "0db6d122c899e0e8a3219064b21f828f5c1f40ea0ee77eff08b44e2cb2926fa1"
 metafile = true
 
 [[files]]
@@ -579,7 +584,7 @@ hash = "417295028fa1efeaea86f97d5c0b0277b620f210816a72e35fee491612a3e25f"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/jsblock/scripts/chtr-modern.js"
-hash = "f9eae2aaec315c271047f03bce2828ad1f465c8a0f95553459c47560bebcf259"
+hash = "d95b9d47c9bad0acad8d6fc96746eba23d35e6e7bbfffed216ed3b3ae9a3a4ac"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/jsblock/sounds.json"
@@ -615,19 +620,15 @@ hash = "68531945660d69fd7ff4e258d5358311cd71513623ef1e868093f1741d5deaae"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrc761.bbmodel"
-hash = "a9479761ce30598a7ead976a3da8568cec985c717772649863f3d0480d6f7eea"
-
-[[files]]
-file = "resourcepacks/CHTR/assets/mtr/chtrc761.png"
-hash = "2233240a71d31a3a5f36b064694fc289dc7d135af3a5bc618d7a7d8a496d34e9"
+hash = "4308cd31543bd69fb5706620aeef8a87c353985a9bfe3bc0c8cc435d43470e8c"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrc761v2.png"
-hash = "7c56a387267d2d5acc01e3cd405156c878eb11abb3e01809a80f291aae1c7d86"
+hash = "040a2a49db056e7a87c41902d995b5143b393aeabd1f7c79953ea77e91b11fed"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrf760.bbmodel"
-hash = "369ec6fd10139d6ed80bd95100e9c424f2667151fb4c67728aa27206b4de139a"
+hash = "678e7e187012c9fb758862e1ab54371549f2d893e5e9db5e04fbd149a93b4b3f"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrf760v2.png"

@@ -1,13 +1,13 @@
 name = "MAGIC MTR Addon"
-filename = "MAGIC-1.1.0-1.20.1.jar"
+filename = "MAGIC-1.2.0-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/B3xIUDOq/versions/W1ltP5Cw/MAGIC-1.1.0-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/B3xIUDOq/versions/qzWNkleJ/MAGIC-1.2.0-1.20.1.jar"
 hash-format = "sha512"
-hash = "ed9a1b9b257b1a64b69afbe73a9faedf6146f9052c6a3aab4b23dbe3b99a4c0e9a32c07cf77fd9d9299238c42c0c4d9c8a736f9cc1f9fd978864842464db7fd8"
+hash = "fcf82e60489d2a3f6c03b625941a47b14144a445d877741a131f91566185efd979f728c1352c9f5cfe496dabaffeade888ab5179793b9cd03986bc5f9adc4bd1"
 
 [update]
 [update.modrinth]
 mod-id = "B3xIUDOq"
-version = "W1ltP5Cw"
+version = "qzWNkleJ"

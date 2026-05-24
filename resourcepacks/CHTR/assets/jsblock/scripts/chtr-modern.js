@@ -29,7 +29,7 @@ function render(ctx, state, pids) {
 		.draw(ctx);
 		
 		Text.create("Current time")
-		.text(PIDSUtil.formatTime(MinecraftClient.worldDayTime(), true))
+		.text(PIDSUtil.formatTime(MinecraftClient.worldDayTime()))
 		.rightAlign()
 		.size(pids.width,0)
 		.pos(pids.width,0)
@@ -89,6 +89,7 @@ function render(ctx, state, pids) {
 					let platforms = arrivals.route().getPlatforms();
 					let nextStation = "";
 					let destinations = platforms.get(platforms.size()-1).getStationName();
+					let destinationText = arrivals.destination();
 					
 					if(arrivals.terminating() != true){
 						for(let i=0; i<platforms.size()-1; i++){
@@ -100,9 +101,9 @@ function render(ctx, state, pids) {
 					}
 					
 					if(arrivals.terminating() == true){
-						destinations = "不載客|Not in Service";
+						destinationText = "不載客|Not in Service";
 					} else if(arrivals.circularState() != "NONE"){
-						destinations += "|經"+TextUtil.getCjkParts(nextStation)+"|Via "+TextUtil.getNonCjkParts(nextStation);
+						destinationText += "|經"+TextUtil.getCjkParts(nextStation)+"|Via "+TextUtil.getNonCjkParts(nextStation);
 					}
 					
 					let circularTypeCjk = null;
@@ -147,7 +148,7 @@ function render(ctx, state, pids) {
 					.draw(ctx);
 			
 					Text.create("Arrival")
-					.text(TextUtil.cycleString(destinations))
+					.text(TextUtil.cycleString(destinationText))
 					.size(45,13)
 					.color(0x000000)
 					.pos(70, (i+1)*13)
@@ -176,7 +177,7 @@ function render(ctx, state, pids) {
 						.rightAlign()
 						.stretchXY()
 						.draw(ctx);
-					} else if((arrivals.arrivalTime() - Date.now()) / 1000 >= 1 && deviation < 1000){
+					} else if((arrivals.arrivalTime() - Date.now()) / 1000 >= 1 && deviation < 2000){
 						Text.create("ETA")
 						.text(TextUtil.cycleString(PIDSUtil.getETAText(arrivals.arrivalTime())))
 						.size(20,13)
@@ -186,7 +187,7 @@ function render(ctx, state, pids) {
 						.rightAlign()
 						.stretchXY()
 						.draw(ctx);
-					} else if(deviation >=1000){
+					} else if(deviation >=2000){
 						Text.create("ETADelayed")
 						.text(TextUtil.cycleString("列車延誤|Delayed|最快"+TextUtil.getCjkParts(PIDSUtil.getETAText(arrivals.arrivalTime()))+"|ETA "+TextUtil.getNonCjkParts(PIDSUtil.getETAText(arrivals.arrivalTime()))))
 						.size(20,13)
@@ -228,6 +229,7 @@ function render(ctx, state, pids) {
 				
 				let platforms = arrivals.route().getPlatforms();
 				let destinations = platforms.get(platforms.size()-1).getStationName();
+				let destinationText = arrivals.destination();
 				let lastStation = "";
 				let nextStation = "";
 				let startingStation = false;
@@ -253,9 +255,9 @@ function render(ctx, state, pids) {
 				}
 				
 				if(arrivals.terminating() == true){
-					destinations = "不載客|Not in Service";
+					destinationText = "不載客|Not in Service";
 				} else if(arrivals.circularState() != "NONE"){
-					destinations += "|經"+TextUtil.getCjkParts(nextStation)+"|Via "+TextUtil.getNonCjkParts(nextStation);
+					destinationText += "|經"+TextUtil.getCjkParts(nextStation)+"|Via "+TextUtil.getNonCjkParts(nextStation);
 				}
 				
 				if (startingStation == false){
@@ -377,7 +379,7 @@ function render(ctx, state, pids) {
 				.draw(ctx);
 				
 				Text.create("Arrival")
-				.text(TextUtil.cycleString(destinations))
+				.text(TextUtil.cycleString(destinationText))
 				.size(45,13)
 				.color(0x000000)
 				.pos(70, pids.height-13)
@@ -408,7 +410,7 @@ function render(ctx, state, pids) {
 					.rightAlign()
 					.stretchXY()
 					.draw(ctx);
-				} else if((arrivals.arrivalTime() - Date.now()) / 1000 >= 1 && deviation < 1000){
+				} else if((arrivals.arrivalTime() - Date.now()) / 1000 >= 1 && deviation < 2000){
 					Text.create("ETA")
 					.text(TextUtil.cycleString(PIDSUtil.getETAText(arrivals.arrivalTime())))
 					.size(20,13)
@@ -418,7 +420,7 @@ function render(ctx, state, pids) {
 					.rightAlign()
 				.stretchXY()
 					.draw(ctx);
-				} else if(deviation >=1000){
+				} else if(deviation >=2000){
 					Text.create("ETADelayed")
 					.text(TextUtil.cycleString("列車延誤|Delayed|最快"+TextUtil.getCjkParts(PIDSUtil.getETAText(arrivals.arrivalTime()))+"|ETA "+TextUtil.getNonCjkParts(PIDSUtil.getETAText(arrivals.arrivalTime()))))
 					.size(20,13)
