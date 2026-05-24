@@ -1,0 +1,16 @@
+{
+  "pids_images": [
+    {
+      "id": "foamerail_standard",
+      "name": "FoameRail PIDS (Standard)",
+      "thumbnail": "jsblock:textures/foamerail-logo.png",
+      "scriptFiles": ["jsblock:scripts/foamerail.js"]
+    },
+    {
+      "id": "tfl_standard",
+      "name": "Transport for Loughborough PIDS (Standard)",
+      "thumbnail": "jsblock:textures/tfl-logo.png",
+      "scriptFiles": ["jsblock:scripts/tfl.js"]
+    }
+  ]
+}

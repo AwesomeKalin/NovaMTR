@@ -537,6 +537,10 @@ hash = "61d0a24528fb4361586cec9279db4cb42bdfa8b3618b8445112870d011295910"
 metafile = true
 
 [[files]]
+file = "resourcepacks/404 Transit Pack.zip"
+hash = "874421675f438234dc2efd1b50cbe0abbff3143e7d609f4bdf549027779317b6"
+
+[[files]]
 file = "resourcepacks/80xliverypack.pw.toml"
 hash = "99716ff780640c2a6d28f9377f35e6086c015e80e60c21215bfb29103901854e"
 metafile = true
@@ -2326,6 +2330,50 @@ file = "resourcepacks/FRP1.1.zip"
 hash = "6998d7cd4ae6c3f90a3e9f15f198ff4ab663942ade1f9ce0b6e7cc11d362d8f0"
 
 [[files]]
+file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/joban_custom_resources.json"
+hash = "ef54e3a5be3862215ed1034febe894b669119b2b46df26fdb65e48eb2f1b080e"
+
+[[files]]
+file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/scripts/foamerail.js"
+hash = "d5b96be92a1be9568cb36d9e66885c1a8537e2a935906e5218f4ac479f4c7aee"
+
+[[files]]
+file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/scripts/tfl.js"
+hash = "9b78bbe5176b41a48c0a202befa336db18f1a8249b53cfc94d1978882e8219d2"
+
+[[files]]
+file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/sounds.json"
+hash = "58fc01f10aa0eb8c1ef3119588ea6b189244c914942b4b7feb67f49816a9acf9"
+
+[[files]]
+file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/sounds/dc_chtr.ogg"
+hash = "b30138dc6d9e28e3531729ae8e949caafa3d0191c3852a2564465d564a069bc0"
+
+[[files]]
+file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/sounds/do_chtr.ogg"
+hash = "ca108bb0452b6bf7749eb981748ecab809dccc01573af8b6749100b47926e2b9"
+
+[[files]]
+file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/sounds/ta_chtr.ogg"
+hash = "ec4b92be4568f6755b322b8d80f67408edf4b445d25ec710987f56674846db68"
+
+[[files]]
+file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/textures/foamerail-logo.png"
+hash = "16551df41a0e39fc4033f30f0c518ebdd6ebc52e79833f7d6351559b92eae54b"
+
+[[files]]
+file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/textures/tfl-logo.png"
+hash = "531376ab5818d8d828a55474d3efb59ce5b9723e87c44534e77f975bb1e03790"
+
+[[files]]
+file = "resourcepacks/FoameRail & TfL PIDS Pack/pack.mcmeta"
+hash = "8202c0e4d26225a5d618193dcfaa5eb4ebdba2ac54e1a54e0795d90bcf47c36f"
+
+[[files]]
+file = "resourcepacks/FoameRail & TfL PIDS Pack/pack.png"
+hash = "16551df41a0e39fc4033f30f0c518ebdd6ebc52e79833f7d6351559b92eae54b"
+
+[[files]]
 file = "resourcepacks/IVR - Japan Sign Pack v.1.0.0.zip"
 hash = "b82157fe6f67d2d144ca1a5172b6a6de0d311d0837c6db5c015b162df8348fbe"
 
@@ -2740,6 +2788,10 @@ hash = "038ce56a3701bf9a616587ee61dbd004d970011e6091cd1692257269429a4d0d"
 [[files]]
 file = "resourcepacks/RT D78-2-20250831-165621.zip"
 hash = "c881a2f8745e73b8ff48b1556be122e560a3b4f178ce3496cf3547ae638bbeaa"
+
+[[files]]
+file = "resourcepacks/Republika APM.zip"
+hash = "910a0275e2dea59174db9a81f97285ac01244bd00daa61de5ca308409ef191df"
 
 [[files]]
 file = "resourcepacks/S43-Tec Stadtbahn Pack BETA 5.1.zip"

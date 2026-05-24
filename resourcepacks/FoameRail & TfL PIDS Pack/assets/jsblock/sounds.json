@@ -1,0 +1,26 @@
+{
+	"chtr_arrive": {
+		"sounds": [
+			{
+				"name": "jsblock:sounds/ta_chtr",
+				"attenuation_distance": 16
+			}
+		]
+	},
+	"chtr_door_o": {
+		"sounds": [
+			{
+				"name": "jsblock:sounds/do_chtr",
+				"attenuation_distance": 16
+			}
+		]
+	},
+	"chtr_door_c": {
+		"sounds": [
+			{
+				"name": "jsblock:sounds/dc_chtr",
+				"attenuation_distance": 16
+			}
+		]
+	}
+}
