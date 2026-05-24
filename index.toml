@@ -1,6 +1,254 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/drippyloadingscreen/options.txt"
+hash = "8d0edcad69219e217683bde3437b11318db348c7cce676c7c67de99b58f0ccd5"
+
+[[files]]
+file = "config/fancymenu/assets/nmtr-image/logo-bg.png"
+hash = "fbc950fca6b84d7dd36f53aa86111c1811f56912dcd78148cfe2f5c2fed7d734"
+
+[[files]]
+file = "config/fancymenu/assets/nmtr-image/logo-text.png"
+hash = "6ef8b385d2fae4d7961803d1946ab23d6ab7561bed25280de2fd82fd8139c429"
+
+[[files]]
+file = "config/fancymenu/assets/nmtr-image/logo.png"
+hash = "9388de3f5434c221e6f80c317bf0f0a5fce5122d55235b3bfb0e9dfc2293c96d"
+
+[[files]]
+file = "config/fancymenu/assets/nmtr-image/notile.png"
+hash = "1762b20be1e3a104b9a4a784378ad9931dfcf5c26d0c9f170f3c9025f2d9ae1d"
+
+[[files]]
+file = "config/fancymenu/assets/nmtr-image/tile.png"
+hash = "596edb824fa0dd9d450f6643f8b751688458282b85681d2870617527604e82bf"
+
+[[files]]
+file = "config/fancymenu/assets/nmtr-soundtrack/wrld-hang-up.ogg"
+hash = "ee03b6fe297d14d2e644192996e06ddbd8aba4cf5116ffc240d5cc87ed3594b9"
+
+[[files]]
+file = "config/fancymenu/assets/nmtr-text/splash.txt"
+hash = "9b8bec67f1f3b8778895916bac7352b3ad3dd39c17d87611addfb9820a1ef8a4"
+
+[[files]]
+file = "config/fancymenu/assets/nmtr-text/version.txt"
+hash = "1d07ac95a043e391d70cde2feb2eec3541b595e2e33324e7787e67ba2397de55"
+
+[[files]]
+file = "config/fancymenu/assets/nmtr-video/nmtr-intro.mp4"
+hash = "1bdbc046584150baaeec29a0091b37aa7c1e5ae2ea9ace2b4db4c792e941bf40"
+
+[[files]]
+file = "config/fancymenu/audio_element_controller_metas.json"
+hash = "d64f9632f0631da8c7dac4ecb60c379cb9cafc6f31dcbbcd7754e631802cf6dd"
+
+[[files]]
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "f45fa0caccc4b2011e0b37b362a5d295a95f1c6a38b12061adc512b4af6770b4"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "46a54913919ddafb0fbabf3070d0a62226430d3f5cfea041e0a04f45fd5ab431"
+
+[[files]]
+file = "config/fancymenu/customization/novamtr/bg.txt"
+hash = "c74ffb2659d558a419f1d589e36de0c150202af96d84a875809f3f7c0e87d0f2"
+
+[[files]]
+file = "config/fancymenu/customization/novamtr/buttons.txt"
+hash = "c60973af67292f13a1011da0f924c39b5a00b2cb3efc6495c637925f83604948"
+
+[[files]]
+file = "config/fancymenu/customization/novamtr/credits.txt"
+hash = "01e8cd7c97c1ef0c17d9941d46d8223f117a6556f521c5377db510d776106a3c"
+
+[[files]]
+file = "config/fancymenu/customization/novamtr/credits2.txt"
+hash = "0ccdb4f7caf9d398e26b5304ff471578dd807a55bc5d321d81f717dee3ae2f3c"
+
+[[files]]
+file = "config/fancymenu/customization/novamtr/intro.txt"
+hash = "7b8e344e5b3deec8a80f2bae1f6310fa127bf2bb2d503b914c6e907194d47ac1"
+
+[[files]]
+file = "config/fancymenu/customization/novamtr/level-load.txt"
+hash = "b26dc7affec73bc958a552633ee09d9c644dec69d31c0eb4a8717d97d4e2c509"
+
+[[files]]
+file = "config/fancymenu/customization/novamtr/loading-screen.txt"
+hash = "67abdbadfe35fa5799e78a6bb6c95bb6181672cd31c4c22c9a3768928b05e5c7"
+
+[[files]]
+file = "config/fancymenu/customization/novamtr/menu.txt"
+hash = "0adbffd80ccc7753d7a129761b3498d6d37b86016f166cae82da969330565b5c"
+
+[[files]]
+file = "config/fancymenu/customization/novamtr/packs.txt"
+hash = "8dbb61d606e6d7b08e57f050d87c5e4ce350f3cb0c17c3e79f794ddd7165176d"
+
+[[files]]
+file = "config/fancymenu/customization/novamtr/universal.txt"
+hash = "3142d8f2c4b1e2e65be1326bc2da03b6478be286892d0e9c243c887b788e01e8"
+
+[[files]]
+file = "config/fancymenu/customization/novamtr/version.txt"
+hash = "08c98e769eacd4f7f86d360d4c89208d10db2ec96d559b12b81134acc716b3b4"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/listener_instances.txt"
+hash = "4851b9a66d7c10a423430a935fed54793eda06790038782519b25a628d104ed0"
+
+[[files]]
+file = "config/fancymenu/normalized_scroll_screens.json"
+hash = "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "462279327241d07663569414d1840e4b6a391a560fb44c84f995ac206d163b7f"
+
+[[files]]
+file = "config/fancymenu/scheduler_instances.txt"
+hash = "91b1d5e41125edf3b078ec1a272408444d4feef771977dec24191064ec602e72"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/2026-01-12_15.52.29.png"
+hash = "79b47cce0c2b9ff8278dcb86420806585a06d51d2ef3455da5c117efbe04e6fc"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/2026-02-21_21.14.44.png"
+hash = "3e46641d2b9923587372f20acb81231955fa78447e3e3249f8cf321fa37ea1d7"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/2026-03-28_19.16.32.png"
+hash = "2b05cf3167e794c408255f556a954be6ae3c6330a90393bbd9c2a33684194011"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/2026-04-03_17.22.02.png"
+hash = "b9619fe792d48ec474a86fde6f959b08ea3f608cc9191e81f86ffc47ed88dd45"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/2026-04-08_18.08.51.png"
+hash = "60b448b3e518c6e3254beecd91afe1b20aa4302841b747bc96320038e8777d52"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/2026-04-12_22.29.24.png"
+hash = "300ecd3f02949369f88173a163e82114e9b3d3dea2ff52bfaa596fe7c32f0957"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/2026-04-14_23.48.46.png"
+hash = "2a74bd06bafde928b693039ade9f47694152fa0ed1d0a9f7195a128a967eb7b3"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/2026-04-27_19.43.57.png"
+hash = "176b9e860b7b0da48b266cadc963bea30cb062ddfbd26c312ea9df6473d5f309"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/2026-05-06_21.33.04.png"
+hash = "ae2d89d212ba003cab65943aebfd1da3747d364e057323339daf232cef7bc205"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/2026-05-24_13.39.13.png"
+hash = "55fdd82c76e22559cb2da3ddeb427ad565a08d9d4d06f6175ea872cfd5795058"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/adewa.png"
+hash = "bd501b85857d13f85176219ded5f5b287de1528a2a318d48368a0eaaf226eb47"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/aefrr.png"
+hash = "9f142e27fbf4d20031761a312bd3b4947fdac43374cdb05c580419e5c404f248"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/afadf.png"
+hash = "bf5bded467146d861388a8b6b4cc8576f6f336aa43f6c40c5a688aef86fc0392"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/cx.png"
+hash = "e4de0bf5b99345e78a32c1985c2a315c46b703bc1b586ea34a909b61d2adce1b"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/fd.png"
+hash = "2d9e226eab4691bba86eb8367240ca9bd70ee2342fba9d25f3b7dd4f97789fab"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/gdx.png"
+hash = "6264eb0828b3ee0ddef9eaadd2fba6d52c4a31b0e48ea8f9946bc9ce71634af9"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/image.png"
+hash = "7ab668a626c54a493467dfc9b1b160aa43dea324d58d7d373d9e552400231964"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/novabotomy.png"
+hash = "153c064a22a1275086d2cc97ac4a0240496370c1ba6b8efe28a17fc855ac0c60"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/ssd.png"
+hash = "a7608ca4a990a95f4878366574545f546f5ab57a9adbd3cd68bfd3abdd899166"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/images/wergweg.png"
+hash = "19bcac4bc7d3474c68cb230290af400397b3d9607cc33ad45043f1adeae3f1ab"
+
+[[files]]
+file = "config/fancymenu/slideshows/nmtr/properties.txt"
+hash = "402b7b5ecf5fa26bb5d84c3d22870be633dd8606af5ba63e2e14271b33cdf800"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cherry_blossom.json"
+hash = "993c16664fe2d1b9e8ad107bf1c19c1dbb244729c403ed058ca2e54616dc5452"
+
+[[files]]
+file = "config/fancymenu/ui_themes/cozy_campfire.json"
+hash = "1e7505231b9d99e6315845043ce810dfc7004ce1d8f5a4ceddb4ecb96c03ac50"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "01e2a3b5d250c0259a7f97f0d353785bfeab6d7ee2e147c16bb910f1d23e9498"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark_high_contrast.json"
+hash = "54316a2b309ddb472b9133f8ccb8694dce9b57be6ebcfb3c2e9d1bbfdade3f26"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "a05e95f7b62f338049fe0045d9a6a50060d3aba52d5ab83ac1ed6ff55cac1153"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light_high_contrast.json"
+hash = "7c96ba2f2cb4d59d20eaf88960de7a9308ce8a3460c4e1757e07c42e174ea65a"
+
+[[files]]
+file = "config/fancymenu/ui_themes/pumpkin_soup.json"
+hash = "7c6a5d5b19e53ca2f88371c2e867f51339b045697aab29864df5877a6bba9311"
+
+[[files]]
+file = "config/fancymenu/ui_themes/purple_void.json"
+hash = "fa63577441fd576ebac90ecf06b7ded376cbf80ca5103d398bc9a73a25c6c2c0"
+
+[[files]]
+file = "config/fancymenu/ui_themes/spooky_season.json"
+hash = "cfa46554bbb027efe3c2184a073ee652000acac2500cd5136764f901355ec0cd"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "e0b9d75fdef304fc599f42f7ca88730df77ca00176173a607f365b1d18d4a9eb"
+
+[[files]]
+file = "config/fancymenu/video_element_controller_metas.json"
+hash = "60ffdeb665500dfc0dd9d2739b32c80bf133cea125dd3b303954e94ca4cacc24"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "42fcaf153b8fa9ac37b06c3f916357ad531e38ee9723ec690964b01dc3ffe338"
 
