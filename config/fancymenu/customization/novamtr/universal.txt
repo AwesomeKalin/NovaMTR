@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1779656607006
+  last_edited_time = 1779660781660
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:1934ae38-e68f-4053-b6bd-a7d32cf2f4fe-1779656601965] = [groups:][instances:]
+  [loading_requirement_container_meta:b47e282d-765b-499d-a9e5-00c906766e6c-1779660759486] = [groups:][instances:]
 }
 
 menu_background {
@@ -351,63 +351,6 @@ layout_action_executable_blocks {
 }
 
 element {
-  audio_instance_0 = [source:local]/config/fancymenu/assets/nmtr-soundtrack/wrld-hang-up.ogg
-  audio_instance_weight_0 = 1.0
-  play_mode = normal
-  looping = true
-  sound_source = record
-  element_type = audio_v2
-  instance_identifier = 09a777df-4f54-421f-8772-44ceb4f9e0d6-1779643581756
-  appearance_delay = no_delay
-  disappearance_delay = no_delay
-  fade_in_v2 = no_fading
-  fade_out = no_fading
-  auto_sizing = false
-  auto_sizing_base_screen_width = 1368
-  auto_sizing_base_screen_height = 747
-  sticky_anchor = false
-  anchor_point = mid-centered
-  x = -157
-  y = -87
-  width = 100
-  height = 100
-  stay_on_screen = true
-  element_loading_requirement_container_identifier = 369c394b-a5e7-435e-9909-84ec28455c16-1779643581756
-  [loading_requirement_container_meta:369c394b-a5e7-435e-9909-84ec28455c16-1779643581756] = [groups:][instances:]
-  enable_parallax = false
-  invert_parallax = false
-  animated_offset_x = 0
-  animated_offset_y = 0
-  load_once_per_session = false
-  layer_hidden_in_editor = false
-  advanced_rotation_mode = false
-  advanced_vertical_tilt_mode = false
-  advanced_horizontal_tilt_mode = false
-  should_be_affected_by_decoration_overlays = false
-  in_editor_color = #5CA6EFFF
-  advanced_posx = -2147483648
-  advanced_posy = -2147483648
-  advanced_width = -2147483648
-  advanced_height = -2147483648
-  stretch_x = false
-  stretch_y = false
-  appearance_delay_seconds = 1.0
-  disappearance_delay_seconds = 1.0
-  fade_in_speed = 1.0
-  fade_out_speed = 1.0
-  base_opacity = 1.0
-  parallax_intensity_x = 0.5
-  parallax_intensity_y = 0.5
-  rotation_degrees = 0.0
-  advanced_rotation_degrees = 0.0
-  vertical_tilt_degrees = 0.0
-  advanced_vertical_tilt_degrees = 0.0
-  horizontal_tilt_degrees = 0.0
-  advanced_horizontal_tilt_degrees = 0.0
-  volume = 1.0
-}
-
-element {
   play_menu_music = false
   play_world_music = false
   element_type = music_controller
@@ -421,8 +364,8 @@ element {
   auto_sizing_base_screen_height = 747
   sticky_anchor = false
   anchor_point = mid-centered
-  x = 0
-  y = 0
+  x = 53
+  y = -73
   width = 100
   height = 100
   stay_on_screen = true
@@ -458,5 +401,62 @@ element {
   advanced_vertical_tilt_degrees = 0.0
   horizontal_tilt_degrees = 0.0
   advanced_horizontal_tilt_degrees = 0.0
+}
+
+element {
+  audio_instance_0 = [source:local]/config/fancymenu/assets/nmtr-soundtrack/wrld-hang-up.ogg
+  audio_instance_weight_0 = 1.0
+  play_mode = normal
+  looping = true
+  sound_source = master
+  element_type = audio_v2
+  instance_identifier = ef8319c0-13cd-4c99-8fdb-f956abb220ab-1779660763488
+  appearance_delay = no_delay
+  disappearance_delay = no_delay
+  fade_in_v2 = no_fading
+  fade_out = no_fading
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1368
+  auto_sizing_base_screen_height = 747
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -130
+  y = -40
+  width = 100
+  height = 100
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 104b6e28-c135-4fd2-8be4-8f97db541338-1779660763488
+  [loading_requirement_container_meta:104b6e28-c135-4fd2-8be4-8f97db541338-1779660763488] = [groups:][instances:]
+  enable_parallax = false
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  layer_hidden_in_editor = false
+  advanced_rotation_mode = false
+  advanced_vertical_tilt_mode = false
+  advanced_horizontal_tilt_mode = false
+  should_be_affected_by_decoration_overlays = false
+  in_editor_color = #5CA6EFFF
+  advanced_posx = -2147483648
+  advanced_posy = -2147483648
+  advanced_width = -2147483648
+  advanced_height = -2147483648
+  stretch_x = false
+  stretch_y = false
+  appearance_delay_seconds = 1.0
+  disappearance_delay_seconds = 1.0
+  fade_in_speed = 1.0
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  parallax_intensity_x = 0.5
+  parallax_intensity_y = 0.5
+  rotation_degrees = 0.0
+  advanced_rotation_degrees = 0.0
+  vertical_tilt_degrees = 0.0
+  advanced_vertical_tilt_degrees = 0.0
+  horizontal_tilt_degrees = 0.0
+  advanced_horizontal_tilt_degrees = 0.0
+  volume = 1.0
 }
 

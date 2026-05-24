@@ -63,3 +63,21 @@ net.minecraft.class_412 {
 net.minecraft.class_434 {
 }
 
+com.terraformersmc.modmenu.gui.ModsScreen {
+}
+
+loaderCommon.fabric.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen {
+}
+
+me.flashyreese.mods.reeses_sodium_options.client.gui.SodiumVideoOptionsScreen {
+}
+
+net.irisshaders.iris.gui.screen.ShaderPackScreen {
+}
+
+net.minecraft.class_500 {
+}
+
+com.lx862.jcm.mod.render.gui.screen.ClientConfigScreen {
+}
+
