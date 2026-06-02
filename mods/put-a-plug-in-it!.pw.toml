@@ -1,0 +1,13 @@
+name = "Put A Plug In it! (PAPI)"
+filename = "papi-1.20.1-fabric-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xedaBnSm/versions/QMV2RevU/papi-1.20.1-fabric-1.1.1.jar"
+hash-format = "sha512"
+hash = "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d2faaff00dbe9fd942d1d495150af1e4c6a9a9a72a569c8651266e4ca"
+
+[update]
+[update.modrinth]
+mod-id = "xedaBnSm"
+version = "QMV2RevU"

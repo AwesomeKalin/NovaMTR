@@ -1,0 +1,13 @@
+name = "RuOK"
+filename = "ruok-fabric_1.20.1_Pre-Release_6-1.7.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aTsegPV0/versions/l0jVfXsH/ruok-fabric_1.20.1_Pre-Release_6-1.7.4.jar"
+hash-format = "sha512"
+hash = "12bf7279685b99c95d054acbb991aac1ca6e7fbab426bf434d0a454904750316a3019593e6dc13d3cfb6314639a9983cd63b1c91dc3154d72ece71869b74430a"
+
+[update]
+[update.modrinth]
+mod-id = "aTsegPV0"
+version = "l0jVfXsH"
