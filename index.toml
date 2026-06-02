@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-traffic-addon.pw.toml"
-hash = "0db6d122c899e0e8a3219064b21f828f5c1f40ea0ee77eff08b44e2cb2926fa1"
+hash = "a98fc32e0ac86feb8d7531f04c84ff01f99afd673be82d4d0d169e1f7220c53f"
 metafile = true
 
 [[files]]
@@ -621,6 +621,26 @@ file = "resourcepacks/CHTR/assets/mtr/arrow-flipped.png"
 hash = "e6f059f692fc1875c8dca81334eee86b5ee9e0b1391d4d8f203ca375dbbcb911"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr100.png"
+hash = "cba42ca52b111c2372e3c0c6af680372bf5e826fbf84087e21f2a4828dff8313"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr317.png"
+hash = "3ff2e990d7e0f64e96c748e61997f52ff0f5d7c1e153ab61640e72a00040efd0"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr319.png"
+hash = "b04d6c266ab2f2f03892a0cc6cdc7499093d5b925f8db968d27f0b4cb3fd9a7e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr321.png"
+hash = "1e3561675b2950636c724c787be08c71584ce6e5d6cc05fc3444c9d16313c002"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr340.png"
+hash = "4e18f10305347d940d05acf87dc083e70cc011d10d9a405a509eaf93084acc7d"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrLogo.png"
 hash = "68531945660d69fd7ff4e258d5358311cd71513623ef1e868093f1741d5deaae"
 
@@ -717,12 +737,24 @@ file = "resourcepacks/CHTR/assets/mtr/chtrum488.png"
 hash = "3c9aaa19e3b2c05e0bf39368bf304f23d13be26c386baa12ad794dc2c70ed90b"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_10a60aff.json"
+hash = "1257e633fc7d0ccd6bab87349455f6f435247540fbcb3d64e23729854d0d924d"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_11fbd33e.json"
 hash = "948ddccfb7c03761705d199932d48a194c37156d5bf9350db0b45b8a5f3eb867"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_19f2161f.json"
+hash = "3544a4c4438bf640a69dd72282ce12619365950b9ea0923bdee2316b35cb1e2b"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_1b172e75.json"
 hash = "5fcc7a5e4fab000209b457c698c37b7d422b911550727cb444c3937c4178272e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_20343fe7.json"
+hash = "a2d9061ef1f9c8c6582e64d2eb87334437ab6862b8f4bb1b82ad2bd4d953de5d"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_20ef9fc6.json"
@@ -793,8 +825,16 @@ file = "resourcepacks/CHTR/assets/mtr/definition_4a9c6662.json"
 hash = "07576d05e6e6db37493534918043c8756c17a9883a5960b9cee8a3b614918ad9"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_4c666209.json"
+hash = "530ad7aca1f83b1fe651cab9a753335475e2cd59e8a479f88faa9b0c01e1a9bc"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_4c8d92d2.json"
 hash = "0b7491d2efa655acd9dd9eb5626e3fb6541f2032052390f80a1cda0564c9eb66"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_4e6f892e.json"
+hash = "545256b291fcb7729b018c04941670bb25cfef4551d3fbf7ef42281d1232e48f"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_5033f024.json"
@@ -827,6 +867,10 @@ hash = "4e157d0bbed30619c6ec8bb0015ab8b405d8043768ee6a463f23a494c1afdd70"
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_608affcb.json"
 hash = "f2ffd282e7f741ac0ca7dad507f905ed40428cd8f89480d4ca858d32233d7a4a"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_6c03ecc2.json"
+hash = "5ceb7a0ffdf493c98f6156b15e75dde9547e78887b80e2a7316fe7378a3e86fc"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_6cee61f0.json"
@@ -869,6 +913,10 @@ file = "resourcepacks/CHTR/assets/mtr/definition_80156e21.json"
 hash = "6466c01bbf17a2c6e5bc4391b9f10eeb21a7d580ac9d6d5ce302c16085263cef"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_80abeb03.json"
+hash = "c2960bd99eca9ff06e1a8d6131d172c3881b5432ea0ce42565ba0abd03341391"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_88ded109.json"
 hash = "2891dc4ce12597e188d08858b303cd0f3a25dbf443001ba929b206632dbd386a"
 
@@ -901,12 +949,20 @@ file = "resourcepacks/CHTR/assets/mtr/definition_9432645f.json"
 hash = "30ed910bf7314828850a3a988ec312457c9bf4721c6932eafa93bbe225b89012"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_949082ad.json"
+hash = "b307d3b04f0f91c4e1a1a9744a7ea3b3dcf10b09814bbfd23462d89b3c78ebdf"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_97360a53.json"
 hash = "b07d67bc7652ef0cce8347d0cfc9dd25352fcfceb2ab6e337b13be760df79d19"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_98e97bfd.json"
 hash = "b8edc0d23149e530b8bc733fe0ad8e3c95e12dd1628238bfb0d4bbfbbc709eb1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_9af00201.json"
+hash = "6910aff662f796961ac1867ea00d8e61e11154e755f06658bdf42695a8e54bee"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_9f83fd97.json"
@@ -949,8 +1005,16 @@ file = "resourcepacks/CHTR/assets/mtr/definition_b9b2e777.json"
 hash = "6bc54f53cb7b23aec89ab5d7bd0271b448f2d9b47765d2c22c2322013f73d579"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_bfafa855.json"
+hash = "d226ee193691062731d6ba1120439f68e1d04265717428824d1263ec2f9b8fb6"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_c0b1dd40.json"
 hash = "eece464fd233ea484e59efa59fff462db4c47e1af577ba98c918342cd9e76f1e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_c3be8ed8.json"
+hash = "fc36c82a29e919f412dcf6c412cfc81d0a482d1a7dd0a71b33fe7a5e83f04120"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_c592f792.json"
@@ -959,6 +1023,10 @@ hash = "bd737c0834bf8afc2b98c46b7ac5fa9868729a7786fd98146b2b0342f52f6169"
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_c6c2a220.json"
 hash = "5903d7fd210a1a48980edfbd2032472ecef2853905a575b71bff4795883ea177"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_c7e683bd.json"
+hash = "27f2e78f07ab50bb9fcba3d578dd65fb98daad2d1afce3735b0e7be1c64524a3"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_cecb391d.json"
@@ -971,6 +1039,10 @@ hash = "6eb5f0ca6c9bd84d63cf9c5a99f1c486fa2a2b8746ecfdc59f48586d4beb5de5"
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_d0f9b0a6.json"
 hash = "8fb7cfcfc6cad32ecc40dcd8a81e36bc7d968ab628db8303ec6f4299a422d573"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_d19417ee.json"
+hash = "1a9a7a1b13373e4d89046d43308dd74b0a6eba26d04786b883db76f8f45f0aa3"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_da9b47ba.json"
@@ -989,12 +1061,20 @@ file = "resourcepacks/CHTR/assets/mtr/definition_df5da64c.json"
 hash = "5cc7a70721e5d0977103ad54adf555c75c0cbbec00c30d1683a2505ff9cf9166"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_e1354b31.json"
+hash = "a80ea3a118633ec94b604548c92cf44d7ac1019401c5d9cdd430e3cb2fdbc0ea"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_e2a52a4e.json"
 hash = "1726c782f3dfd9e7555715f8ae1a70dfa383808883de116b7e32edc432ae5307"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_e2cd4f8d.json"
 hash = "ea60f646a86d3711cb9b9426b4af1a0a5a7e21489b5c30232fe503b3f848980b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/definition_e3f5a742.json"
+hash = "fc3eb4f02831ec3adabf2048900b6524835980d7c3236839177d7124d70a95c2"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/definition_e69da668.json"
@@ -1022,7 +1102,7 @@ hash = "0c5bd19576b7c1bf7b9b3a27f29b23950438cc57581c59aab4efae3cdec54bf9"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/mtr_custom_resources.json"
-hash = "f2b3477d8346d760dbd7819d045d838824ea90670f5d059c62ffe892ce79040c"
+hash = "248beb9171e4a9403e31064fa406eb5c58ad78c9c575a5f5526594a2afb585a7"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_10f18245.json"
@@ -1061,6 +1141,10 @@ file = "resourcepacks/CHTR/assets/mtr/properties_1fa25537.json"
 hash = "a1f6a7981e5c972a29b783fbc8bd7236e4102d351c4de420c82ecc5fc1bd6d47"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_2026cc9c.json"
+hash = "9fe648463ac1c6f5ded1c28427690e85b42d56d825a138ac3279edf8450754ac"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_218ba48f.json"
 hash = "a0d024cc00ae969b9aec5e5e2b17172cc963f4b579b18f6ba4ba23fc21351aec"
 
@@ -1081,12 +1165,20 @@ file = "resourcepacks/CHTR/assets/mtr/properties_27868d48.json"
 hash = "93e7d0aae1140738535ab4c07fc288098e8198093c9a2ba1cff45d6329c958e9"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_27ea5140.json"
+hash = "efe66ee2ece70683b8e2bc1cfe37595de23daff4e688502268163f92c010a0df"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_297fa3eb.json"
 hash = "b2e9bc8a9769933727c384d26e0567a1018307d62f2b97a98f28f6452c69ca7f"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_2a8132fa.json"
 hash = "18fd98fbf52a6900ec5f7ce5d31b99b6c79321511813852efd4086fdd20cc212"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_2bad0278.json"
+hash = "a882d28b007fdeb0ec095e85269ac36623166c145b64cdd8431357c7251e66ca"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_2c8ef0ef.json"
@@ -1099,6 +1191,10 @@ hash = "37481a5a530703c68cd0d1f6af444408cf51227e3262e4c7cfe478caee6a1fa1"
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_2e54eed5.json"
 hash = "027ccb02a5bc3e7d9a674408712f7fe8082b4ad2a3a46aa42ef3df2a8f5e623c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_2ef3e5b7.json"
+hash = "de95e63146f7176e4f721fa4e9c524568d3a36f37250b5f042322dae8002cb3f"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_32bf049b.json"
@@ -1117,12 +1213,20 @@ file = "resourcepacks/CHTR/assets/mtr/properties_3c9dbc4.json"
 hash = "e3987fbc76758ee51c97bf75d9b578fd9f649636a147a7550960ae8a250563f4"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_4115bca3.json"
+hash = "4d7d187505d9a63bd42d224f243441e84cb7d8dddf2846ed7071c7bb0d8f8791"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_42e019fd.json"
 hash = "8b859a321688131cf07b1dbae68a23f8279fd5828c2d8207706841407e5223c4"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_455ad12f.json"
 hash = "35fceff735adbd23e10cd21025910ee986e497cd3652b772e92996def291b82c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_47638410.json"
+hash = "b77e787030706cf555c343b4139f4493233adbf325f0e0e66229ef858d0d7b73"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_48e3ab3f.json"
@@ -1139,6 +1243,10 @@ hash = "870b05c4b1eb1de2916543c9aff88eb4a6643b1ee4ce2037e257981567ca265a"
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_5a3c7723.json"
 hash = "118198f152d1e78e418a9d2ccabc48034570ca7107191e7161bf8343a8ebf6fd"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_60bc1d24.json"
+hash = "93079ed3fd5875b8a6201446872ba0428bdc9a08e1105c22e7c409aa20772021"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_6312e99.json"
@@ -1165,6 +1273,10 @@ file = "resourcepacks/CHTR/assets/mtr/properties_75cd63ab.json"
 hash = "08d71c3d0267d7d8946926b896a59a54c3cea6ee052e7462790d218d32847b57"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_7fa857c4.json"
+hash = "05de57476ac5f16b250ebf53ed8b50fd9bde9a4d0fe7c5a17baab4e56a15d8b3"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_84821119.json"
 hash = "06e843f0111cab0ff6a90e2def06a2ff88cbc66473051034cff8fe19d8ab77cd"
 
@@ -1181,8 +1293,16 @@ file = "resourcepacks/CHTR/assets/mtr/properties_8d144eef.json"
 hash = "bf90ce19dbb8cedfd0baf25e4f9062a836e2e9c849fe53ce5702889be4a76e0c"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_90fff9da.json"
+hash = "7798e5fa27bd505766721368a292d3e17c407b5cae1313e960f6819a166e8a79"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_932b5ccd.json"
 hash = "295db84ae13848877f19e8b9885f18af74a241cadbdad10bfa5b442d6a9bddba"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_942ede44.json"
+hash = "4080122b718c4ddeca4dcbebe030785d7423c8ca258d101e6574e1ea1929cff9"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_9877e3fa.json"
@@ -1213,6 +1333,10 @@ file = "resourcepacks/CHTR/assets/mtr/properties_a68bc551.json"
 hash = "ae431f5081cd8663bc7c17592dc4f3a8abbf736218dc47507e756562ff84959c"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_ada90dc7.json"
+hash = "e3f693437b8d1dce5a975faefc3e169b28034d63337bc17abe5bd9dbd7561db4"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_aea76cce.json"
 hash = "e3999d15824a9617c668a158b763f2ddf875814a62c46347cd553af4bb387081"
 
@@ -1235,6 +1359,10 @@ hash = "15b66a7c929d10ccaf79a44f80b215b53c3f862093b9159e0d016b25c273c589"
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_b9490201.json"
 hash = "2be430b4ffe6ffd6ed5c75b856b7950cea28debf5d89d7647207e06cb0037806"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_ba253142.json"
+hash = "de7ecc381195d27a38d0297cf46502605b74d1b4c57793f5f710b7d58bd3ef4c"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_ba4675f7.json"
@@ -1285,8 +1413,16 @@ file = "resourcepacks/CHTR/assets/mtr/properties_d9315d62.json"
 hash = "0a8c07d692fd33ff37e4d30d65f88daf41ba91ff3688bb4744e12032cb1b6a10"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_dd7fa4cc.json"
+hash = "9073eca9fde50fa74e1ae9b573213d485ab083277b376ab21f5549dd1471a77c"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_dd8985a6.json"
 hash = "4eb7fbca1e01ad8328c998483589ffe34e16bb8afa876a77ae87f2fdadb61653"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_dd9fd586.json"
+hash = "c7e4cf4933eeb40dfa18a2b2e7db0913acfe6f76c385dded4659157d831b963b"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_de6b0012.json"
@@ -1299,6 +1435,10 @@ hash = "e838ded9a6a57fd8edca195dba77a58719260957a29b5b814a891d8f84e0ae2d"
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_e92ef331.json"
 hash = "ab5ae9dec0bab08197669a8354507d72b6d0aedaeca2367fdec0f4c94447e92e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/properties_e98013af.json"
+hash = "6527af6e8f6f95078251e4f8068abfdd2ae8254b2810cbe3455ef8379fd0d6e6"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_f390d479.json"
@@ -2797,6 +2937,10 @@ file = "resourcepacks/RCTA_RP.zip"
 hash = "038ce56a3701bf9a616587ee61dbd004d970011e6091cd1692257269429a4d0d"
 
 [[files]]
+file = "resourcepacks/RRRpackv1.zip"
+hash = "29d49e98dd4bc3a726b457d34fc4b6630f8c6584358b93a1a227a2b9e0470ae3"
+
+[[files]]
 file = "resourcepacks/RT D78-2-20250831-165621.zip"
 hash = "c881a2f8745e73b8ff48b1556be122e560a3b4f178ce3496cf3547ae638bbeaa"
 
@@ -2814,7 +2958,7 @@ hash = "b0ddb5cb299caf2a892854d8af79539956aa30d41fa29599ed843532c8c150a9"
 
 [[files]]
 file = "resourcepacks/SHSRUP Base Pack.zip"
-hash = "1c51ea472ddd8a8caf6e4c0f9140dd5fd9de535d55ba309b8d48da2bf0d0f123"
+hash = "df0785c96e163a8a39ef111a75316b4bb50d42cf8c5fe0eba8f0b21af99d5823"
 
 [[files]]
 file = "resourcepacks/Sounds of JR jingles/assets/minecraft/sounds.json"
@@ -3988,6 +4132,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr_dutchdarkmode.pw.toml"
 hash = "e36a09fd78b520ee7b6444c47684d792a6ba54a3df016fd5600d0190d5e62ca7"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtrmod-japan_style_pids-pids.pw.toml"
+hash = "6f3c752e744bfd0e3d1dcc351276a026f64cee3274261d48d0556ec13a0a6a0d"
 metafile = true
 
 [[files]]

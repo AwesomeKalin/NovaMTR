@@ -1,0 +1,13 @@
+name = "MTR Japan_Style_PIDS 日式PIDS"
+filename = "Japan_Style_PIDS日式PIDSv1.0.6.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/eqwnJEhJ/versions/vV4QcGB3/Japan_Style_PIDS%E6%97%A5%E5%BC%8FPIDSv1.0.6.zip"
+hash-format = "sha512"
+hash = "baa2358b825d6f1998b57ca6d18dbe06515af02b2e570e8b435bc849e7250129466f43a2309d7d410128732b117cda0dd73af7afe4ec44f2dede3e313b1ca573"
+
+[update]
+[update.modrinth]
+mod-id = "eqwnJEhJ"
+version = "vV4QcGB3"
