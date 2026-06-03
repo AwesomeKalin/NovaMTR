@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/icterine.pw.toml"
-hash = "35cefd5b131660e696cbb6e9732d49cbce6c39de8995008965a67b4f70b43407"
+hash = "fd97be44a8f07701346ab544b84e4d377582e8f550c74851560cb1404df85de3"
 metafile = true
 
 [[files]]
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/put-a-plug-in-it!.pw.toml"
-hash = "9044dd8723dadf519d35ee5b522af948e6ae4aec3dbadb1a7829fe47b4212a5a"
+hash = "542bc9bb3e0683efc0dcf58f6809cb241710985a4fb04d565602a0cdb75c444e"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/redirected.pw.toml"
-hash = "d390ec478844293d5ae726133791b38b51a5e820ddbd757e5749f06c94eaa986"
+hash = "1f1032cfd8e298b764e968c4931a44f4718a9373830d162802d9662c45937476"
 metafile = true
 
 [[files]]
@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
+hash = "d37a36d3dd7be15d12fef03acb94c05e73d84f06e67bd2eed905b804346a3e4f"
 metafile = true
 
 [[files]]

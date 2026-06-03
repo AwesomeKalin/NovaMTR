@@ -11,3 +11,6 @@ hash = "14f810a4b593d9e828a66932d5c123ccacf3bf5a07334a15866ff39be778dae79427868d
 [update.modrinth]
 mod-id = "xedaBnSm"
 version = "QMV2RevU"
+
+[option]
+optional = true

@@ -11,3 +11,6 @@ hash = "361fa6da97aff91e797a2ca50044ba3ce929901aea509bef7f4a14fd36bc7a52a45d0747
 [update.modrinth]
 mod-id = "vBbPDuOs"
 version = "7toCynAY"
+
+[options]
+optional = true
