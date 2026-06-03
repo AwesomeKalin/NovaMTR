@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/txnilib.pw.toml"
-hash = "d37a36d3dd7be15d12fef03acb94c05e73d84f06e67bd2eed905b804346a3e4f"
+hash = "91b022a1d72fa122421fec59d3cd960d7522bec5f96f05a212bcde20f3d38e87"
 metafile = true
 
 [[files]]
