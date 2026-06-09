@@ -1,0 +1,13 @@
+name = "[MTR] Polish rolling stock"
+filename = "en57 v1.4-20260415-154608.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Hv9INXUV/versions/AToSuUbU/en57%20v1.4-20260415-154608.zip"
+hash-format = "sha512"
+hash = "f6b7588acc9caf131b0f4a6719501f9aad23133fd33d2083462335dd248f8a75fe5ef4d2f0ee52918d860f8e55365f425e61af4c471fced82965ea97595c549b"
+
+[update]
+[update.modrinth]
+mod-id = "Hv9INXUV"
+version = "AToSuUbU"

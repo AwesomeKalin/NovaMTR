@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
+hash = "57101bffcf0a663f8b63765d078e70e6e3372774d90e28fc868bf1c937514dec"
 metafile = true
 
 [[files]]
@@ -578,7 +578,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/404 Transit Pack.zip"
-hash = "874421675f438234dc2efd1b50cbe0abbff3143e7d609f4bdf549027779317b6"
+hash = "399a517a7fc5ad122b4b7d3db1def9f851234d1549952f37411929c0fee0c8b9"
 
 [[files]]
 file = "resourcepacks/80xliverypack.pw.toml"
@@ -3966,6 +3966,10 @@ hash = "ea5185ab574bd252f91a457bb997b07848ffcc2fb83cc4cf70eab89ab31dd9b5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/fudgemeow's idiotness 1.3.zip"
+hash = "8a85d1af906917bdb65763632d2aa435e183da72b6e868ed6832b802fa0686b2"
+
+[[files]]
 file = "resourcepacks/gwr-class-230.pw.toml"
 hash = "2a88ab1b225544ad0b4f5dcc11a6f590117f9cdf6ce517ef3bc44c68f5c95030"
 metafile = true
@@ -4062,6 +4066,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/mtr-n700a-series-shinkansen.pw.toml"
 hash = "cfd08303ad8cc1c9460aaaa66a5a1ece4ec0898f626759b67a047376b5bd5aba"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mtr-polish-rolling-stock.pw.toml"
+hash = "1a024a31e6f69dc6dc0f736f9e55558653e52716fae3e604e2434ae8951b94fc"
 metafile = true
 
 [[files]]
