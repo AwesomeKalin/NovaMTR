@@ -1003,5 +1003,15 @@
     "sounds": [
       "germanmain/shupei_mellow"
     ]
+  },
+  "jr_gate_close": {
+    "sounds": [
+      "station_jingles/gate_close"
+    ]
+  },
+  "jr_gate_open": {
+    "sounds": [
+      "station_jingles/gate_open"
+    ]
   }
 }

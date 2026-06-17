@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "0d07af3b8bd1d541cf3f570bd4ef619328fa4ccaf8a1cfd4bbb8bfdde455946b"
+hash = "3a030085817ace2585b966e7929322ec0835acb748869b89e811a677ddf476f3"
 metafile = true
 
 [[files]]
@@ -338,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-transit-railway.pw.toml"
-hash = "2605f9d82d953fff3d41212928d97cd7ba72b6411afccb5163832e0cf8b7fa5b"
+hash = "a84b46bb5429738ab63dc07de76bbe99eb5dda79eb8affb8db83b6f788d58d09"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-traffic-addon.pw.toml"
-hash = "a98fc32e0ac86feb8d7531f04c84ff01f99afd673be82d4d0d169e1f7220c53f"
+hash = "7e05b7fb2d3524a2287bccab394987cfb1c2d7b57ff36324dca7652cc84d08a4"
 metafile = true
 
 [[files]]
@@ -2922,6 +2922,10 @@ file = "resourcepacks/JR_East_E233_Series_V1.1/pack.png"
 hash = "58946b82e963cebbb897955ff92fcaa60abcc007af130c1a62e87dbab4c1434d"
 
 [[files]]
+file = "resourcepacks/Japanese_PIDS.zip"
+hash = "86a3ed724d738eede84a36b11d281dea590985a124d7fd95945a03d9c50b16d8"
+
+[[files]]
 file = "resourcepacks/LERT Q-Train.zip"
 hash = "e21ed4788e3e99b0638b78ab874fef6a20b4e10233d287dc1c8d73738558e916"
 
@@ -2987,7 +2991,7 @@ hash = "df0785c96e163a8a39ef111a75316b4bb50d42cf8c5fe0eba8f0b21af99d5823"
 
 [[files]]
 file = "resourcepacks/Sounds of JR jingles/assets/minecraft/sounds.json"
-hash = "0020225b37e4c92e53bbcb9a802c453f455df0d0bed4c9f5e3cb451bfa113261"
+hash = "b6d94c29f8aaf3bdae97510ed430bf0ef483c4af8ce85e747312464cbfe00fa4"
 
 [[files]]
 file = "resourcepacks/Sounds of JR jingles/assets/minecraft/sounds/germanmain/asakusa.ogg"
@@ -3196,6 +3200,14 @@ hash = "b25c1dc7834b663d83c177a93bb52c9b6afb4b0918c1bfb4f89d2c1c961ce978"
 [[files]]
 file = "resourcepacks/Sounds of JR jingles/assets/minecraft/sounds/station_jingles/d5.ogg"
 hash = "ca857efc496888f61f53e7bbe1943c43ba82029eac513ccc34be888af3617198"
+
+[[files]]
+file = "resourcepacks/Sounds of JR jingles/assets/minecraft/sounds/station_jingles/gate_close.ogg"
+hash = "9724a21e0954d3d17e17630efe5f5a1f698924a3c73482add9f0576ad4b010f7"
+
+[[files]]
+file = "resourcepacks/Sounds of JR jingles/assets/minecraft/sounds/station_jingles/gate_open.ogg"
+hash = "979eced5ae10d1f5b25d1547e5e567332b2af640914cb19aa3b0709eb29f3dc3"
 
 [[files]]
 file = "resourcepacks/Sounds of JR jingles/assets/minecraft/sounds/station_jingles/j1.ogg"
