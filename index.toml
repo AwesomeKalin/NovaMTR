@@ -2550,12 +2550,16 @@ file = "resourcepacks/FoameRail & TfL PIDS Pack/pack.png"
 hash = "16551df41a0e39fc4033f30f0c518ebdd6ebc52e79833f7d6351559b92eae54b"
 
 [[files]]
+file = "resourcepacks/FoameRail Eidan 9000 Pack (V2)-20260627-173023.zip"
+hash = "b011e9fd218d6a4fcf674b1d00c454bfb6e83cf175837408527a3aebdb073376"
+
+[[files]]
 file = "resourcepacks/IVR - Japan Sign Pack v.1.0.0.zip"
 hash = "b82157fe6f67d2d144ca1a5172b6a6de0d311d0837c6db5c015b162df8348fbe"
 
 [[files]]
 file = "resourcepacks/InterCity Pack.zip"
-hash = "1f3438557ef592e531aae2a9831e36ef1690546cdcc513e05b620fd526f3a493"
+hash = "d8a4c4c08ee0e943334531ee8199472f4f0d097f99a4d31d412fc0eadc8c0206"
 
 [[files]]
 file = "resourcepacks/JRE_131_Series_v1.1.zip"
@@ -2987,7 +2991,7 @@ hash = "b0ddb5cb299caf2a892854d8af79539956aa30d41fa29599ed843532c8c150a9"
 
 [[files]]
 file = "resourcepacks/SHSRUP Base Pack.zip"
-hash = "df0785c96e163a8a39ef111a75316b4bb50d42cf8c5fe0eba8f0b21af99d5823"
+hash = "dd6262b9371978a64b26ab28ee4bc4fccf0882ab4b430a5f0e05e5447df31716"
 
 [[files]]
 file = "resourcepacks/Sounds of JR jingles/assets/minecraft/sounds.json"
