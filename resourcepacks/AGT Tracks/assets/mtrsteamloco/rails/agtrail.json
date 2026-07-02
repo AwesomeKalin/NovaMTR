@@ -1,0 +1,26 @@
+{
+    "AGT1": {
+        "name": "AGT rail(No Girder)",
+        "model": "mtrsteamloco:rails/agtrail.obj",
+        "repeatInterval": 0.95,
+        "flipV":true
+    },
+    "AGT2": {
+        "name": "AGT rail(Girder two side)",
+        "model": "mtrsteamloco:rails/agtraillr.obj",
+        "repeatInterval": 0.95,
+        "flipV":true
+    },
+    "AGT3": {
+        "name": "AGT rail(Girder one side)",
+        "model": "mtrsteamloco:rails/agtrailos.obj",
+        "repeatInterval": 0.95,
+        "flipV":true
+    },
+    "AGT4": {
+        "name": "AGT rail(No Siderail)",
+        "model": "mtrsteamloco:rails/agtrailnoside.obj",
+        "repeatInterval": 0.95,
+        "flipV":true
+    }
+}
