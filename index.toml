@@ -586,50 +586,6 @@ hash = "99716ff780640c2a6d28f9377f35e6086c015e80e60c21215bfb29103901854e"
 metafile = true
 
 [[files]]
-file = "resourcepacks/AGT Tracks/__MACOSX/DEWON-Shinkansen-Infra-1.7/._.DS_Store"
-hash = "2f380f4a3d05a8d90c2106f50da75064e9ce57a598599dc5404f8f69a0223aa9"
-
-[[files]]
-file = "resourcepacks/AGT Tracks/__MACOSX/DEWON-Shinkansen-Infra-1.7/assets/mtrsteamloco/rails/._agtrail.json"
-hash = "136352f5fa13bf3756b1862a8b4dac220cbff9f509645d28fc7e1624c2b63634"
-
-[[files]]
-file = "resourcepacks/AGT Tracks/__MACOSX/DEWON-Shinkansen-Infra-1.7/assets/mtrsteamloco/rails/._agtrail.mtl"
-hash = "136352f5fa13bf3756b1862a8b4dac220cbff9f509645d28fc7e1624c2b63634"
-
-[[files]]
-file = "resourcepacks/AGT Tracks/__MACOSX/DEWON-Shinkansen-Infra-1.7/assets/mtrsteamloco/rails/._agtrail.obj"
-hash = "136352f5fa13bf3756b1862a8b4dac220cbff9f509645d28fc7e1624c2b63634"
-
-[[files]]
-file = "resourcepacks/AGT Tracks/__MACOSX/DEWON-Shinkansen-Infra-1.7/assets/mtrsteamloco/rails/._agtrail.png"
-hash = "136352f5fa13bf3756b1862a8b4dac220cbff9f509645d28fc7e1624c2b63634"
-
-[[files]]
-file = "resourcepacks/AGT Tracks/__MACOSX/DEWON-Shinkansen-Infra-1.7/assets/mtrsteamloco/rails/._agtraillr.mtl"
-hash = "136352f5fa13bf3756b1862a8b4dac220cbff9f509645d28fc7e1624c2b63634"
-
-[[files]]
-file = "resourcepacks/AGT Tracks/__MACOSX/DEWON-Shinkansen-Infra-1.7/assets/mtrsteamloco/rails/._agtraillr.obj"
-hash = "136352f5fa13bf3756b1862a8b4dac220cbff9f509645d28fc7e1624c2b63634"
-
-[[files]]
-file = "resourcepacks/AGT Tracks/__MACOSX/DEWON-Shinkansen-Infra-1.7/assets/mtrsteamloco/rails/._agtrailnoside.mtl"
-hash = "136352f5fa13bf3756b1862a8b4dac220cbff9f509645d28fc7e1624c2b63634"
-
-[[files]]
-file = "resourcepacks/AGT Tracks/__MACOSX/DEWON-Shinkansen-Infra-1.7/assets/mtrsteamloco/rails/._agtrailnoside.obj"
-hash = "136352f5fa13bf3756b1862a8b4dac220cbff9f509645d28fc7e1624c2b63634"
-
-[[files]]
-file = "resourcepacks/AGT Tracks/__MACOSX/DEWON-Shinkansen-Infra-1.7/assets/mtrsteamloco/rails/._agtrailos.mtl"
-hash = "136352f5fa13bf3756b1862a8b4dac220cbff9f509645d28fc7e1624c2b63634"
-
-[[files]]
-file = "resourcepacks/AGT Tracks/__MACOSX/DEWON-Shinkansen-Infra-1.7/assets/mtrsteamloco/rails/._agtrailos.obj"
-hash = "136352f5fa13bf3756b1862a8b4dac220cbff9f509645d28fc7e1624c2b63634"
-
-[[files]]
 file = "resourcepacks/AGT Tracks/assets/mtrsteamloco/rails/agtrail.json"
 hash = "36ed68c68b67c8702fe493d7f48508251f63c4ba4945d39e25531ce943c6f445"
 
