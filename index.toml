@@ -4288,6 +4288,11 @@ hash = "421249b7855383806dcccbfc6d376e591c9abff11a8a55b20a349211a79fc347"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mtr4-twr-70-000-series.pw.toml"
+hash = "72ca87839065a36e31f3b8d1e09252b8aaa3752ba2ba2273c54e3ada662b88c6"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mtr4-uk-led-pids.pw.toml"
 hash = "8d7d30fa6478f810474c7016c30a264bd015f7e2704f9255db5ac13db80d534e"
 metafile = true
