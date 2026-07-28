@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "df3fa6df4eb1d8f2e265b5d9124d2147c768019bc7a860af06fddf971e7e8ce2"
+hash = "f227463b37aba6b6aec1e633ea88d5fffedf36e255bf8cc29028c7daa34b5a84"
 metafile = true
 
 [[files]]
@@ -721,6 +721,10 @@ file = "resourcepacks/CHTR/assets/mtr/chtr355_100.png"
 hash = "712157ec3006cfedc8f3df7410b009bffae2a60c6a1bb3ac19d9e61ae6c64daf"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr360.png"
+hash = "9eed2aaa88cb3fed9d6165ebef1d6dea1e6ea34d0bfa803f09651492e83b3665"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtr368.bbmodel"
 hash = "786ae59b1c0c45e0270d3915cba1af40f49b9faea2ed2363ff6f87c2970af9fe"
 
@@ -731,6 +735,62 @@ hash = "704b912b1ce7f889dbb68e466cf6979d9007d0ddd8d5c6df065c99f5d28e1a82"
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtr368_100.png"
 hash = "32f9a7dd06cb8901b44a25f328af253c7d60ef3386b62acac995c29fb2e14820"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr371.bbmodel"
+hash = "a7a4a725cc151647325173465c3cbe1e9da03942b7ee375ece1e71164ac0c3ff"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr371.png"
+hash = "6e7a7d945dd441d8020e8c27576298a6618531523ec5338eae3dda7c947f8069"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr374.png"
+hash = "bd6bd592f19d0cedb37c1462fac87c665126e4a47381fdcb02fb9168b83dd03f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr375.png"
+hash = "96f9bc1a719652b174ee1fe737386bea4396a38c5745b018e61b03b3a94b8ca1"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr376.bbmodel"
+hash = "229a1b38d5ad75523abf1e05d2c19931d4f8fe7acd0af872e18ab224f2ad3ea9"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr376.png"
+hash = "31319fa2bc48021afb6ca8c75eb0d6cbed19b9da834882496b9649fccfc5e61b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr379.bbmodel"
+hash = "58b6e29097c7e6fdc9c4d3d810793cc959bb3ecf690d5bdde5bbac275b1977aa"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr379.png"
+hash = "35f40565b86cc24d79aa16504963ab2c1013759d597d49beafecb4d62ffda9da"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr380.png"
+hash = "d69b8060f1a727756fbff243c08b92c4c8d2e11b504df0c7d5a4974028bafd00"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr381.bbmodel"
+hash = "ac3c947829eca619e992144545e974011c4e674a221e3ac6dd60f0d300f4c104"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr381.png"
+hash = "392ec3da8b66fcc76d294a77e1984c1aea2f485183e2ed1734d09660bd01bcee"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr382.png"
+hash = "54eb4546f3b2fd3bc4f7790eb03c51464e633a082524b87ee0b686f6074ab06d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr383.png"
+hash = "6fadba94d219d5ae95cae23f96098170a5cee36490759c8c583c6162608b57ff"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr384.png"
+hash = "88f94fc0b4ee7fd445005d14e69e5862aebbb6427fe2992493a9e77bbec50be4"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrLogo.png"
@@ -1222,7 +1282,7 @@ hash = "0c5bd19576b7c1bf7b9b3a27f29b23950438cc57581c59aab4efae3cdec54bf9"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/mtr_custom_resources.json"
-hash = "51fe72b3b6ff4108b3225450464fa056c6d4c7f3b94726922aaad0d5a1019d8e"
+hash = "e7f2e9a5bceaaaf7cb90b244c79e5079ed5d42f9addaea89196570bfbd93a875"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_10f18245.json"
