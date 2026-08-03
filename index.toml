@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "f227463b37aba6b6aec1e633ea88d5fffedf36e255bf8cc29028c7daa34b5a84"
+hash = "9bf4b45eaec446aecb35d1de338f2c349ad0cf229fb4b95c820f9aa64f9a7942"
 metafile = true
 
 [[files]]
@@ -653,10 +653,6 @@ file = "resourcepacks/Bart_Train_Remastered_Addon_V1.3.1.zip"
 hash = "dbf41eaff8d2ea70b62017a8521399a3d5b2efc689dfad7132cc719a6fc66ba4"
 
 [[files]]
-file = "resourcepacks/CHTR/assets.zip"
-hash = "b1882300135641c16b5095753c9608a2ffc99186b8468b03119761eb3118f73c"
-
-[[files]]
 file = "resourcepacks/CHTR/assets/jsblock/joban_custom_resources.json"
 hash = "8a4aedcca1d6e82daf122deff8e0380cda55221ef3967abb77a879b3c830bdf0"
 
@@ -697,6 +693,14 @@ file = "resourcepacks/CHTR/assets/mtr/chtr100.png"
 hash = "cba42ca52b111c2372e3c0c6af680372bf5e826fbf84087e21f2a4828dff8313"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr313.png"
+hash = "58f663e7e61b44b0f6a43ffcf0203505413b0c7add2d0b79d3c545606a6da0a2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr315.png"
+hash = "c84cd19eb2facbbdd12a2a1b118d532f47a7cf8a8aba2960878f9cdf03cc4f38"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtr317.png"
 hash = "3ff2e990d7e0f64e96c748e61997f52ff0f5d7c1e153ab61640e72a00040efd0"
 
@@ -709,8 +713,40 @@ file = "resourcepacks/CHTR/assets/mtr/chtr321.png"
 hash = "1e3561675b2950636c724c787be08c71584ce6e5d6cc05fc3444c9d16313c002"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr327.png"
+hash = "527aba1e59a201dbc816f6aa8c71c46eb56a6bc487592b9f723f6d73068dc592"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr329.png"
+hash = "c6c312a8a26febbe3690656ff4dd2975e015577b9257cc791f861b1ba8297b6d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr330.bbmodel"
+hash = "0d986191ec23526c96bc7736ddced1305ce379da253d2547ce42431f3c06a9c2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr330.png"
+hash = "43706162ee458216dc13563c40d710d519ca993997e1a928cd31fd0220d07df5"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr334.png"
+hash = "8acdd86c0d4b7340fbbe80ebb8063c2c1457d32e605f3957da6e09e2502e6036"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr336.png"
+hash = "7a048f1c49ffce02ce8e3853846b39bbe8d2d8aa075ec84bcbdda8717aba8e08"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtr340.png"
 hash = "4e18f10305347d940d05acf87dc083e70cc011d10d9a405a509eaf93084acc7d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr341.png"
+hash = "fdbe70773faaf37b145fcf51e36c480a6fc738f35fa2c237a420e45c17f14cbf"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr342.png"
+hash = "3cf031240ffa88b978ca9b8d2966c7af244ffcec3b5c3d01d5a4e7f2126085ce"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtr355.png"
@@ -791,6 +827,18 @@ hash = "6fadba94d219d5ae95cae23f96098170a5cee36490759c8c583c6162608b57ff"
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtr384.png"
 hash = "88f94fc0b4ee7fd445005d14e69e5862aebbb6427fe2992493a9e77bbec50be4"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr700.png"
+hash = "f35bda0f47075faf593fc5ba117598350efb72f698a571ccf0d7c1bc318d6186"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr700_100.png"
+hash = "44bfe4fe8b77efd00c293a9a530fc15a6e1c8a9902b022d13a65974efde79367"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr700_200.png"
+hash = "95f9ec738ad4906457dc1e8f576f5b854b80562147822dacfc3b89ec20d8a702"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrLogo.png"
@@ -1282,7 +1330,11 @@ hash = "0c5bd19576b7c1bf7b9b3a27f29b23950438cc57581c59aab4efae3cdec54bf9"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/mtr_custom_resources.json"
-hash = "e7f2e9a5bceaaaf7cb90b244c79e5079ed5d42f9addaea89196570bfbd93a875"
+hash = "3ef5bd84aa426083bbc5520c0cb0269caed3e3856b39eda5e8f43fb526378e1b"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/mtr_custom_resources_pending_migration.json"
+hash = "705a37bedd183cba604a8ea5ba1c77deff5596a88921631a80336899927ac372"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_10f18245.json"
@@ -2733,10 +2785,6 @@ file = "resourcepacks/FoameRail & TfL PIDS Pack/pack.png"
 hash = "16551df41a0e39fc4033f30f0c518ebdd6ebc52e79833f7d6351559b92eae54b"
 
 [[files]]
-file = "resourcepacks/FoameRail Pack.zip"
-hash = "028f5c4285ab6d53afc16deab036bc6b2f017a659d837e9cecfd5f4a5123ea15"
-
-[[files]]
 file = "resourcepacks/IVR - Japan Sign Pack v.1.0.0.zip"
 hash = "b82157fe6f67d2d144ca1a5172b6a6de0d311d0837c6db5c015b162df8348fbe"
 
@@ -4162,6 +4210,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/eths.pw.toml"
 hash = "ea5185ab574bd252f91a457bb997b07848ffcc2fb83cc4cf70eab89ab31dd9b5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/foamerail-pack.pw.toml"
+hash = "97cef28625aaf45c7fb17895b4b5527572561dc7083f01e6f659d459ee35dcab"
 metafile = true
 
 [[files]]

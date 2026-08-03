@@ -1,0 +1,53 @@
+{
+	"custom_trains": {
+	"chtr314": {
+			"name": "CHTR 314 Series",
+			"color": "FFFF00",
+			"base_train_type": "e44_mini",
+			"description":"E44 Mini",
+			"texture_id": "mtr:chtr313.png"
+		},
+	"chtr315": {
+			"name": "CHTR 315 Series",
+			"color": "FFFF00",
+			"base_train_type": "mlr_small",
+			"description":"MLR Small",
+			"texture_id": "mtr:chtr315.png"
+		},
+	"chtr316": {
+			"name": "CHTR 316 Series",
+			"color": "FFFF00",
+			"base_train_type": "mlr_mini",
+			"description":"MLR Mini",
+			"texture_id": "mtr:chtr315.png"
+		},
+	"chtr334": {
+			"name": "CHTR 334 Series",
+			"color": "FFFF00",
+			"base_train_type": "r_train_small",
+			"description":"R-Train Small",
+			"texture_id": "mtr:chtr334.png"
+		},
+	"chtr335": {
+			"name": "CHTR 335 Series",
+			"color": "FFFF00",
+			"base_train_type": "r_train_mini",
+			"description":"R-Train Mini",
+			"texture_id": "mtr:chtr334.png"
+		},
+	"chtr327": {
+			"name": "CHTR 327 Series",
+			"color": "FFFF00",
+			"base_train_type": "a_train_tcl_small",
+			"description":"TCL CAF Train Small",
+			"texture_id": "mtr:chtr327.png"
+		},
+	"chtr329": {
+			"name": "CHTR 329 Series",
+			"color": "FFFF00",
+			"base_train_type": "a_train_ael",
+			"description":"AEL CAF Train",
+			"texture_id": "mtr:chtr329.png"
+		}
+	}
+}

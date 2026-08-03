@@ -7427,6 +7427,1723 @@
 			"hasGangway1": true,
 			"hasGangway2": true,
 			"bveSoundBaseResource":"stadtbahn_1995mod"
+		},
+        {
+            "id": "chtr700_0",
+            "name": "CHTR 700 Series",
+            "color": "E0E0E0",
+            "transportMode": "TRAIN",
+            "length": 12,
+            "width": 2,
+            "bogie1Position": -4.08,
+            "bogie2Position": 4.08,
+            "couplingPadding1": 0,
+            "couplingPadding2": 0,
+            "description": "Standard Busway",
+            "wikipediaArticle": "",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:szandorthe13th/trains/vdl_citea/vdl_citea_0_block.bbmodel",
+                    "textureResource": "mtr:chtr700.png",
+                    "modelPropertiesResource": "mtr:szandorthe13th/trains/vdl_citea/properties_vdl_citea.json",
+                    "positionDefinitionsResource": "mtr:szandorthe13th/trains/vdl_citea/definition_vdl_citea.json",
+                    "flipTextureV": false
+                }
+            ],
+            "bogie1Models": [],
+            "bogie2Models": [],
+            "hasGangway1": false,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": -0.5,
+            "bveSoundBaseResource": "vdl_citea",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0
+        },
+        {
+            "id": "chtr700_100",
+            "name": "CHTR 700 Series 100",
+            "color": "E0E0E0",
+            "transportMode": "TRAIN",
+            "length": 12,
+            "width": 2,
+            "bogie1Position": -4.08,
+            "bogie2Position": 4.08,
+            "couplingPadding1": 0,
+            "couplingPadding2": 0,
+            "description": "Partial Guided Busway",
+            "wikipediaArticle": "",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:szandorthe13th/trains/vdl_citea/vdl_citea_0_block.bbmodel",
+                    "textureResource": "mtr:chtr700_100.png",
+                    "modelPropertiesResource": "mtr:szandorthe13th/trains/vdl_citea/properties_vdl_citea.json",
+                    "positionDefinitionsResource": "mtr:szandorthe13th/trains/vdl_citea/definition_vdl_citea.json",
+                    "flipTextureV": false
+                }
+            ],
+            "bogie1Models": [],
+            "bogie2Models": [],
+            "hasGangway1": false,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": -0.5,
+            "bveSoundBaseResource": "vdl_citea",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0
+        },
+        {
+            "id": "chtr700_200",
+            "name": "CHTR 700 Series 200",
+            "color": "E0E0E0",
+            "transportMode": "TRAIN",
+            "length": 12,
+            "width": 2,
+            "bogie1Position": -4.08,
+            "bogie2Position": 4.08,
+            "couplingPadding1": 0,
+            "couplingPadding2": 0,
+            "description": "Guided Busway",
+            "wikipediaArticle": "",
+            "tags": [],
+            "models": [
+                {
+                    "modelResource": "mtr:szandorthe13th/trains/vdl_citea/vdl_citea_0_block.bbmodel",
+                    "textureResource": "mtr:chtr700_200.png",
+                    "modelPropertiesResource": "mtr:szandorthe13th/trains/vdl_citea/properties_vdl_citea.json",
+                    "positionDefinitionsResource": "mtr:szandorthe13th/trains/vdl_citea/definition_vdl_citea.json",
+                    "flipTextureV": false
+                }
+            ],
+            "bogie1Models": [],
+            "bogie2Models": [],
+            "hasGangway1": false,
+            "hasGangway2": false,
+            "hasBarrier1": false,
+            "hasBarrier2": false,
+            "legacyRiderOffset": -0.5,
+            "bveSoundBaseResource": "vdl_citea",
+            "legacySpeedSoundBaseResource": "",
+            "legacySpeedSoundCount": 1,
+            "legacyUseAccelerationSoundsWhenCoasting": false,
+            "legacyConstantPlaybackSpeed": false,
+            "legacyDoorSoundBaseResource": "",
+            "legacyDoorCloseSoundTime": 0
+        },
+{
+         "id":"chtr313_trailer",
+         "name":"CHTR 313 Series (Trailer)",
+         "color":"E7AF25",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":0,
+         "couplingPadding2":0,
+         "wikipediaArticle":"MTR_Metro_Cammell_EMU_(AC)",
+         "tags":[
+            "family:e44",
+            "iso_3166:HK",
+            "doors:2",
+            "type:trailer"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:models/vehicle/e44.bbmodel",
+               "textureResource":"mtr:chtr313.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/e44.bbmodel",
+               "textureResource":"mtr:chtr313.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_end_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/e44.bbmodel",
+               "textureResource":"mtr:chtr313.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_end_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay_mlr.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_e44_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay_mlr.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_e44_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":true,
+         "hasGangway2":true,
+         "hasBarrier1":true,
+         "hasBarrier2":true,
+         "legacySpeedSoundBaseResource":"mlr",
+         "legacySpeedSoundCount":93,
+         "legacyUseAccelerationSoundsWhenCoasting":true,
+         "legacyDoorSoundBaseResource":"m_train",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":17.0,
+         "bogie1Position":-4.5,
+         "bogie2Position":4.5
+      },
+{
+         "id":"chtr313_cab_1",
+         "name":"CHTR 313 Series (Front)",
+         "color":"E7AF25",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":1,
+         "couplingPadding2":0,
+         "wikipediaArticle":"MTR_Metro_Cammell_EMU_(AC)",
+         "tags":[
+            "family:e44",
+            "iso_3166:HK",
+            "doors:2",
+            "type:cab_1"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:models/vehicle/e44.bbmodel",
+               "textureResource":"mtr:chtr313.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/e44.bbmodel",
+               "textureResource":"mtr:chtr313.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_head_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/e44.bbmodel",
+               "textureResource":"mtr:chtr313.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_end_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay_mlr.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_e44_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay_mlr.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_e44_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":false,
+         "hasGangway2":true,
+         "hasBarrier1":false,
+         "hasBarrier2":true,
+         "legacySpeedSoundBaseResource":"mlr",
+         "legacySpeedSoundCount":93,
+         "legacyUseAccelerationSoundsWhenCoasting":true,
+         "legacyDoorSoundBaseResource":"m_train",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":17.0,
+         "bogie1Position":-4.5,
+         "bogie2Position":4.5
+      },
+{
+         "id":"chtr313_cab_2",
+         "name":"CHTR 313 Series (Back)",
+         "color":"E7AF25",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":0,
+         "couplingPadding2":1,
+         "wikipediaArticle":"MTR_Metro_Cammell_EMU_(AC)",
+         "tags":[
+            "family:e44",
+            "iso_3166:HK",
+            "doors:2",
+            "type:cab_2"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:models/vehicle/e44.bbmodel",
+               "textureResource":"mtr:chtr313.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/e44.bbmodel",
+               "textureResource":"mtr:chtr313.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_end_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/e44.bbmodel",
+               "textureResource":"mtr:chtr313.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_head_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay_mlr.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_e44_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay_mlr.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_e44_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/e44_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/e44_small.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":true,
+         "hasGangway2":false,
+         "hasBarrier1":true,
+         "hasBarrier2":false,
+         "legacySpeedSoundBaseResource":"mlr",
+         "legacySpeedSoundCount":93,
+         "legacyUseAccelerationSoundsWhenCoasting":true,
+         "legacyDoorSoundBaseResource":"m_train",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":17.0,
+         "bogie1Position":-4.5,
+         "bogie2Position":4.5
+      },
+{
+         "id":"chtr330_trailer",
+         "name":"CHTR 330 Series (Trailer)",
+         "color":"FDD900",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":0,
+         "couplingPadding2":0,
+         "wikipediaArticle":"MTR_CNR_Changchun_EMU",
+         "tags":[
+            "family:c_train",
+            "iso_3166:HK",
+            "doors:4",
+            "type:trailer"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":true,
+         "hasGangway2":true,
+         "legacySpeedSoundBaseResource":"c_train",
+         "legacySpeedSoundCount":69,
+         "legacyDoorSoundBaseResource":"sp1900",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":20.0,
+         "bogie1Position":-6.0,
+         "bogie2Position":6.0
+      },
+      {
+         "id":"chtr331_trailer",
+         "name":"CHTR 331 Series (Trailer)",
+         "color":"FDD900",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":0,
+         "couplingPadding2":0,
+         "wikipediaArticle":"MTR_CNR_Changchun_EMU",
+         "tags":[
+            "family:c_train",
+            "iso_3166:HK",
+            "doors:2",
+            "type:trailer"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":true,
+         "hasGangway2":true,
+         "legacySpeedSoundBaseResource":"c_train",
+         "legacySpeedSoundCount":69,
+         "legacyDoorSoundBaseResource":"sp1900",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":10.0,
+         "bogie1Position":-5.0,
+         "bogie2Position":5.0
+      },
+{
+         "id":"chtr330_cab_1",
+         "name":"CHTR 330 Series (Front)",
+         "color":"FDD900",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":2,
+         "couplingPadding2":0,
+         "wikipediaArticle":"MTR_CNR_Changchun_EMU",
+         "tags":[
+            "family:c_train",
+            "iso_3166:HK",
+            "doors:4",
+            "type:cab_1"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_head_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":false,
+         "hasGangway2":true,
+         "legacySpeedSoundBaseResource":"c_train",
+         "legacySpeedSoundCount":69,
+         "legacyDoorSoundBaseResource":"sp1900",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":20.0,
+         "bogie1Position":-6.0,
+         "bogie2Position":6.0
+      },
+      {
+         "id":"chtr331_cab_1",
+         "name":"CHTR 331 Series (Front)",
+         "color":"FDD900",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":2,
+         "couplingPadding2":0,
+         "wikipediaArticle":"MTR_CNR_Changchun_EMU",
+         "tags":[
+            "family:c_train",
+            "iso_3166:HK",
+            "doors:2",
+            "type:cab_1"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_head_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":false,
+         "hasGangway2":true,
+         "legacySpeedSoundBaseResource":"c_train",
+         "legacySpeedSoundCount":69,
+         "legacyDoorSoundBaseResource":"sp1900",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":10.0,
+         "bogie1Position":-1.0,
+         "bogie2Position":5.0
+      },
+{
+         "id":"chtr330_cab_2",
+         "name":"CHTR 330 Series (Back)",
+         "color":"FDD900",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":0,
+         "couplingPadding2":2,
+         "wikipediaArticle":"MTR_CNR_Changchun_EMU",
+         "tags":[
+            "family:c_train",
+            "iso_3166:HK",
+            "doors:4",
+            "type:cab_2"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_head_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":true,
+         "hasGangway2":false,
+         "legacySpeedSoundBaseResource":"c_train",
+         "legacySpeedSoundCount":69,
+         "legacyDoorSoundBaseResource":"sp1900",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":20.0,
+         "bogie1Position":-6.0,
+         "bogie2Position":6.0
+      },
+      {
+         "id":"chtr331_cab_2",
+         "name":"CHTR 331 Series (Back)",
+         "color":"FDD900",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":0,
+         "couplingPadding2":2,
+         "wikipediaArticle":"MTR_CNR_Changchun_EMU",
+         "tags":[
+            "family:c_train",
+            "iso_3166:HK",
+            "doors:2",
+            "type:cab_2"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr330.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_head_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":true,
+         "hasGangway2":false,
+         "legacySpeedSoundBaseResource":"c_train",
+         "legacySpeedSoundCount":69,
+         "legacyDoorSoundBaseResource":"sp1900",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":10.0,
+         "bogie1Position":-5.0,
+         "bogie2Position":1.0
+      },
+{
+         "id":"chtr336_trailer",
+         "name":"CHTR 336 Series (Trailer)",
+         "color":"FDD900",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":0,
+         "couplingPadding2":0,
+         "wikipediaArticle":"MTR_CNR_Changchun_EMU",
+         "tags":[
+            "family:c_train",
+            "iso_3166:HK",
+            "doors:4",
+            "type:trailer"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":true,
+         "hasGangway2":true,
+         "legacySpeedSoundBaseResource":"c_train",
+         "legacySpeedSoundCount":69,
+         "legacyDoorSoundBaseResource":"sp1900",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":20.0,
+         "bogie1Position":-6.0,
+         "bogie2Position":6.0
+      },
+      {
+         "id":"chtr337_trailer",
+         "name":"CHTR 337 Series (Trailer)",
+         "color":"FDD900",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":0,
+         "couplingPadding2":0,
+         "wikipediaArticle":"MTR_CNR_Changchun_EMU",
+         "tags":[
+            "family:c_train",
+            "iso_3166:HK",
+            "doors:2",
+            "type:trailer"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":true,
+         "hasGangway2":true,
+         "legacySpeedSoundBaseResource":"c_train",
+         "legacySpeedSoundCount":69,
+         "legacyDoorSoundBaseResource":"sp1900",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":10.0,
+         "bogie1Position":-5.0,
+         "bogie2Position":5.0
+      },
+{
+         "id":"chtr336_cab_1",
+         "name":"CHTR 336 Series (Front)",
+         "color":"FDD900",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":2,
+         "couplingPadding2":0,
+         "wikipediaArticle":"MTR_CNR_Changchun_EMU",
+         "tags":[
+            "family:c_train",
+            "iso_3166:HK",
+            "doors:4",
+            "type:cab_1"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_head_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":false,
+         "hasGangway2":true,
+         "legacySpeedSoundBaseResource":"c_train",
+         "legacySpeedSoundCount":69,
+         "legacyDoorSoundBaseResource":"sp1900",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":20.0,
+         "bogie1Position":-6.0,
+         "bogie2Position":6.0
+      },
+      {
+         "id":"chtr337_cab_1",
+         "name":"CHTR 337 Series (Front)",
+         "color":"FDD900",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":2,
+         "couplingPadding2":0,
+         "wikipediaArticle":"MTR_CNR_Changchun_EMU",
+         "tags":[
+            "family:c_train",
+            "iso_3166:HK",
+            "doors:2",
+            "type:cab_1"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_head_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":false,
+         "hasGangway2":true,
+         "legacySpeedSoundBaseResource":"c_train",
+         "legacySpeedSoundCount":69,
+         "legacyDoorSoundBaseResource":"sp1900",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":10.0,
+         "bogie1Position":-1.0,
+         "bogie2Position":5.0
+      },
+{
+         "id":"chtr336_cab_2",
+         "name":"CHTR 336 Series (Back)",
+         "color":"FDD900",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":0,
+         "couplingPadding2":2,
+         "wikipediaArticle":"MTR_CNR_Changchun_EMU",
+         "tags":[
+            "family:c_train",
+            "iso_3166:HK",
+            "doors:4",
+            "type:cab_2"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_head_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_small_base.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":true,
+         "hasGangway2":false,
+         "legacySpeedSoundBaseResource":"c_train",
+         "legacySpeedSoundCount":69,
+         "legacyDoorSoundBaseResource":"sp1900",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":20.0,
+         "bogie1Position":-6.0,
+         "bogie2Position":6.0
+      },
+      {
+         "id":"chtr337_cab_2",
+         "name":"CHTR 337 Series (Back)",
+         "color":"FDD900",
+         "transportMode":"TRAIN",
+         "width":2,
+         "couplingPadding1":0,
+         "couplingPadding2":2,
+         "wikipediaArticle":"MTR_CNR_Changchun_EMU",
+         "tags":[
+            "family:c_train",
+            "iso_3166:HK",
+            "doors:2",
+            "type:cab_2"
+         ],
+         "models":[
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_common.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_end_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:chtr330.bbmodel",
+               "textureResource":"mtr:chtr336.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/c_train_head_2.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_left.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_left_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            },
+            {
+               "modelResource":"mtr:models/vehicle/door_overlay.bbmodel",
+               "textureResource":"mtr:textures/overlay/door_overlay_s_train_right.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/s_train_door_right_overlay.json",
+               "positionDefinitionsResource":"mtr:properties/definition/urban_line_mini_base.json"
+            }
+         ],
+         "bogie1Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "bogie2Models":[
+            {
+               "modelResource":"mtr:models/vehicle/bogie_1.bbmodel",
+               "textureResource":"mtr:textures/vehicle/bogie_1.png",
+               "modelPropertiesResource":"mtr:properties/vehicle/bogie_1.json",
+               "positionDefinitionsResource":"mtr:properties/definition/origin.json"
+            }
+         ],
+         "hasGangway1":true,
+         "hasGangway2":false,
+         "legacySpeedSoundBaseResource":"c_train",
+         "legacySpeedSoundCount":69,
+         "legacyDoorSoundBaseResource":"sp1900",
+         "legacyDoorCloseSoundTime":0.5,
+         "length":10.0,
+         "bogie1Position":-5.0,
+         "bogie2Position":1.0
+      },
+{
+			"id": "chtr341_forwards",
+			"name": "CHTR 341 Series (Front)",
+			"color": "4093F0",
+			"transportMode": "TRAIN",
+			"length": 21,
+			"width": 2,
+			"bogie1Position": -7.5,
+			"bogie2Position": 7.5,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "",
+			"tags": [
+				"family:chtr341",
+				"iso_3166:HK",
+				"doors:2",
+				"type:cab_1"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_common.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_head_1.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_head_1_front.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_end_2.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_rohr_ab/bart_door_overlay_abc.bbmodel",
+					"textureResource": "mtr:bart_rohr_ab/door_sign_left.png",
+					"modelPropertiesResource": "mtr:bart_rohr_ab/bart_abc_door_left_overlay.json",
+					"positionDefinitionsResource": "mtr:bart_rohr_ab/bart_rohr_ab_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_rohr_ab/bart_door_overlay_abc.bbmodel",
+					"textureResource": "mtr:bart_rohr_ab/door_sign_right.png",
+					"modelPropertiesResource": "mtr:bart_rohr_ab/bart_abc_door_right_overlay.json",
+					"positionDefinitionsResource": "mtr:bart_rohr_ab/bart_rohr_ab_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": true,
+			"legacySpeedSoundBaseResource": "bart_chopper",
+			"legacySpeedSoundCount": 66,
+			"legacyDoorSoundBaseResource": "bart_c_car",
+			"legacyDoorCloseSoundTime": 0.6
+		},
+		{
+			"id": "chtr341_backwards",
+			"name": "CHTR 341 Series (Back)",
+			"color": "4093F0",
+			"transportMode": "TRAIN",
+			"length": 21,
+			"width": 2,
+			"bogie1Position": -7.5,
+			"bogie2Position": 7.5,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "",
+			"tags": [
+				"family:chtr341",
+				"iso_3166:HK",
+				"doors:2",
+				"type:cab_2"
+			],
+			"models": [
+			{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_common.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_head_2.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_head_2_front.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_end_1.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_rohr_ab/bart_door_overlay_abc.bbmodel",
+					"textureResource": "mtr:bart_rohr_ab/door_sign_left.png",
+					"modelPropertiesResource": "mtr:bart_rohr_ab/bart_abc_door_left_overlay.json",
+					"positionDefinitionsResource": "mtr:bart_rohr_ab/bart_rohr_ab_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_rohr_ab/bart_door_overlay_abc.bbmodel",
+					"textureResource": "mtr:bart_rohr_ab/door_sign_right.png",
+					"modelPropertiesResource": "mtr:bart_rohr_ab/bart_abc_door_right_overlay.json",
+					"positionDefinitionsResource": "mtr:bart_rohr_ab/bart_rohr_ab_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"hasGangway1": true,
+			"hasGangway2": false,
+			"legacySpeedSoundBaseResource": "bart_chopper",
+			"legacySpeedSoundCount": 66,
+			"legacyDoorSoundBaseResource": "bart_c_car",
+			"legacyDoorCloseSoundTime": 0.6
+		},
+		{
+			"id": "chtr341_forwards_midtrain",
+			"name": "CHTR 341 Series (Mid-train, front)",
+			"color": "4093F0",
+			"transportMode": "TRAIN",
+			"length": 21,
+			"width": 2,
+			"bogie1Position": -7.5,
+			"bogie2Position": 7.5,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "",
+			"tags": [
+				"family:chtr341",
+				"iso_3166:HK",
+				"doors:2",
+				"type:trailer"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_common.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_head_1.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_head_1_end.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_end_2.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_rohr_ab/bart_door_overlay_abc.bbmodel",
+					"textureResource": "mtr:bart_rohr_ab/door_sign_left.png",
+					"modelPropertiesResource": "mtr:bart_rohr_ab/bart_abc_door_left_overlay.json",
+					"positionDefinitionsResource": "mtr:bart_rohr_ab/bart_rohr_ab_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_rohr_ab/bart_door_overlay_abc.bbmodel",
+					"textureResource": "mtr:bart_rohr_ab/door_sign_right.png",
+					"modelPropertiesResource": "mtr:bart_rohr_ab/bart_abc_door_right_overlay.json",
+					"positionDefinitionsResource": "mtr:bart_rohr_ab/bart_rohr_ab_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"hasGangway1": true,
+			"hasGangway2": true,
+			"legacySpeedSoundBaseResource": "bart_chopper",
+			"legacySpeedSoundCount": 66,
+			"legacyDoorSoundBaseResource": "bart_c_car",
+			"legacyDoorCloseSoundTime": 0.6
+		},
+		{
+			"id": "chtr341_backwards_midtrain",
+			"name": "CHTR 341 Series (Mid-train, back)",
+			"color": "4093F0",
+			"transportMode": "TRAIN",
+			"length": 21,
+			"width": 2,
+			"bogie1Position": -7.5,
+			"bogie2Position": 7.5,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "",
+			"tags": [
+				"family:chtr341",
+				"iso_3166:HK",
+				"doors:2",
+				"type:trailer"
+			],
+			"models": [
+			{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_common.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_head_2.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_head_2_end.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_c/bart_c_car.bbmodel",
+					"textureResource": "mtr:chtr341.png",
+					"modelPropertiesResource": "mtr:bart_c/bart_c_end_1.json",
+					"positionDefinitionsResource": "mtr:bart_c/bart_c_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_rohr_ab/bart_door_overlay_abc.bbmodel",
+					"textureResource": "mtr:bart_rohr_ab/door_sign_left.png",
+					"modelPropertiesResource": "mtr:bart_rohr_ab/bart_abc_door_left_overlay.json",
+					"positionDefinitionsResource": "mtr:bart_rohr_ab/bart_rohr_ab_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_rohr_ab/bart_door_overlay_abc.bbmodel",
+					"textureResource": "mtr:bart_rohr_ab/door_sign_right.png",
+					"modelPropertiesResource": "mtr:bart_rohr_ab/bart_abc_door_right_overlay.json",
+					"positionDefinitionsResource": "mtr:bart_rohr_ab/bart_rohr_ab_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"hasGangway1": true,
+			"hasGangway2": true,
+			"legacySpeedSoundBaseResource": "bart_chopper",
+			"legacySpeedSoundCount": 66,
+			"legacyDoorSoundBaseResource": "bart_c_car",
+			"legacyDoorCloseSoundTime": 0.6
+		},
+{
+			"id": "chtr342_forwards",
+			"name": "CHTR 342 Series (Front)",
+			"color": "4093F0",
+			"transportMode": "TRAIN",
+			"length": 21,
+			"width": 2,
+			"bogie1Position": -7.5,
+			"bogie2Position": 7.5,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "",
+			"tags": [
+				"family:bart_movia_de",
+				"iso_3166:HK",
+				"doors:3",
+				"type:cab_1"
+			],
+			"models": [
+			{
+					"modelResource": "mtr:bart_movia_de/bart_movia_de.bbmodel",
+					"textureResource": "mtr:chtr342.png",
+					"modelPropertiesResource": "mtr:bart_movia_de/bart_movia_de_common.json",
+					"positionDefinitionsResource": "mtr:bart_movia_de/bart_movia_de_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_movia_de/bart_movia_de.bbmodel",
+					"textureResource": "mtr:chtr342.png",
+					"modelPropertiesResource": "mtr:bart_movia_de/bart_movia_d_head_1.json",
+					"positionDefinitionsResource": "mtr:bart_movia_de/bart_movia_de_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_movia_de/bart_movia_de.bbmodel",
+					"textureResource": "mtr:chtr342.png",
+					"modelPropertiesResource": "mtr:bart_movia_de/bart_movia_de_end_2.json",
+					"positionDefinitionsResource": "mtr:bart_movia_de/bart_movia_de_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": true,
+			"legacySpeedSoundBaseResource": "bart_movia_de",
+			"legacySpeedSoundCount": 72,
+			"legacyDoorSoundBaseResource": "bart_movia_de",
+			"legacyDoorCloseSoundTime": 1.0
+		},
+		{
+			"id": "chtr342_backwards",
+			"name": "CHTR 342 Series (Back)",
+			"color": "4093F0",
+			"transportMode": "TRAIN",
+			"length": 21,
+			"width": 2,
+			"bogie1Position": -7.5,
+			"bogie2Position": 7.5,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "",
+			"tags": [
+				"family:bart_movia_de",
+				"iso_3166:HK",
+				"doors:3",
+				"type:cab_2"
+			],
+			"models": [
+			{
+					"modelResource": "mtr:bart_movia_de/bart_movia_de.bbmodel",
+					"textureResource": "mtr:chtr342.png",
+					"modelPropertiesResource": "mtr:bart_movia_de/bart_movia_de_common.json",
+					"positionDefinitionsResource": "mtr:bart_movia_de/bart_movia_de_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_movia_de/bart_movia_de.bbmodel",
+					"textureResource": "mtr:chtr342.png",
+					"modelPropertiesResource": "mtr:bart_movia_de/bart_movia_d_head_2.json",
+					"positionDefinitionsResource": "mtr:bart_movia_de/bart_movia_de_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_movia_de/bart_movia_de.bbmodel",
+					"textureResource": "mtr:chtr342.png",
+					"modelPropertiesResource": "mtr:bart_movia_de/bart_movia_de_end_1.json",
+					"positionDefinitionsResource": "mtr:bart_movia_de/bart_movia_de_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"hasGangway1": true,
+			"hasGangway2": false,
+			"legacySpeedSoundBaseResource": "bart_movia_de",
+			"legacySpeedSoundCount": 72,
+			"legacyDoorSoundBaseResource": "bart_movia_de",
+			"legacyDoorCloseSoundTime": 1.0
+		},
+		{
+			"id": "chtr342",
+			"name": "CHTR 342 Series (Trailer)",
+			"color": "4093F0",
+			"transportMode": "TRAIN",
+			"length": 21,
+			"width": 2,
+			"bogie1Position": -7.5,
+			"bogie2Position": 7.5,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "",
+			"tags": [
+				"family:bart_movia_de",
+				"iso_3166:HK",
+				"doors:3",
+				"type:trailer"
+			],
+			"models": [
+			{
+					"modelResource": "mtr:bart_movia_de/bart_movia_de.bbmodel",
+					"textureResource": "mtr:chtr342.png",
+					"modelPropertiesResource": "mtr:bart_movia_de/bart_movia_de_common.json",
+					"positionDefinitionsResource": "mtr:bart_movia_de/bart_movia_de_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_movia_de/bart_movia_de.bbmodel",
+					"textureResource": "mtr:chtr342.png",
+					"modelPropertiesResource": "mtr:bart_movia_de/bart_movia_de_end_2.json",
+					"positionDefinitionsResource": "mtr:bart_movia_de/bart_movia_de_definition.json"
+				},
+				{
+					"modelResource": "mtr:bart_movia_de/bart_movia_de.bbmodel",
+					"textureResource": "mtr:chtr342.png",
+					"modelPropertiesResource": "mtr:bart_movia_de/bart_movia_de_end_1.json",
+					"positionDefinitionsResource": "mtr:bart_movia_de/bart_movia_de_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+					"textureResource": "mtr:textures/vehicle/bogie_1.png",
+					"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+					"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+				}
+			],
+			"hasGangway1": true,
+			"hasGangway2": true,
+			"legacySpeedSoundBaseResource": "bart_movia_de",
+			"legacySpeedSoundCount": 72,
+			"legacyDoorSoundBaseResource": "bart_movia_de",
+			"legacyDoorCloseSoundTime": 1.0
 		}
    ]
 }

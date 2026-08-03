@@ -1,0 +1,13 @@
+name = "[MTR4] FoameRail Pack"
+filename = "FoameRail Pack-20260802-212358.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EJRjqU7w/versions/cdSHIVBo/FoameRail%20Pack-20260802-212358.zip"
+hash-format = "sha512"
+hash = "da84e25fdf31ef1b2ebb676f121d942aa04fc11a1baf270c5ebfe05f08a181fb7c53de8f83f5e2754b6bdb94783a3442de7fdf6d043d3dd033237333acfea0c8"
+
+[update]
+[update.modrinth]
+mod-id = "EJRjqU7w"
+version = "cdSHIVBo"
