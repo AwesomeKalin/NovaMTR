@@ -14,12 +14,47 @@
 			"description":"MLR Small",
 			"texture_id": "mtr:chtr315.png"
 		},
+	"chtr315_old": {
+			"name": "CHTR 315 Series 100",
+			"color": "FFFF00",
+			"base_train_type": "mlr_small",
+			"description":"MLR Small",
+			"texture_id": "mtr:chtr_old_mlr.png"
+		},
 	"chtr316": {
 			"name": "CHTR 316 Series",
 			"color": "FFFF00",
 			"base_train_type": "mlr_mini",
 			"description":"MLR Mini",
 			"texture_id": "mtr:chtr315.png"
+		},
+	"chtr319_old": {
+			"name": "CHTR 319 Series 100",
+			"color": "FFFF00",
+			"base_train_type": "sp1900_small",
+			"description":"SP1900 Small",
+			"texture_id": "mtr:chtr_old_sp1900.png"
+		},
+	"chtr321_old": {
+			"name": "CHTR 321 Series 100",
+			"color": "FFFF00",
+			"base_train_type": "c1141a_small",
+			"description":"C1141A Small",
+			"texture_id": "mtr:chtr_old_c1141a.png"
+		},
+	"chtr323_old": {
+			"name": "CHTR 323 Series 200",
+			"color": "FFFF00",
+			"base_train_type": "k_train_small",
+			"description":"K-Train Small",
+			"texture_id": "mtr:chtr_old_k_train.png"
+		},
+	"chtr323_100_old": {
+			"name": "CHTR 323 Series 300",
+			"color": "FFFF00",
+			"base_train_type": "k_train_tcl_small",
+			"description":"K-Train TCL Small",
+			"texture_id": "mtr:chtr_old_k_train_tcl.png"
 		},
 	"chtr334": {
 			"name": "CHTR 334 Series",
@@ -41,6 +76,13 @@
 			"base_train_type": "a_train_tcl_small",
 			"description":"TCL CAF Train Small",
 			"texture_id": "mtr:chtr327.png"
+		},
+	"chtr327_old": {
+			"name": "CHTR 327 Series 100",
+			"color": "FFFF00",
+			"base_train_type": "a_train_tcl_small",
+			"description":"TCL CAF Train Small",
+			"texture_id": "mtr:chtr_old_a_train_tcl.png"
 		},
 	"chtr329": {
 			"name": "CHTR 329 Series",

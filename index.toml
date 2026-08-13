@@ -849,6 +849,34 @@ file = "resourcepacks/CHTR/assets/mtr/chtr_logo.png"
 hash = "68531945660d69fd7ff4e258d5358311cd71513623ef1e868093f1741d5deaae"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr_old_a_train_tcl.png"
+hash = "b96fee25e8e84c18a61f3c1a46ea6945983414b295bb99beba5ea85c4a45445c"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr_old_c1141a.png"
+hash = "ec7903c63a73d48c3b0e163f1c01fb43c6def28c57f1588957d70ae41e137aaa"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr_old_k_train.png"
+hash = "36c12b868cbc71b194935f320c3059c2808557357f563239105b51c17e68eea7"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr_old_k_train_tcl.png"
+hash = "531405f95afa01bb60f019ef7abbd1d67c285bdad7ad2e843545c6c292146210"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr_old_m_train.png"
+hash = "c9e36211059bfd63624c2cbb4958e1a8ffd2a843866fd49a32d4177bec42bd6f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr_old_mlr.png"
+hash = "7a329adebe0f5835fa249aa4f023290dfa795a00f4840c16b77282a0aa8f01d7"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/chtr_old_sp1900.png"
+hash = "5508a77a974863a0130dbe3daeb54409fb1b3508613015c54ed3261220a9e0f6"
+
+[[files]]
 file = "resourcepacks/CHTR/assets/mtr/chtrc761.bbmodel"
 hash = "4308cd31543bd69fb5706620aeef8a87c353985a9bfe3bc0c8cc435d43470e8c"
 
@@ -1330,11 +1358,11 @@ hash = "0c5bd19576b7c1bf7b9b3a27f29b23950438cc57581c59aab4efae3cdec54bf9"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/mtr_custom_resources.json"
-hash = "3ef5bd84aa426083bbc5520c0cb0269caed3e3856b39eda5e8f43fb526378e1b"
+hash = "746b61f4668d354f31a6c9bda10df8742626123eec01b1d93316718e562ad55d"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/mtr_custom_resources_pending_migration.json"
-hash = "705a37bedd183cba604a8ea5ba1c77deff5596a88921631a80336899927ac372"
+hash = "966d0ade29ccfe634dbd741517dff15f044847adb7aa730bed4b908934e059ce"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/properties_10f18245.json"
@@ -2742,11 +2770,15 @@ hash = "6998d7cd4ae6c3f90a3e9f15f198ff4ab663942ade1f9ce0b6e7cc11d362d8f0"
 
 [[files]]
 file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/joban_custom_resources.json"
-hash = "ef54e3a5be3862215ed1034febe894b669119b2b46df26fdb65e48eb2f1b080e"
+hash = "cfce299ed0a52d8cdb8fcf90c3784a9aed431dd72589501f322784e64c9ffac1"
 
 [[files]]
 file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/scripts/foamerail.js"
 hash = "d5b96be92a1be9568cb36d9e66885c1a8537e2a935906e5218f4ac479f4c7aee"
+
+[[files]]
+file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/scripts/foamerailold.js"
+hash = "e104f277af49f80310a618b55b00727dc731858188cb6e7721f9cefebcbdbec3"
 
 [[files]]
 file = "resourcepacks/FoameRail & TfL PIDS Pack/assets/jsblock/scripts/tfl.js"
