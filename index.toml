@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "b1c4c89a66aae512dd274d29714f0ca98f5c92157d6545b13d5e225540c41a7a"
+hash = "63d71cd4915c95ee61506b0c457dc2760b33bb7cde9aa1c225df6525466f1668"
 metafile = true
 
 [[files]]
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/magic-mtr.pw.toml"
-hash = "a50affcfb7b099f668e93b222e4fd4fcbf50448a580b681d1fadaf9b287f72ad"
+hash = "0dec1a14221b1937f6bfbcd12ab3c26ad9cf1d441386fec829b42ee74d5a5801"
 metafile = true
 
 [[files]]
@@ -2765,6 +2765,22 @@ file = "resourcepacks/DOORCLOSINGANNOUNCEMENTS.zip"
 hash = "2856ef8ea906278a15bb0f7da33b77ad578e09999e0396dd2ea758fd030da9c6"
 
 [[files]]
+file = "resourcepacks/EUPack_Main.zip"
+hash = "d3dd4530ecb8a9284a737fdde379f3cb234bf7bf2c80d2e3193c4c54f2440a24"
+
+[[files]]
+file = "resourcepacks/EUPack_Supplement.zip"
+hash = "a5b653998f128e84809cc73f27bc1dfa886ed227e4583cc7d31928392db4805c"
+
+[[files]]
+file = "resourcepacks/EUPack_Supplement2.zip"
+hash = "034730846515f8da5605531a6a557cb36f7e11753f529987b63e8479fc603d3a"
+
+[[files]]
+file = "resourcepacks/EUPack_Supplement_3.zip"
+hash = "04e9258272b21b2a83bd3113ab5e9cd285d9ece386787acca799c230e466280c"
+
+[[files]]
 file = "resourcepacks/FRP1.1.zip"
 hash = "6998d7cd4ae6c3f90a3e9f15f198ff4ab663942ade1f9ce0b6e7cc11d362d8f0"
 
@@ -4573,5 +4589,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/world-pids-pack.pw.toml"
-hash = "28cfb378e0ae84a9ad29743c4be177ec1bfeaf6e3e845fbcad2634b6fb3ad353"
+hash = "0e02fc894911dc25d752a535e5f2de7c421750ed9bdb9d6ea34849a16f6b872e"
 metafile = true
