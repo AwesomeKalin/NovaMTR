@@ -11,3 +11,8 @@ hash = "f29a69831284636642e21d43bc365866ca8dd9d845408020477b4ca6b51a230e06746c30
 [update.modrinth]
 mod-id = "9eGKb6K1"
 version = "8vW48Tnj"
+
+[option]
+optional = true
+default = false
+description = "Adds the ability to voice chat without using an external platform (e.g discord)"
