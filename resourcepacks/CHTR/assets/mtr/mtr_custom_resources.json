@@ -9406,5 +9406,46 @@
 			"legacyDoorSoundBaseResource": "bart_movia_de",
 			"legacyDoorCloseSoundTime": 1.0
 		}
-   ]
+   ],
+"objects": [
+	{
+		"id": "chtr_speaker_standing",
+        	"name": "CHTR Speaker (Standing)",
+		"description":"Does not have sounds on its own. Requires CHTR Speaker PIDS preset",
+        	"modelResource": "mtr:speakers/speaker_standing.obj",
+        	"textureResource": "mtr:speakers/speaker_standing.mtl",
+        	"color": "FFFF00",
+        	"flipTextureV": true,
+        	"translation": {"x":0,"y":0,"z":0},
+        	"rotation": {"x":0,"y":0,"z":0},
+        	"scale": {"x":1,"y":1,"z":1},
+        	"mirror": [false,false,false]
+	},
+	{
+		"id": "chtr_speaker_top",
+        	"name": "CHTR Speaker (Hanging, top)",
+		"description":"Does not have sounds on its own. Requires CHTR Speaker PIDS preset",
+        	"modelResource": "mtr:speakers/speaker_top.obj",
+        	"textureResource": "mtr:speakers/speaker_top.mtl",
+        	"color": "FFFF00",
+        	"flipTextureV": true,
+        	"translation": {"x":0,"y":0,"z":0},
+        	"rotation": {"x":0,"y":0,"z":0},
+        	"scale": {"x":1,"y":1,"z":1},
+        	"mirror": [false,false,false]
+	},
+	{
+		"id": "chtr_speaker_side",
+        	"name": "CHTR Speaker (Hanging, side)",
+		"description":"Does not have sounds on its own. Requires CHTR Speaker PIDS preset",
+        	"modelResource": "mtr:speakers/speaker_side.obj",
+        	"textureResource": "mtr:speakers/speaker_side.mtl",
+        	"color": "FFFF00",
+        	"flipTextureV": true,
+        	"translation": {"x":0,"y":0,"z":0},
+        	"rotation": {"x":0,"y":0,"z":0},
+        	"scale": {"x":1,"y":1,"z":1},
+        	"mirror": [false,false,false]
+	}
+	]
 }

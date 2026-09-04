@@ -2,24 +2,112 @@
 	"chtr_arrive": {
 		"sounds": [
 			{
-				"name": "jsblock:sounds/ta_chtr",
-				"attenuation_distance": 16
+				"name": "jsblock:ta_chtr"
 			}
 		]
 	},
 	"chtr_door_o": {
 		"sounds": [
 			{
-				"name": "jsblock:sounds/do_chtr",
-				"attenuation_distance": 16
+				"name": "jsblock:do_chtr"
 			}
 		]
 	},
 	"chtr_door_c": {
 		"sounds": [
 			{
-				"name": "jsblock:sounds/dc_chtr",
-				"attenuation_distance": 16
+				"name": "jsblock:dc_chtr"
+			}
+		]
+	},
+	"chtr_nis": {
+		"sounds": [
+			{
+				"name": "jsblock:nis_chtr"
+			}
+		]
+	},
+	"chtr_nis_next_train": {
+		"sounds": [
+			{
+				"name": "jsblock:nis_next_train_chtr"
+			}
+		]
+	},
+	"chtr_berryessa": {
+		"sounds": [
+			{
+				"name": "jsblock:nmtr_berryessa_monument"
+			}
+		]
+	},
+	"chtr_erie": {
+		"sounds": [
+			{
+				"name": "jsblock:nmtr_erie_ocean"
+			}
+		]
+	},
+	"chtr_spruce": {
+		"sounds": [
+			{
+				"name": "jsblock:nmtr_spruce_village"
+			}
+		]
+	},
+	"chtr_spawn": {
+		"sounds": [
+			{
+				"name": "jsblock:nmtr_spawn_city"
+			}
+		]
+	},
+	"chtr_redleigh": {
+		"sounds": [
+			{
+				"name": "jsblock:nmtr_redleigh_north"
+			}
+		]
+	},
+	"chtr_helston_bgl": {
+		"sounds": [
+			{
+				"name": "jsblock:nmtr_helston_bgl"
+			}
+		]
+	},
+	"chtr_helston_hsl": {
+		"sounds": [
+			{
+				"name": "jsblock:nmtr_helston_hsl"
+			}
+		]
+	},
+	"chtr_clockwise": {
+		"sounds": [
+			{
+				"name": "jsblock:nmtr_clockwise"
+			}
+		]
+	},
+	"chtr_anticlockwise": {
+		"sounds": [
+			{
+				"name": "jsblock:nmtr_anticlockwise"
+			}
+		]
+	},
+	"chtr_berks": {
+		"sounds": [
+			{
+				"name": "jsblock:nmtr_berks_west"
+			}
+		]
+	},
+	"chtr_belton": {
+		"sounds": [
+			{
+				"name": "jsblock:nmtr_belton_green"
 			}
 		]
 	}

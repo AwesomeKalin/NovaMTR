@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/jcm.pw.toml"
-hash = "63d71cd4915c95ee61506b0c457dc2760b33bb7cde9aa1c225df6525466f1668"
+hash = "64ca2fcc02740f5c0b92762635b925d3566305c17c0074f6883ed770abe7e634"
 metafile = true
 
 [[files]]
@@ -453,7 +453,7 @@ metafile = true
 
 [[files]]
 file = "mods/station-decoration.pw.toml"
-hash = "4abe581869ebd30ba223adb0756669a81016b69975ecd8aed12e606e7e9f7677"
+hash = "782cb8f80ae73e812ae2fb9ed6235be21800457fc5f0ae6aaf40133ef9f99ba8"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ hash = "dbf41eaff8d2ea70b62017a8521399a3d5b2efc689dfad7132cc719a6fc66ba4"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/jsblock/joban_custom_resources.json"
-hash = "8a4aedcca1d6e82daf122deff8e0380cda55221ef3967abb77a879b3c830bdf0"
+hash = "412f5750deacf3582e60caa6dcd07e9c81926170f3c9fc1997fea7f55acbdc1d"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/jsblock/scripts/chtr-1-block.js"
@@ -662,19 +662,75 @@ hash = "417295028fa1efeaea86f97d5c0b0277b620f210816a72e35fee491612a3e25f"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/jsblock/scripts/chtr-modern.js"
-hash = "d95b9d47c9bad0acad8d6fc96746eba23d35e6e7bbfffed216ed3b3ae9a3a4ac"
+hash = "6d3235d87f31d74e52ee4d253823ba2d4dd02daa4ad3e08f4b374fcdcf9047b2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/scripts/chtr-speaker.js"
+hash = "debe60207e81d189e155f1d94c507d3ee513f79003c09d989289d65b9954e7d5"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/jsblock/sounds.json"
-hash = "58fc01f10aa0eb8c1ef3119588ea6b189244c914942b4b7feb67f49816a9acf9"
+hash = "d1c43b6425ed67d73fd40a84ccd5773d5b170b32f5e2848c1393c5ccf7a76657"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/jsblock/sounds/dc_chtr.ogg"
-hash = "b30138dc6d9e28e3531729ae8e949caafa3d0191c3852a2564465d564a069bc0"
+hash = "58e9096f5f1db793b0dec4175ef82158e806169cfce6c05546b837cbd36fcf15"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/jsblock/sounds/do_chtr.ogg"
-hash = "ca108bb0452b6bf7749eb981748ecab809dccc01573af8b6749100b47926e2b9"
+hash = "9f8183ddb282b58cc5533f4bcfda0ecd6fbb2ea022b9abb6a304cb365f08480d"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nis_chtr.ogg"
+hash = "b31db1147c846112a3e3d27cfaaa5522ffcf16f406969e406981748529a48231"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nis_next_train_chtr.ogg"
+hash = "89d90a05aaac94e2c1b8d056fedd4714494677d99fb8cb2926ec215135f1b7df"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nmtr_anticlockwise.ogg"
+hash = "7e6623d037928e6f8469f279442b1200769ba5fef97740851330ecf02444194f"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nmtr_belton_green.ogg"
+hash = "86dd77b9816e9b7708b5c7a8639d0116dd8329c83e1506e03a051342fd65c638"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nmtr_berks_west.ogg"
+hash = "a455947abff4460c895c78c7602c7cb51d395779563514abe1fcc884d7b8b5c8"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nmtr_berryessa_monument.ogg"
+hash = "f9b8a088e34c49e256c05f5420a832abba739ba001878f8c91a41988c7fa8fde"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nmtr_clockwise.ogg"
+hash = "5cfebca11594cfbbef29dc9f12cc914b88359714f88a17defc07d789e27eec49"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nmtr_erie_ocean.ogg"
+hash = "824fdeb9ef57a7ab284126696a2928bb16199d28b6c13743d65418239d4ba7ac"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nmtr_helston_bgl.ogg"
+hash = "9bed705366bf3efd006225284596fe3fb121311f10ec5756398e0f6bfe2b26f2"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nmtr_helston_hsl.ogg"
+hash = "447afe5216d9abc92ee8672c4ca9cdb1cabdbeb27661b05381a19ac0820f90bc"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nmtr_redleigh_north.ogg"
+hash = "969e8a077aa2e04795de3dd8a0ba0906a4b6f9fa97f28ac9febf8685f1c38dd7"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nmtr_spawn_city.ogg"
+hash = "b57dba59d241254e7d209535f87e0f8afce16c7502075e35ccad26ae8d585cbc"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/jsblock/sounds/nmtr_spruce_village.ogg"
+hash = "971380af49bb3a88fba25f7a6e8978e4dfe5b97c5f93cf64a5e6b2053e8d58db"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/jsblock/sounds/ta_chtr.ogg"
@@ -1358,7 +1414,7 @@ hash = "0c5bd19576b7c1bf7b9b3a27f29b23950438cc57581c59aab4efae3cdec54bf9"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/mtr_custom_resources.json"
-hash = "746b61f4668d354f31a6c9bda10df8742626123eec01b1d93316718e562ad55d"
+hash = "6e2bf19109af34f17d02c82736b25cdd00370f447ada97c9cdd64fea81f8b945"
 
 [[files]]
 file = "resourcepacks/CHTR/assets/mtr/mtr_custom_resources_pending_migration.json"
@@ -2721,6 +2777,34 @@ file = "resourcepacks/CHTR/assets/mtr/sounds/class_802/door_open.ogg"
 hash = "0aee14e2ed194ed9879cf344fd81cbfc8043d220d00903c866a0901a73778ded"
 
 [[files]]
+file = "resourcepacks/CHTR/assets/mtr/speakers/speaker.png"
+hash = "ade1098f33b64d2d1f78481b9a2f17fef411cff242bb2132d9df45a38c135b51"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/speakers/speaker_side.mtl"
+hash = "9c8f054f9e33e79d6f2553f9f271d21ccb1a2d25b7c927ca66210f174bf88853"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/speakers/speaker_side.obj"
+hash = "3da4bd4007476e4185e02403c128a3d5be3ffde5442fc6307489d25dc572678e"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/speakers/speaker_standing.mtl"
+hash = "9c8f054f9e33e79d6f2553f9f271d21ccb1a2d25b7c927ca66210f174bf88853"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/speakers/speaker_standing.obj"
+hash = "61bbf68546658bdf5bf88a6762ebc4fd14f2c00d153e30a1c0ecec608436c234"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/speakers/speaker_top.mtl"
+hash = "9c8f054f9e33e79d6f2553f9f271d21ccb1a2d25b7c927ca66210f174bf88853"
+
+[[files]]
+file = "resourcepacks/CHTR/assets/mtr/speakers/speaker_top.obj"
+hash = "cbc256a0ee06e8e18be4a24b099ecde37b265604a4e1b9a32e5dad5f9f29d1bc"
+
+[[files]]
 file = "resourcepacks/CHTR/pack.mcmeta"
 hash = "8202c0e4d26225a5d618193dcfaa5eb4ebdba2ac54e1a54e0795d90bcf47c36f"
 
@@ -3203,6 +3287,26 @@ hash = "1d07c8f9436c61c19e65d394f97c41fd8cda69a1d19f557473ff6b5af5aed6e7"
 [[files]]
 file = "resourcepacks/JR_East_E233_Series_V1.1/pack.png"
 hash = "58946b82e963cebbb897955ff92fcaa60abcc007af130c1a62e87dbab4c1434d"
+
+[[files]]
+file = "resourcepacks/JTG Sounds/assets/minecraft/sounds.json"
+hash = "194360ae056f33ebbe94da748e99c7883f1849dbe9884606d630664477470941"
+
+[[files]]
+file = "resourcepacks/JTG Sounds/assets/minecraft/sounds/station_chimes/jtg_mrt_chime.ogg"
+hash = "4aa98985090bbd56784e2fa3e97792726c800420d0ad696b4f177355f8ae505b"
+
+[[files]]
+file = "resourcepacks/JTG Sounds/assets/minecraft/sounds/station_chimes/jtg_station_chime.ogg"
+hash = "07663f1c3f2cfd838a531d63476dbdabe66ae190fbe95f4268e2513ba385cc6f"
+
+[[files]]
+file = "resourcepacks/JTG Sounds/pack.mcmeta"
+hash = "b39cffa76e43275bb9b0296d0b5638354a0863e04ce568e76cd4eb9649bcaf6d"
+
+[[files]]
+file = "resourcepacks/JTG Sounds/pack.png"
+hash = "c59c1bda7b76e45cafb2d2b8a6e14845d92e1a7a4f15472d8727299fd3c31c70"
 
 [[files]]
 file = "resourcepacks/Japanese_PIDS.zip"

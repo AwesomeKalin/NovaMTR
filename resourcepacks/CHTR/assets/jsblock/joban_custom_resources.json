@@ -10,7 +10,15 @@
       "id": "chtr_1_block",
       "name": "CHTR PIDS (1 block)",
       "thumbnail": "mtr:chtr_logo.png",
-      "scriptFiles": ["jsblock:scripts/chtr-1-block.js"]
+      "scriptFiles": ["jsblock:scripts/chtr-1-block.js"],
+      "blacklist": ["rv_pids","rv_pids_sil_1","rv_pids_sil_2","lcd_pids","pids_1a"]
+    },
+    {
+      "id": "chtr_speaker",
+      "name": "CHTR Speaker",
+      "thumbnail": "mtr:chtr_logo.png",
+      "scriptFiles": ["jsblock:scripts/chtr-speaker.js"],
+      "blacklist": ["rv_pids","rv_pids_sil_1","rv_pids_sil_2","lcd_pids","pids_1a"]
     }
   ]
 }
