@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/effortless.pw.toml"
-hash = "b9f54476b8fd406728130ebc2cce3a706fcf017ccaaf6ba2fc8737ebaa59b900"
+hash = "97a5c00b4c2c13d50acad2c0d2947ca47e3210aa108a16327e8419b14cb2731d"
 metafile = true
 
 [[files]]
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "15a2a2b64ce2acc534793268a84f76e1f46cbccd409633879b1655afeb0b85c7"
+hash = "8ed15cb2871a6f53886811b24eb931413068def7356d5787ba6b2e455138f7df"
 metafile = true
 
 [[files]]
@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+hash = "dae8e10058f191372b49bc31c8c5213ed56c902225c37d7c4b20d5259c9bc282"
 metafile = true
 
 [[files]]
@@ -2917,6 +2917,10 @@ file = "resourcepacks/FoameRail & TfL PIDS Pack/pack.png"
 hash = "16551df41a0e39fc4033f30f0c518ebdd6ebc52e79833f7d6351559b92eae54b"
 
 [[files]]
+file = "resourcepacks/FoameRail Pack.zip"
+hash = "befb1b651abbde22a57900f86f64f40cf6a5a47a1987ae2cc13821bcf72999ea"
+
+[[files]]
 file = "resourcepacks/IVR - Japan Sign Pack v.1.0.0.zip"
 hash = "b82157fe6f67d2d144ca1a5172b6a6de0d311d0837c6db5c015b162df8348fbe"
 
@@ -4365,11 +4369,6 @@ hash = "ea5185ab574bd252f91a457bb997b07848ffcc2fb83cc4cf70eab89ab31dd9b5"
 metafile = true
 
 [[files]]
-file = "resourcepacks/foamerail-pack.pw.toml"
-hash = "97cef28625aaf45c7fb17895b4b5527572561dc7083f01e6f659d459ee35dcab"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fudgemeow's idiotness 1.3.zip"
 hash = "8a85d1af906917bdb65763632d2aa435e183da72b6e868ed6832b802fa0686b2"
 
@@ -4411,6 +4410,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/lert-nir3k-4k.pw.toml"
 hash = "549c069b91f7a49d85552b06eb3d37784d9eb30d26726f8be766a8ac3fe1595a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lert-q-train.pw.toml"
+hash = "51dedfd2213022263e13c163df8ed4f19046c415cd4ea5ddbe93e15129663b4f"
 metafile = true
 
 [[files]]

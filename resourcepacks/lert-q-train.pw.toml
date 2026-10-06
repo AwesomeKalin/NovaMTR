@@ -1,0 +1,13 @@
+name = "[MTR4] Low Effort MTR Q-Train"
+filename = "LERT Q-Train.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lncdOGCF/versions/Fqo8daYz/LERT%20Q-Train.zip"
+hash-format = "sha512"
+hash = "49a5e203b412771347610894ecf343835b36eed947b215fa4cc9fb27310869f8472b11e069282887525211f615cac45a4b7cdee5ebc2e48f7a2592665255f2fa"
+
+[update]
+[update.modrinth]
+mod-id = "lncdOGCF"
+version = "Fqo8daYz"

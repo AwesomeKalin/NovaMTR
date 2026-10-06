@@ -11,3 +11,7 @@ hash = "26b2b9e914597541eef2e804294189d462da46508e00ed3f67e270c0107420aff0304fd3
 [update.modrinth]
 mod-id = "EF68hjiy"
 version = "OswWvyth"
+
+[option]
+optional = true
+description = "Building tool for building structures quickly."
