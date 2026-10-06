@@ -2917,10 +2917,6 @@ file = "resourcepacks/FoameRail & TfL PIDS Pack/pack.png"
 hash = "16551df41a0e39fc4033f30f0c518ebdd6ebc52e79833f7d6351559b92eae54b"
 
 [[files]]
-file = "resourcepacks/FoameRail Pack.zip"
-hash = "befb1b651abbde22a57900f86f64f40cf6a5a47a1987ae2cc13821bcf72999ea"
-
-[[files]]
 file = "resourcepacks/IVR - Japan Sign Pack v.1.0.0.zip"
 hash = "b82157fe6f67d2d144ca1a5172b6a6de0d311d0837c6db5c015b162df8348fbe"
 
@@ -4366,6 +4362,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/eths.pw.toml"
 hash = "ea5185ab574bd252f91a457bb997b07848ffcc2fb83cc4cf70eab89ab31dd9b5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/foamerail-pack.pw.toml"
+hash = "5a341daf3a72338b9a977e795f9b6fe833e13b7782ca07f7d2dc52a7b2e25c5b"
 metafile = true
 
 [[files]]
