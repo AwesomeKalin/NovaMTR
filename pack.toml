@@ -1,12 +1,12 @@
 name = "Nova MTR"
 author = "AwesomeKalin55, Quanti, Curt"
-version = "41-hotfix"
+version = "41-hotfix-2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ca7c341d7be7d9567bcbdd75ec6d12f16690ec452bd3a4795ba9e38ed5edf385"
+hash = "6ec17147bb958dee1d1a911a1634471d81411339f13d26e739c7af6df5d9a203"
 
 [versions]
 fabric = "0.20.1"
