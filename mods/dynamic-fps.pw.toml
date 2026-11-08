@@ -1,18 +1,17 @@
 name = "Dynamic FPS"
-filename = "dynamic-fps-3.9.5+minecraft-1.20.0-fabric.jar"
+filename = "dynamic-fps-3.11.4+minecraft-1.20.0-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/D9mrJwm0/dynamic-fps-3.9.5%2Bminecraft-1.20.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/QwPQBhiQ/dynamic-fps-3.11.4%2Bminecraft-1.20.0-fabric.jar"
 hash-format = "sha512"
-hash = "8f6769b6ae3736e2481f0b4caea385ad6656b60b2493a1a746a3f0678e976494f7a0488ac4baa80531a38e8d64b1a61654ee97c238dc9b0e12347bdc6623520e"
+hash = "3689a13abe56e02adc3ee96bb0426b185c7ae02588bbea1a3f350414768c260d0436682a7f59418bdd62306bc486af0b6184a24c50666e47b662993d2b789a14"
 
 [update]
 [update.modrinth]
 mod-id = "LQ3K71Q1"
-version = "D9mrJwm0"
+version = "QwPQBhiQ"
 
 [option]
 optional = true
-default = false
 description = "Slows down Minecraft when not actively playing to improve system performance"

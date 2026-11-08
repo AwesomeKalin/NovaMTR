@@ -1,13 +1,13 @@
 name = "[MTR4] JR East E531 Series | JR東日本 E531系"
-filename = "JR_East_E531_Series_ver1.0.zip"
+filename = "JR_East_E531_Series_ver1.2.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vZBnv2y8/versions/d7VI4VwB/JR_East_E531_Series_ver1.0.zip"
+url = "https://cdn.modrinth.com/data/vZBnv2y8/versions/3ANpR8QK/JR_East_E531_Series_ver1.2.zip"
 hash-format = "sha512"
-hash = "9178f4bae21c9b09a621ac003012aba64bcfea81def0526e83801abc424840ed7b2ccf937ed65d1c98163d80803806f1fc235371142aac473d4cdcd58a025d87"
+hash = "262abd4dbc77558059682e67e178f777e0065d5dcc6684bb64d5093aea7fcd338796178154257df389ce4e73a263b9682a88ce8a2926f0ae1f33a33d08236ce0"
 
 [update]
 [update.modrinth]
 mod-id = "vZBnv2y8"
-version = "d7VI4VwB"
+version = "3ANpR8QK"

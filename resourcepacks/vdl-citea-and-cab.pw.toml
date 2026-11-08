@@ -1,13 +1,13 @@
 name = "[MTR4] VDL Citea and Cab"
-filename = "MTR4_citea_and_cab_mtr4_250702.zip"
+filename = "MTR4_citea_and_cab_260906.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/dL7twluD/versions/xZBoVW26/MTR4_citea_and_cab_mtr4_250702.zip"
+url = "https://cdn.modrinth.com/data/dL7twluD/versions/Zy1k7IbC/MTR4_citea_and_cab_260906.zip"
 hash-format = "sha512"
-hash = "3c2f0f17b0a6f12f137efa8dd96366750cf4ef780994fcddf2325b85618583c0e4144449ff80849a69024d8d4278642ac5f3ebd44b09f78598a0c4ab41214a99"
+hash = "78eb65d14efed46cf4564894cf0325d3c8d5224f863bc8f5c92e849fe981834e91bc4f6ee26860ce2f757e3c569b1bc9d3d3cf66b9e9fc122287cddad0a67247"
 
 [update]
 [update.modrinth]
 mod-id = "dL7twluD"
-version = "xZBoVW26"
+version = "Zy1k7IbC"
