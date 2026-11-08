@@ -1,11 +1,11 @@
 name = "WATERMEDIA: Multimedia Binaries"
-filename = "watermedia_binaries-3.0.1.jar"
+filename = "wm_binaries-3.0.0-rc.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4997XcoK/versions/HTKcN2sw/watermedia_binaries-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/4997XcoK/versions/YPnd5nbu/wm_binaries-3.0.0-rc.1.jar"
 hash-format = "sha512"
-hash = "5bd707bb0436987ca5fbfb3f77725040da04b55caf8c84dc7b8006b9632630d045650de811e9e4406912efa4e0584c9330c1539391e81bb0f789ed141df60918"
+hash = "9ca5461c910df4600fb0f87f2a3700b6e7e2ffba3326e4b3a8211aaf2d37ddef5a04c654c1af607cf609d97d23603177dd0f666643d35f54f849c8f167fdceed"
 
 [update]
 [update.modrinth]
