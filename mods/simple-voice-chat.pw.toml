@@ -1,18 +1,17 @@
 name = "Simple Voice Chat"
-filename = "voicechat-fabric-1.20.1-2.5.36.jar"
+filename = "voicechat-fabric-1.20.1-2.6.27.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/8vW48Tnj/voicechat-fabric-1.20.1-2.5.36.jar"
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/1K7XoPeL/voicechat-fabric-1.20.1-2.6.27.jar"
 hash-format = "sha512"
-hash = "f29a69831284636642e21d43bc365866ca8dd9d845408020477b4ca6b51a230e06746c30cf7532e0637c8f8354241f15450d9450a4cf18b82ecf30bf058b93e4"
+hash = "b4edad0fed2b7d868969a4b0c126db41b3ac3bc41a90319d52666d50acd0eb30d1941315666990cb6e3f389dabc463a7e3252e148c876f0cd874307b528cd34d"
 
 [update]
 [update.modrinth]
 mod-id = "9eGKb6K1"
-version = "8vW48Tnj"
+version = "1K7XoPeL"
 
 [option]
 optional = true
-default = false
 description = "Adds the ability to voice chat without using an external platform (e.g discord)"

@@ -1,13 +1,13 @@
 name = "Renfe repaints"
-filename = "MTR Renfe Repaints.zip"
+filename = "MTR RENFE ADDON Extension.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/xnkDoLqQ/versions/lPhhXQcZ/MTR%20Renfe%20Repaints.zip"
+url = "https://cdn.modrinth.com/data/xnkDoLqQ/versions/UrZGWIYI/MTR%20RENFE%20ADDON%20Extension.zip"
 hash-format = "sha512"
-hash = "e616fe59877d95e82ccbc728108f0069b92b9733ceb39eed60a6b45ead1950a007b4c7a8abbbd617a245a475daa766dc434851bd1ec16d90e5c96c5dbdaef94f"
+hash = "01c878c2060e07bdbf6c2e68ee0a6e917fcb44a77f71bc52ad1926348f6f56cb5c4ab5cb1caf131a22cbfd18517e2ff2759422c3021e03fc31cdb90bfac47926"
 
 [update]
 [update.modrinth]
 mod-id = "xnkDoLqQ"
-version = "lPhhXQcZ"
+version = "UrZGWIYI"

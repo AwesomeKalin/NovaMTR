@@ -1,13 +1,13 @@
 name = "Mishang Urban Construction"
-filename = "mishanguc-1.6.0-1.20.1.jar"
+filename = "mishanguc-1.6.5+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rItLmRo4/versions/IQ1Styo8/mishanguc-1.6.0-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/rItLmRo4/versions/O2gqVaaH/mishanguc-1.6.5%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "5528fe9cac200451e155d9467ba9f18a09b3ef6de66ea29d1d0b1988e040206cc7a35b99aabee96e4afe5977b3c54834b66ed4b79ad76c29e9abc841133c651a"
+hash = "512d66a6a30cfff86751b7686c07774a6e41c84bcaadd9488cc0ac1eed2a63acb3622b1798822fe67bf6d99da2a31c495f124d02d93cb0156eeb1f5b68daa6d7"
 
 [update]
 [update.modrinth]
 mod-id = "rItLmRo4"
-version = "IQ1Styo8"
+version = "O2gqVaaH"

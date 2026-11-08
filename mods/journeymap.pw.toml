@@ -1,18 +1,17 @@
 name = "JourneyMap"
-filename = "journeymap-1.20.1-5.10.3-fabric.jar"
+filename = "journeymap-fabric-1.20.1-6.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/ThfZM7jC/journeymap-1.20.1-5.10.3-fabric.jar"
+url = "https://cdn.modrinth.com/data/lfHFW1mp/versions/Dk3AKHGe/journeymap-fabric-1.20.1-6.0.7.jar"
 hash-format = "sha512"
-hash = "0e6d7e5a179fcc531eea19ac5333b90abc45bf1a5b63daddf5266ba14e317eab160d209592dda9593575e0b4346604215ba94be037cb2ab1910db29ab6d63a75"
+hash = "9a6b9bbdf1d0e7532ede179cb47ca07626d9df3a27d3bb4472b77dfa2ef010ccd2bea40a3f47f048ffe095d103a42dd492b1cc43c0f06349c0e67933b866692e"
 
 [update]
 [update.modrinth]
 mod-id = "lfHFW1mp"
-version = "ThfZM7jC"
+version = "Dk3AKHGe"
 
 [option]
 optional = true
-default = false
 description = "Adds a Minimap and a World map"
