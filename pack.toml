@@ -1,6 +1,6 @@
 name = "Nova MTR"
 author = "AwesomeKalin55, Quanti, Curt"
-version = "40"
+version = "41-hotfix"
 pack-format = "packwiz:1.1.0"
 
 [index]
