@@ -484,7 +484,7 @@ metafile = true
 
 [[files]]
 file = "mods/tianjin-metro.pw.toml"
-hash = "e66b2d099c2be9f21e07f9fedff19f8b811fbbd3840c9a03078338c99ed9005f"
+hash = "0be8f02fe3d846b8495e851cb2de9b1a1324f50b40c915d310001dc7ead0494f"
 metafile = true
 
 [[files]]
