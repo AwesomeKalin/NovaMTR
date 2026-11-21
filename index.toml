@@ -5,10 +5,6 @@ file = "config/yosbr/options.txt"
 hash = "42fcaf153b8fa9ac37b06c3f916357ad531e38ee9723ec690964b01dc3ffe338"
 
 [[files]]
-file = "mods/MTR-Renfe-Addon-fabric-4.0.2-V4.0.1+1.20.1 (1).jar"
-hash = "fd99d13a211b76eff0c5439aa308903de2032fb43368b99e9be8bb60d330272b"
-
-[[files]]
 file = "mods/addonslib.pw.toml"
 hash = "a6f49f342bc308d53aec89978db4ee060923421cf42e69b9b284f0ab22647d52"
 metafile = true
@@ -36,11 +32,6 @@ metafile = true
 [[files]]
 file = "mods/blockus.pw.toml"
 hash = "5a8d353bab343c487cf35c1007e57d7768d3f5a48da0b7a26f5acf3f4708a880"
-metafile = true
-
-[[files]]
-file = "mods/clicksigns.pw.toml"
-hash = "434d91bd23e13954dc0c2afe1172f3aea019fef4639f3afd901b48929f51d889"
 metafile = true
 
 [[files]]
@@ -86,16 +77,6 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "f76188c6e4714a70ea367d7f7a566b05c935a9f19e23f0352f4eb0271a985376"
-metafile = true
-
-[[files]]
-file = "mods/create-power-loader-fabric.pw.toml"
-hash = "d3894b75b470185c7d987d6b19b9837fe3fefd1317969c936c2da5c50f84d970"
-metafile = true
-
-[[files]]
-file = "mods/create-steam-n-rails.pw.toml"
-hash = "7c01fb6fca963567ccb0cc5bd3780e99a712f44b96c4c65c993163e7c20e3277"
 metafile = true
 
 [[files]]
@@ -155,11 +136,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "a2a3caa3e641c65f700ea73f0bb5f9de09893d0dd4894852cdb1b717f2f6e527"
-metafile = true
-
-[[files]]
-file = "mods/escalated.pw.toml"
-hash = "bd53d70498bdf8529b0d4402706fc1791c508d4a6ae0d5676dbbdf1ed8786faa"
 metafile = true
 
 [[files]]
@@ -225,11 +201,6 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "493ed95320ee3cc9c2def86b9d0971c2ca4bb4215921c2a11208bee77d5dbfb5"
-metafile = true
-
-[[files]]
-file = "mods/highspeed-rail.pw.toml"
-hash = "0142ceedca9de54e076523f3aaeff3551cabb6ddfa387e213d204b2425e630fb"
 metafile = true
 
 [[files]]
@@ -308,11 +279,6 @@ hash = "4a7a7460f802eaf18bb298e31c4925a38e5e649ff11b08c61a5f88c03b886749"
 metafile = true
 
 [[files]]
-file = "mods/magic-mtr.pw.toml"
-hash = "ce705335fca83ca53c458bba2ae7c0a6afc163f54740cdbb5d251e3a88cc3069"
-metafile = true
-
-[[files]]
 file = "mods/mcr_blahaj.pw.toml"
 hash = "62830320ba2a100ac8e5d497b18cdcc9ae4311f71cbcbc8a3dce55178dc58de5"
 metafile = true
@@ -330,11 +296,6 @@ metafile = true
 [[files]]
 file = "mods/metropolis.pw.toml"
 hash = "dfe311c0b4a6830892f71229e350392276caa8ca620ae07089ae6ba18349e416"
-metafile = true
-
-[[files]]
-file = "mods/miku-plushies.pw.toml"
-hash = "208ec2c6ee35d39a7912ecb8d639ca1f55556b764176014c4df111db99ee9204"
 metafile = true
 
 [[files]]
@@ -363,9 +324,8 @@ hash = "fc18d9447a144e61755a405ba972c3786b711719a303c960584f6e295db5b668"
 metafile = true
 
 [[files]]
-file = "mods/mtr-london-underground-trains.pw.toml"
-hash = "c4af43f49269765b101f671e64569476afec4147ac395140b30d9d69f5b87326"
-metafile = true
+file = "mods/nmtr-locometal-1.0.0.jar"
+hash = "245a4193ab3a8f71d34d3e5ff20f121de7c2aa6e39531e1c89ee724d8a1220d6"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
@@ -423,11 +383,6 @@ hash = "3be2dcab608b38e2df94db4018fce171287fb8ee71ec9d12e08f75202ad4780d"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "7a053872b018a5da1725388a7d534ed4a4cee96645555637d905324ef7cf22c9"
-metafile = true
-
-[[files]]
 file = "mods/skinrestorer.pw.toml"
 hash = "ac96fca535289d56336f8931ffde0366a39be9e09a9776997bf41c0d3c9d4864"
 metafile = true
@@ -470,11 +425,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "ed83bb78d1d849e5e94d2bc0fdce9122107a4c2cc9ae3a724ffbd83cbe3ca42f"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
 metafile = true
 
 [[files]]
@@ -560,11 +510,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
-metafile = true
-
-[[files]]
-file = "mods/yuushya-modelling.pw.toml"
-hash = "bc8f147d75a4e7e14aecb818f861b8207ba2158310931a05481afdc3403efe82"
 metafile = true
 
 [[files]]
